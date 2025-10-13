@@ -45,8 +45,8 @@ function renderBags() {
         </div>
       </div>
     `
-    )
-    .join("");
+  )
+  .join("");
 
   // ページネーション
   pagination.innerHTML = "";
