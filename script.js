@@ -35,7 +35,7 @@ function renderBags() {
       <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
         <div class="flex space-x-2 justify-center">
           ${bag.images.map(img =>
-            <img src="${bag.image}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 p-2" />
+            <img src="${img}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded" />
           ').jpin('')}
         </div>
         <div class="mt-3 text-center">
