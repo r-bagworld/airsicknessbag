@@ -21,6 +21,6 @@
     "country": "Germany",
     "year": "2000s",
     "description": "黄色のクレーンロゴが目を引くデザイン。",
-    "image": "images/lufthansa_2000.jpg"
+    "image": ["images/lufthansa_2000.jpg",".jpg"]
   }
 ]
