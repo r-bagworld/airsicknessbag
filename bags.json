@@ -3,7 +3,7 @@
     "airline": "JAL",
     "country": "Japan",
     "year": "2019年〜",
-    "description": "",
+    "description": "FSC認証追加",
     "images": [
       "images/IMG_9251.jpg",
       "images/IMG_9252.jpg"
@@ -73,7 +73,7 @@
     "airline": "JAL",
     "country": "Japan",
     "year": "2006~2007年",
-    "description": "",
+    "description": "Dマーク",
     "images": [
       "images/IMG_9265.jpg",
       "images/IMG_9266.jpg"
@@ -83,7 +83,7 @@
     "airline": "JAL",
     "country": "Japan",
     "year": "2006~2007年",
-    "description": "",
+    "description": "Jマーク",
     "images": [
       "images/IMG_9269.jpg",
       "images/IMG_9270.jpg"
@@ -93,7 +93,7 @@
     "airline": "JAL",
     "country": "Japan",
     "year": "2003-2006年",
-    "description": "",
+    "description": "無印",
     "images": [
       "images/IMG_9272.jpg",
       "images/IMG_9273.jpg"
@@ -103,7 +103,7 @@
     "airline": "JAL",
     "country": "Japan",
     "year": "2003-2006年",
-    "description": "",
+    "description": "cマーク",
     "images": [
       "images/IMG_9274.jpg",
       "images/IMG_9275.jpg"
@@ -180,17 +180,17 @@
     ]
   },
   {
-    "airline": "ジェットスタージャパン（日本汎用）",
+    "airline": "ジェットスタージャパン",
     "country": "Japan",
     "year": "2024年-",
-    "description": "",
+    "description": "日本汎用",
     "images": [
       "images/IMG_2562.jpg",
       "images/IMG_2564.jpg"
     ]
   },
   {
-    "airline": "ジェットスタージャパン（日本汎用）",
+    "airline": "ジェットスタージャパン",
     "country": "Japan",
     "year": "-2024年",
     "description": "",
@@ -263,7 +263,7 @@
     "airline": "日本エアシステム",
     "country": "Japan",
     "year": "1990年代",
-    "description": "",
+    "description": "PAT.P 記載あり",
     "images": [
       "images/IMG_9300.jpg",
       "images/IMG_9301.jpg"
@@ -273,7 +273,7 @@
     "airline": "日本エアシステム",
     "country": "Japan",
     "year": "1990年代",
-    "description": "",
+    "description": "PAT.P 記載なし",
     "images": [
       "images/IMG_9303.jpg",
       "images/IMG_9304.jpg"
@@ -333,7 +333,7 @@
     "airline": "ANA",
     "country": "Japan",
     "year": "2023-24年",
-    "description": "",
+    "description": "FSC認証追加",
     "images": [
       "images/IMG_2571.jpg",
       "images/IMG_2572.jpg"
@@ -550,10 +550,10 @@
     ]
   },
   {
-    "airline": "スカイマーク（ピカチュウ仕様）",
+    "airline": "スカイマーク",
     "country": "Japan",
     "year": "2021年-",
-    "description": "",
+    "description": "ポケモンジェット限定",
     "images": [
       "images/IMG_2577.jpg",
       "images/IMG_2578.jpg"
@@ -612,7 +612,7 @@
   {
     "airline": "JR九州高速船ビートル",
     "country": "Japan",
-    "year": "",
+    "year": "2020年ごろ",
     "description": "",
     "images": [
       "images/IMG_9363.jpg",
@@ -620,23 +620,103 @@
     ]
   },
   {
-    "airline": "砕氷船おーろら号（日本汎用）",
+    "airline": "砕氷船おーろら号",
     "country": "Japan",
-    "year": "",
-    "description": "",
+    "year": "2020年代前半",
+    "description": "日本汎用",
     "images": [
       "images/IMG_2583.jpg",
       "images/IMG_2584.jpg"
     ]
   },
   {
-    "airline": "砕氷船おーろら号（日本汎用）",
+    "airline": "砕氷船おーろら号",
     "country": "Japan",
-    "year": "",
-    "description": "",
+    "year": "2020年代前半",
+    "description": "日本汎用",
     "images": [
       "images/",
       "images/"
+    ]
+  },
+  {
+    "airline": "中国国際航空",
+    "country": "China",
+    "year": "2020年頃-",
+    "description": "",
+    "images": [
+      "images/IMG_2587.jpg",
+      "images/IMG_2588.jpg"
+    ]
+  },
+  {
+    "airline": "中国国際航空",
+    "country": "China",
+    "year": "2010年代-",
+    "description": "",
+    "images": [
+      "images/IMG_2589.jpg",
+      "images/IMG_2590.jpg"
+    ]
+  },
+  {
+    "airline": "中国国際航空",
+    "country": "China",
+    "year": "2000年代後半",
+    "description": "開口部矢印あり",
+    "images": [
+      "images/IMG_2591.jpg",
+      "images/IMG_2592.jpg"
+    ]
+  },
+  {
+    "airline": "中国国際航空",
+    "country": "China",
+    "year": "2000年代後半",
+    "description": "開口部矢印なし",
+    "images": [
+      "images/IMG_2593.jpg",
+      "images/IMG_2594.jpg"
+    ]
+  },
+  {
+    "airline": "中国国際航空",
+    "country": "China",
+    "year": "1990年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_2595.jpg",
+      "images/IMG_2596.jpg"
+    ]
+  },
+  {
+    "airline": "深圳航空",
+    "country": "China",
+    "year": "2024年",
+    "description": "",
+    "images": [
+      "images/IMG_2597.jpg",
+      "images/IMG_2598.jpg"
+    ]
+  },
+  {
+    "airline": "深圳航空",
+    "country": "China",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_2599.jpg",
+      "images/IMG_2600.jpg"
+    ]
+  },
+  {
+    "airline": "深圳航空",
+    "country": "China",
+    "year": "2000年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_2601.jpg",
+      "images/IMG_2602.jpg"
     ]
   },
   {
@@ -653,7 +733,7 @@
     "airline": "中国東方航空",
     "country": "China",
     "year": "2018-20年代前半",
-    "description": "",
+    "description": "+JCマーク",
     "images": [
       "images/",
       "images/"
@@ -663,7 +743,7 @@
     "airline": "中国東方航空",
     "country": "China",
     "year": "2018-20年代前半",
-    "description": "",
+    "description": "+マーク",
     "images": [
       "images/IMG_9374.jpg",
       "images/IMG_9375.jpg"
@@ -673,7 +753,7 @@
     "airline": "中国東方航空",
     "country": "China",
     "year": "2018-20年代前半",
-    "description": "",
+    "description": "SUO-MA",
     "images": [
       "images/",
       "images/"
@@ -693,7 +773,7 @@
     "airline": "中国東方航空",
     "country": "China",
     "year": "00年代後半-10年代前半",
-    "description": "",
+    "description": "紫ver",
     "images": [
       "images/IMG_9378.jpg",
       "images/IMG_9379.jpg"
@@ -703,7 +783,7 @@
     "airline": "中国東方航空",
     "country": "China",
     "year": "00年代後半-10年代前半",
-    "description": "",
+    "description": "青ver",
     "images": [
       "images/IMG_9380.jpg",
       "images/IMG_9381.jpg"
@@ -723,7 +803,7 @@
     "airline": "上海航空",
     "country": "China",
     "year": "2010年代後半-",
-    "description": "",
+    "description": "赤ver",
     "images": [
       "images/IMG_9384.jpg",
       "images/IMG_9385.jpg"
@@ -733,7 +813,7 @@
     "airline": "上海航空",
     "country": "China",
     "year": "2010年代後半-",
-    "description": "",
+    "description": "黒ver",
     "images": [
       "images/IMG_9386.jpg",
       "images/IMG_9387.jpg"
