@@ -38,7 +38,7 @@ function renderBags() {
             <img src="${img}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded" />
           `).join('')}
         </div>
-        <div class="mt-3 text-center">
+        <div class="mt-3 text-left">
           <h2 class="text-lg font-semibold">${bag.airline}</h2>
           <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
           <p class="text-sm mt-2">${bag.description}</p>
