@@ -5,7 +5,7 @@
     "country": "Japan",
     "year": "2020年代前半",
     "description": "WIFI接続情報が記された実用的なデザイン。",
-    "image": "images/IMG_2569.jpg"
+    "image": ["images/IMG_2569.jpg","images/.jpg"]
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "country": "Japan",
     "year": "2020年代前半",
     "description": "黒く文字は大きめでシックなデザイン。",
-    "image": "images/IMG_9251.jpg"
+    "image": ["images/IMG_9251.jpg","images/.jpg"]
   },
   {
     "id": 3,
