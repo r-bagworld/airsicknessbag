@@ -34,7 +34,7 @@ function renderBags() {
       (bag) => `
       <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
         <div class="flex space-x-2 justify-center">
-          ${bag.images.map(img =>
+          ${bag.images.map(img =>`
             <img src="${img}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded" />
           `).join('')}
         </div>
