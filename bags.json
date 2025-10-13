@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "airline": "ANA",
+    "country": "Japan",
+    "year": "1990s",
+    "description": "青いストライプが印象的なクラシックデザイン。",
+    "image": "images/IMG_2569.jpg"
+  },
+  {
+    "id": 2,
+    "airline": "JAL",
+    "country": "Japan",
+    "year": "1985",
+    "description": "赤い鶴丸ロゴが特徴的なデザイン。",
+    "image": "images/IMG_9251.jpg"
+  },
+  {
+    "id": 3,
+    "airline": "Lufthansa",
+    "country": "Germany",
+    "year": "2000s",
+    "description": "黄色のクレーンロゴが目を引くデザイン。",
+    "image": "images/lufthansa_2000.jpg"
+  }
+]
