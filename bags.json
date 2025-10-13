@@ -3,16 +3,16 @@
     "id": 1,
     "airline": "ANA",
     "country": "Japan",
-    "year": "1990s",
-    "description": "青いストライプが印象的なクラシックデザイン。",
+    "year": "2020年代前半",
+    "description": "WIFI接続情報が記された実用的なデザイン。",
     "image": "images/IMG_2569.jpg"
   },
   {
     "id": 2,
     "airline": "JAL",
     "country": "Japan",
-    "year": "1985",
-    "description": "赤い鶴丸ロゴが特徴的なデザイン。",
+    "year": "2020年代前半",
+    "description": "黒く文字は大きめでシックなデザイン。",
     "image": "images/IMG_9251.jpg"
   },
   {
