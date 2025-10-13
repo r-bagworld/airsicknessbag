@@ -32,9 +32,13 @@ function renderBags() {
   container.innerHTML = pageItems
     .map(
       (bag) => `
-      <div class="card bg-white rounded-xl shadow-sm overflow-hidden">
-        <img src="${bag.image}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 p-2" />
-        <div class="p-3">
+      <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
+        <div class="flex space-x-2 justify-center">
+          ${bag.images.map(img =>
+            <img src="${bag.image}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 p-2" />
+          ').jpin('')}
+        </div>
+        <div class="mt-3 text-center">
           <h2 class="text-lg font-semibold">${bag.airline}</h2>
           <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
           <p class="text-sm mt-2">${bag.description}</p>
