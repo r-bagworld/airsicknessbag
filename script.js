@@ -36,7 +36,7 @@ function renderBags() {
         <div class="flex space-x-2 justify-center">
           ${bag.images.map(img =>
             <img src="${img}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded" />
-          ').join('')}
+          `).join('')}
         </div>
         <div class="mt-3 text-center">
           <h2 class="text-lg font-semibold">${bag.airline}</h2>
