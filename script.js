@@ -31,23 +31,33 @@ function renderBags() {
 
   container.innerHTML = pageItems
     .map(
-      (bag) => `
+      (bag,index) => `
       <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
-        <div class="flex space-x-2 justify-center">
-          ${bag.images.map((img, i) =>`
-            <img src="${img}" alt="${bag.airline}"
-              class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded ${i > 0 ? 'hidden sm:block' : ''}" />
-          `).join('')}
+        <div class="swiper mySwiper-${index}">
+          <div class="swiper-wrapper">
+            ${bag.images
+              .map(
+                (img) =>`
+              <div class="swiper-slide flex justify-center">
+                <img src="${img}" alt="${bag.airline}"
+                  class="w-32 max-h-80 object-contain bg-gray-100 rounded" />
+              </div>
+            `
+              )
+              .join('')}
+          </div>
+          <!-- ページネーションの点 -->
+          <div class="swiper-pagination"></div>
         </div>
         <div class="mt-3 text-left">
           <h2 class="text-lg font-semibold">${bag.airline}</h2>
           <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
-          <p class="text-sm mt-2">${bag.description}</p>
+          <p class="text-sm mt-2 text-left">${bag.description}</p>
         </div>
       </div>
     `
-  )
-  .join("");
+    )
+    .join("");
 
   // ページネーション
   pagination.innerHTML = "";
@@ -66,6 +76,14 @@ function renderBags() {
     });
     pagination.appendChild(btn);
   }
+  
+  // Swiper初期化（カードごとに）
+  pageItems.forEach((_, i) => {
+    new Swiper(`.mySwiper-${i}`, {
+      loop: true,
+      pagination: { el: ".swiper-pagination", clickable: true },
+    });
+  });  
 }
 
 document.getElementById("searchInput").addEventListener("input", () => {
