@@ -34,8 +34,9 @@ function renderBags() {
       (bag) => `
       <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
         <div class="flex space-x-2 justify-center">
-          ${bag.images.map(img =>`
-            <img src="${img}" alt="${bag.airline}" class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded" />
+          ${bag.images.map((img, i) =>`
+            <img src="${img}" alt="${bag.airline}"
+              class="w-32 max-h-80 mx-auto object-contain bg-gray-100 rounded ${i > 0 ? 'hidden sm:block' : ''}" />
           `).join('')}
         </div>
         <div class="mt-3 text-left">
