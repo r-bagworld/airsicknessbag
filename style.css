@@ -6,3 +6,33 @@
   transform: translateY(-4px);
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
+
+/* カード全体を3D空間で扱う */
+.flip-card {
+  perspective: 1000px;
+}
+
+.flip-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+/* 回転アニメーション */
+.flip-card.flipped .flip-inner {
+  transform: rotateY(180deg);
+}
+
+/* 表・裏共通設定 */
+.flip-front,
+.flip-back {
+  position: absolute;
+  width: 100%;
+  backface-visibility: hidden;
+}
+
+/* 裏面は180度回転しておく */
+.flip-back {
+  transform: rotateY(180deg);
+}
