@@ -37,12 +37,12 @@ function renderBags() {
           <!-- 表面 -->
           <div class="flip-front flex justify-center">
             <img src="${bag.images[0]}" alt="${bag.airline}"
-              class="w-32 max-h-80 object-contain bg-gray-100 rounded" />
+              class="flip-image" />
           </div>
           <!-- 裏面 -->
           <div class="flip-back flex justify-center">
             <img src="${bag.images[1]}" alt="${bag.airline}"
-              class="w-32 max-h-80 object-contain bg-gray-100 rounded" />
+              class="flip-image" />
           </div>
         </div>
         <div class="mt-3 text-left">
