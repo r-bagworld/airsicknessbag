@@ -1,13 +1,4 @@
-/* カードの見た目を少し整える */
-.card {
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-}
-
-/* カード全体を3D空間で扱う */
+/* === Flipカード設定 === */
 .flip-card {
   perspective: 1000px;
 }
@@ -19,12 +10,11 @@
   transition: transform 0.6s;
 }
 
-/* 回転アニメーション */
 .flip-card.flipped .flip-inner {
   transform: rotateY(180deg);
 }
 
-/* 表・裏共通設定 */
+/* 表裏共通 */
 .flip-front,
 .flip-back {
   position: absolute;
@@ -32,7 +22,25 @@
   backface-visibility: hidden;
 }
 
-/* 裏面は180度回転しておく */
+/* 裏面 */
 .flip-back {
   transform: rotateY(180deg);
+}
+
+/* 🖼️ 画像サイズ調整 */
+.flip-card img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4; /* ←縦長にする（比率調整） */
+  object-fit: contain;
+  background-color: #f3f4f6; /* Tailwindのgray-100 */
+  border-radius: 0.5rem;
+}
+
+/* 💻 PCで大きめに見せる */
+@media (min-width: 768px) {
+  .flip-card img {
+    aspect-ratio: 4 / 3; /* 横長でもきれいに */
+    max-height: 300px;
+  }
 }
