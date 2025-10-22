@@ -30,60 +30,35 @@ function renderBags() {
   const pageItems = filtered.slice(start, end);
 
   container.innerHTML = pageItems
-    .map(
-      (bag,index) => `
-      <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
-        <div class="swiper mySwiper-${index}">
-          <div class="swiper-wrapper">
-            ${bag.images
-              .map(
-                (img) =>`
-              <div class="swiper-slide flex justify-center">
-                <img src="${img}" alt="${bag.airline}"
-                  class="w-32 max-h-80 object-contain bg-gray-100 rounded" />
-              </div>
-            `
-              )
-              .join('')}
+  .map(
+    (bag) => `
+    <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
+      <div class="flip-card">
+        <div class="flip-inner">
+          <div class="flip-front">
+            <img src="${bag.images[0]}" alt="${bag.airline}" />
           </div>
-          <!-- ページネーションの点 -->
-          <div class="swiper-pagination"></div>
-        </div>
-        <div class="mt-3 text-left">
-          <h2 class="text-lg font-semibold">${bag.airline}</h2>
-          <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
-          <p class="text-sm mt-2 text-left">${bag.description}</p>
+          <div class="flip-back">
+            <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" />
+          </div>
         </div>
       </div>
-    `
-    )
-    .join("");
+      <div class="mt-3 text-left">
+        <h2 class="text-lg font-semibold">${bag.airline}</h2>
+        <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
+        <p class="text-sm mt-2">${bag.description}</p>
+      </div>
+    </div>
+  `
+  )
+  .join("");
 
-  // ページネーション
-  pagination.innerHTML = "";
-  for (let i = 1; i <= totalPages; i++) {
-    const btn = document.createElement("button");
-    btn.textContent = i;
-    btn.className = `px-3 py-1 rounded-md ${
-      i === currentPage
-        ? "bg-blue-500 text-white"
-        : "bg-white border text-gray-700"
-    }`;
-    btn.addEventListener("click", () => {
-      currentPage = i;
-      renderBags();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-    pagination.appendChild(btn);
-  }
-  
-  // 🔄 カードのクリックで反転
-  document.querySelectorAll(".flip-card").forEach((card) => {
-    card.addEventListener("click", () => {
-      card.classList.toggle("flipped");
-    });
+// クリックで反転
+document.querySelectorAll(".flip-card").forEach((card) => {
+  card.addEventListener("click", () => {
+    card.classList.toggle("flipped");
   });
-}
+});
 
 document.getElementById("searchInput").addEventListener("input", () => {
   currentPage = 1;
