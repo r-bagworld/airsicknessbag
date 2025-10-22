@@ -7,17 +7,17 @@
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
 
+/* ▼ ひっくり返すカード構造 */
 .flip-card {
   perspective: 1000px;
   cursor: pointer;
   width: 100%;
-  position: relative;
 }
 
 .flip-inner {
   position: relative;
   width: 100%;
-  min-height: 200px;
+  height: 220px; /* ← 高さは調整OK（縦に伸びるのを防ぐ） */
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
@@ -45,9 +45,7 @@
 
 .flip-front img,
 .flip-back img {
-  width: auto;
   max-width: 100%;
-  height: auto;
   max-height: 100%;
   object-fit: contain;
   border-radius: 0.5rem;
