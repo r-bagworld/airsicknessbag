@@ -31,19 +31,23 @@ function renderBags() {
 
   container.innerHTML = pageItems
     .map(
-      (bag, i) => `
-      <div class="flip-card bg-white rounded-xl shadow-sm p-3 cursor-pointer">
-        <div class="flip-inner">
-          <!-- 表面 -->
-          <div class="flip-front flex justify-center">
-            <img src="${bag.images[0]}" alt="${bag.airline}"
-              class="flip-image" />
+      (bag,index) => `
+      <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
+        <div class="swiper mySwiper-${index}">
+          <div class="swiper-wrapper">
+            ${bag.images
+              .map(
+                (img) =>`
+              <div class="swiper-slide flex justify-center">
+                <img src="${img}" alt="${bag.airline}"
+                  class="w-32 max-h-80 object-contain bg-gray-100 rounded" />
+              </div>
+            `
+              )
+              .join('')}
           </div>
-          <!-- 裏面 -->
-          <div class="flip-back flex justify-center">
-            <img src="${bag.images[1]}" alt="${bag.airline}"
-              class="flip-image" />
-          </div>
+          <!-- ページネーションの点 -->
+          <div class="swiper-pagination"></div>
         </div>
         <div class="mt-3 text-left">
           <h2 class="text-lg font-semibold">${bag.airline}</h2>
