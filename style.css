@@ -10,6 +10,9 @@
 .flip-card {
   perspective: 1000px;
   cursor: pointer;
+  width: 100%;
+  height: 200px;
+  position: relative;
 }
 
 .flip-inner {
@@ -29,9 +32,21 @@
   position: absolute;
   width: 100%;
   height: 100%;
+  top: 0;
+  left: 0;
   backface-visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .flip-back {
   transform: rotateY(180deg);
+}
+
+.flip-front img,
+.flip-back img {
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 0.5rem;
 }
