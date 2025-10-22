@@ -30,39 +30,61 @@ function renderBags() {
   const pageItems = filtered.slice(start, end);
 
   container.innerHTML = pageItems
-  .map(
-    (bag) => `
-    <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
-      <div class="flip-card">
-        <div class="flip-inner">
-          <div class="flip-front">
-            <img src="${bag.images[0]}" alt="${bag.airline}" />
-          </div>
-          <div class="flip-back">
-            <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" />
+    .map(
+      (bag) => `
+      <div class="card bg-white rounded-xl shadow-sm overflow-hidden p-3">
+        <div class="flip-card">
+          <div class="flip-inner">
+            <div class="flip-front">
+              <img src="${bag.images[0]}" alt="${bag.airline}" />
+            </div>
+            <div class="flip-back">
+              <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" />
+            </div>
           </div>
         </div>
+        <div class="mt-3 text-left">
+          <h2 class="text-lg font-semibold">${bag.airline}</h2>
+          <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
+          <p class="text-sm mt-2">${bag.description}</p>
+        </div>
       </div>
-      <div class="mt-3 text-left">
-        <h2 class="text-lg font-semibold">${bag.airline}</h2>
-        <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
-        <p class="text-sm mt-2">${bag.description}</p>
-      </div>
-    </div>
-  `
-  )
-  .join("");
+    `
+    )
+    .join("");
 
-// クリックで反転
-document.querySelectorAll(".flip-card").forEach((card) => {
-  card.addEventListener("click", () => {
-    card.classList.toggle("flipped");
+  // 🔄 カードのクリックで反転
+  document.querySelectorAll(".flip-card").forEach((card) => {
+    card.addEventListener("click", () => {
+      card.classList.toggle("flipped");
+    });
   });
-});
 
+  // 📄 ページネーション
+  pagination.innerHTML = "";
+  for (let i = 1; i <= totalPages; i++) {
+    const btn = document.createElement("button");
+    btn.textContent = i;
+    btn.className = `px-3 py-1 rounded-md ${
+      i === currentPage
+        ? "bg-blue-500 text-white"
+        : "bg-white border text-gray-700"
+    }`;
+    btn.addEventListener("click", () => {
+      currentPage = i;
+      renderBags();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+    pagination.appendChild(btn);
+  }
+}
+
+// 🔍 検索バー入力時に再描画
 document.getElementById("searchInput").addEventListener("input", () => {
   currentPage = 1;
   renderBags();
 });
 
+// 🚀 初期データ読み込み
 fetchData();
+
