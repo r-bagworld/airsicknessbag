@@ -19,12 +19,17 @@ function renderBags() {
     .value.toLowerCase()
     .trim();
 
-  const filtered = bags.filter(
-    (bag) =>
+  const filtered = bags.filter((bag) => {
+    const matchSearch =
       bag.airline.toLowerCase().includes(searchTerm) ||
       bag.country.toLowerCase().includes(searchTerm) ||
-      bag.year.toLowerCase().includes(searchTerm)
-  );
+      bag.year.toLowerCase().includes(searchTerm);
+
+    const matchRegion =
+      !region || bag.country === region;
+
+    return matchSearch && matchRegion;
+  });
 
   const totalPages = Math.ceil(filtered.length / itemsPerPage);
   if (currentPage > totalPages) currentPage = totalPages || 1;
