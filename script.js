@@ -2,6 +2,9 @@ let bags = [];
 let currentPage = 1;
 const itemsPerPage = 50;
 
+const params = new URLSearchParams(window.location.search);
+const region = params.get("region"); //Japan / China / Europe /null
+
 async function fetchData() {
   const res = await fetch("bags.json");
   bags = await res.json();
