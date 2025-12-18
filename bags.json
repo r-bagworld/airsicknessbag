@@ -975,8 +975,38 @@
     "year": "2000年代",
     "description": "",
     "images": [
-      "images/",
-      "images/"
+      "images/IMG_2772.jpg",
+      "images/IMG_2773.jpg"
+    ]
+  },
+  {
+    "airline": "厦門航空",
+    "country": "China",
+    "year": "2015年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_2774.jpg",
+      "images/IMG_2775.jpg"
+    ]
+  },
+  {
+    "airline": "厦門航空",
+    "country": "China",
+    "year": "2010年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_2776.jpg",
+      "images/IMG_2777.jpg"
+    ]
+  },
+  {
+    "airline": "厦門航空",
+    "country": "China",
+    "year": "2000年代",
+    "description": "",
+    "images": [
+      "images/IMG_2782.jpg",
+      "images/IMG_2783.jpg"
     ]
   }
 ]
