@@ -1,40 +1,0 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>エチケット袋コレクション</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body class="bg-gray-50 text-gray-900">
-  <header class="p-6 bg-white shadow-md">
-    <h1 class="text-3xl font-bold text-center mb-2">✈️ エチケット袋コレクション</h1>
-    <p class="text-center text-gray-600">〜エチケット袋コレクションを紹介しています〜</p>
-  </header>
- 
-  <main class="max-w-6xl mx-auto p-4">
-    <!-- 🔍 検索バー -->
-    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6">
-      <input
-        type="text"
-        id="searchInput"
-        placeholder="航空会社・国・年代で検索..."
-        class="w-full sm:w-1/2 p-2 border rounded-md shadow-sm focus:ring focus:ring-blue-200"
-      />
-    </div>
- 
-    <!-- 📦 カード一覧 -->
-    <div id="bagContainer" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4"></div>
- 
-    <!-- 📄 ページネーション -->
-    <div class="flex justify-center mt-6 space-x-2" id="pagination"></div>
-  </main>
- 
-  <footer class="text-center text-gray-500 text-sm mt-10 mb-6">
-    © 2025 エチケット袋コレクション
-  </footer>
- 
-  <script src="script.js"></script>
-</body>
-</html>
