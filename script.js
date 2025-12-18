@@ -3,7 +3,7 @@ let currentPage = 1;
 const itemsPerPage = 32;
 
 const params = new URLSearchParams(window.location.search);
-const region = params.get("region"); //Japan / China / Europe /null
+const region = params.get("region"); //Japan / China / East Asia /null
 
 async function fetchData() {
   const res = await fetch("bags.json");
