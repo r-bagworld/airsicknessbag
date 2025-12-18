@@ -1008,5 +1008,35 @@
       "images/IMG_2782.jpg",
       "images/IMG_2783.jpg"
     ]
+  },
+  {
+    "airline": "海南航空",
+    "country": "China",
+    "year": "2025年",
+    "description": "",
+    "images": [
+      "images/IMG_2785.jpg",
+      "images/IMG_2786.jpg"
+    ]
+  },
+  {
+    "airline": "海南航空",
+    "country": "China",
+    "year": "2010年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_2787.jpg",
+      "images/IMG_2789.jpg"
+    ]
+  },
+  {
+    "airline": "長安航空",
+    "country": "China",
+    "year": "1990年代",
+    "description": "",
+    "images": [
+      "images/IMG_2790.jpg",
+      "images/IMG_2791.jpg"
+    ]
   }
 ]
