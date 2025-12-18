@@ -915,18 +915,18 @@
     "year": "00年代後半-10年代前半",
     "description": "",
     "images": [
-      "images/",
-      "images/"
+      "images/IMG_2760.jpg",
+      "images/IMG_2761.jpg"
     ]
   },
   {
     "airline": "中国西北航空",
     "country": "China",
-    "year": "",
+    "year": "1989-2002年",
     "description": "",
     "images": [
-      "images/",
-      "images/"
+      "images/IMG_2762.jpg",
+      "images/IMG_2763.jpg"
     ]
   },
   {
@@ -937,6 +937,46 @@
     "images": [
       "images/IMG_9394.jpg",
       "images/IMG_9395.jpg"
+    ]
+  },
+  {
+    "airline": "中国南方航空",
+    "country": "China",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_2764.jpg",
+      "images/IMG_2765.jpg"
+    ]
+  },
+  {
+    "airline": "中国南方航空",
+    "country": "China",
+    "year": "2010年代",
+    "description": "ウイグル語",
+    "images": [
+      "images/IMG_2768.jpg",
+      "images/IMG_2769.jpg"
+    ]
+  },
+  {
+    "airline": "中国南方航空",
+    "country": "China",
+    "year": "2000年代後半",
+    "description": "ウイグル語/ゴミマークなし",
+    "images": [
+      "images/IMG_2770.jpg",
+      "images/IMG_2771.jpg"
+    ]
+  },
+  {
+    "airline": "中国南方航空",
+    "country": "China",
+    "year": "2000年代",
+    "description": "",
+    "images": [
+      "images/",
+      "images/"
     ]
   }
 ]
