@@ -1078,5 +1078,25 @@
       "images/IMG_2801.jpg",
       "images/IMG_2802.jpg"
     ]
+  },
+  {
+    "airline": "四川航空",
+    "country": "China",
+    "year": "2025年",
+    "description": "",
+    "images": [
+      "images/IMG_2803.jpg",
+      "images/IMG_2804.jpg"
+    ]
+  },
+  {
+    "airline": "四川航空",
+    "country": "China",
+    "year": "1990年代",
+    "description": "",
+    "images": [
+      "images/IMG_2805.jpg",
+      "images/IMG_2806.jpg"
+    ]
   }
 ]
