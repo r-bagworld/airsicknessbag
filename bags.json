@@ -1038,5 +1038,25 @@
       "images/IMG_2790.jpg",
       "images/IMG_2791.jpg"
     ]
+  },
+  {
+    "airline": "吉祥航空",
+    "country": "China",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_2792.jpg",
+      "images/IMG_2793.jpg"
+    ]
+  },
+  {
+    "airline": "吉祥航空",
+    "country": "China",
+    "year": "2005~2015年",
+    "description": "",
+    "images": [
+      "images/IMG_2794.jpg",
+      "images/IMG_2796.jpg"
+    ]
   }
 ]
