@@ -3,6 +3,7 @@
 ①terminalを起動する
 
 ②terminalに以下のコードを入力し、フォルダ位置を遷移する。
+
 cd /Users/ryoikematsu/Documents/etiquette-bags
 
 ③スマホで撮影したheicファイルを、以下のコードを入力しjpgファイルに変換する。
