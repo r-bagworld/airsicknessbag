@@ -54,8 +54,8 @@ function renderBags() {
       </div>
         
       <div class="hidden md:flex gap-2">
-        <img src="${bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
-        <img src="${bag.images[1] || bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
+        <img src="${bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
+        <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
       </div>
         
       <div class="mt-3 text-left">
