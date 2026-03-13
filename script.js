@@ -40,29 +40,31 @@ function renderBags() {
   container.innerHTML = pageItems
     .map(
       (bag) => `
-      <div class="card bg-gray-200 rounded-xl shadow-sm overflow-hidden p-3">
-        <div class="flip-card md:hidden">
-          <div class="flip-inner">
-            <div class="flip-front">
-              <img src="${bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
-            </div>
-            <div class="flip-back">
-              <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
-            </div>
+    <div class="card bg-gray-200 rounded-xl shadow-sm overflow-hidden p-3">
+    
+      <div class="flip-card md:hidden">
+        <div class="flip-inner">
+          <div class="flip-front">
+            <img src="${bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
+          </div>
+          <div class="flip-back">
+            <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
           </div>
         </div>
-        
-        <div class="hidden md:flex gap-2">
-          <img src="${bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
-          <img src="${bag.images[1] || bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
-        </div>
-        
-        <div class="mt-3 text-left">
-          <h2 class="text-lg font-semibold">${bag.airline}</h2>
-          <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
-          <p class="text-sm mt-2">${bag.description}</p>
-        </div>
       </div>
+        
+      <div class="hidden md:flex gap-2">
+        <img src="${bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
+        <img src="${bag.images[1] || bag.images[0]}" class="w-1/2 rounded" loading="lazy" decoding="async"/>
+      </div>
+        
+      <div class="mt-3 text-left">
+        <h2 class="text-lg font-semibold">${bag.airline}</h2>
+        <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
+        <p class="text-sm mt-2">${bag.description}</p>
+      </div>
+      
+    </div>
     `
     )
     .join("");
