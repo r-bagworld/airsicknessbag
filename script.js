@@ -40,7 +40,7 @@ function renderBags() {
   container.innerHTML = pageItems
     .map(
       (bag) => `
-      <div class="card bg-gray-100 rounded-xl shadow-sm overflow-hidden p-3">
+      <div class="card bg-gray-200 rounded-xl shadow-sm overflow-hidden p-3">
         <div class="flip-card">
           <div class="flip-inner">
             <div class="flip-front">
