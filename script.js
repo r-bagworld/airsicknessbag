@@ -44,10 +44,10 @@ function renderBags() {
         <div class="flip-card">
           <div class="flip-inner">
             <div class="flip-front">
-              <img src="${bag.images[0]}" alt="${bag.airline}" />
+              <img src="${bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
             </div>
             <div class="flip-back">
-              <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" />
+              <img src="${bag.images[1] || bag.images[0]}" alt="${bag.airline}" loading="lazy" decoding="async"/>
             </div>
           </div>
         </div>
