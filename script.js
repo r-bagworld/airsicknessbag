@@ -60,7 +60,8 @@ function renderBags() {
         
       <div class="mt-3 text-left">
         <h2 class="text-lg font-semibold">${bag.airline}</h2>
-        <p class="text-sm text-gray-500">${bag.country} / ${bag.year}</p>
+        <p class="text-sm text-gray-500">${bag.year}</p>
+        <p class="text-sm text-gray-500">${bag.country}</p>
         <p class="text-sm mt-2">${bag.description}</p>
       </div>
       
