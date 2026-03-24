@@ -3,7 +3,7 @@ let currentPage = 1;
 const itemsPerPage = 32;
 
 const params = new URLSearchParams(window.location.search);
-const region = params.get("region"); 
+const regionParam = params.get("region"); 
 const regions = regionParam ? regionParam.split(",") : [];
 
 async function fetchData() {
