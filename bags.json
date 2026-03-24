@@ -1,7 +1,7 @@
 [
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2025年-",
     "description": "",
     "images": [
@@ -11,7 +11,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2024年-",
     "description": "",
     "images": [
@@ -21,7 +21,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2023-24年",
     "description": "FSC認証追加",
     "images": [
@@ -31,7 +31,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2011-23年",
     "description": "",
     "images": [
@@ -41,7 +41,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -51,7 +51,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2000年代前半",
     "description": "矢印ストレート",
     "images": [
@@ -61,7 +61,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2000年代前半",
     "description": "矢印カーブ",
     "images": [
@@ -71,7 +71,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -81,7 +81,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "80年代後半-90年代前半",
     "description": "",
     "images": [
@@ -91,7 +91,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
     "images": [
@@ -101,7 +101,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
     "images": [
@@ -111,7 +111,7 @@
   },
   {
     "airline": "ANA 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1960年代",
     "description": "",
     "images": [
@@ -121,7 +121,7 @@
   },
   {
     "airline": "Peach 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2013年-",
     "description": "",
     "images": [
@@ -131,7 +131,7 @@
   },
   {
     "airline": "Peach 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2012年",
     "description": "",
     "images": [
@@ -141,7 +141,7 @@
   },
   {
     "airline": "バニラエア 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2013-19年",
     "description": "",
     "images": [
@@ -151,7 +151,7 @@
   },
   {
     "airline": "エアージャパン 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2025年",
     "description": "",
     "images": [
@@ -161,7 +161,7 @@
   },
   {
     "airline": "エアーニッポン 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1996-2003年",
     "description": "",
     "images": [
@@ -171,7 +171,7 @@
   },
   {
     "airline": "IBEXエアラインズ 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2010年代〜",
     "description": "",
     "images": [
@@ -181,7 +181,7 @@
   },
   {
     "airline": "フェアリンク 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2000-04年",
     "description": "",
     "images": [
@@ -191,7 +191,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2019年〜",
     "description": "FSC認証追加",
     "images": [
@@ -201,7 +201,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2019年",
     "description": "",
     "images": [
@@ -211,7 +211,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2015~2018年",
     "description": "",
     "images": [
@@ -221,7 +221,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2012~2014年",
     "description": "",
     "images": [
@@ -231,7 +231,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2012年",
     "description": "",
     "images": [
@@ -241,7 +241,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2007~2011年",
     "description": "",
     "images": [
@@ -251,7 +251,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2011年",
     "description": "",
     "images": [
@@ -261,7 +261,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2006~2007年",
     "description": "Dマーク",
     "images": [
@@ -271,7 +271,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2006~2007年",
     "description": "Jマーク",
     "images": [
@@ -281,7 +281,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2003-2006年",
     "description": "cマーク",
     "images": [
@@ -291,7 +291,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2003-2006年",
     "description": "無印",
     "images": [
@@ -301,7 +301,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -311,7 +311,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1995-2000年",
     "description": "",
     "images": [
@@ -321,7 +321,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990-1994年",
     "description": "",
     "images": [
@@ -331,7 +331,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1980-1989年",
     "description": "",
     "images": [
@@ -341,7 +341,7 @@
   },
   {
     "airline": "JAL 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1980-1989年",
     "description": "",
     "images": [
@@ -351,7 +351,7 @@
   },
   {
     "airline": "JALエクスプレス 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -361,7 +361,7 @@
   },
   {
     "airline": "日本トランスオーシャン航空 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -371,7 +371,7 @@
   },
   {
     "airline": "日本アジア航空 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1975-1985年",
     "description": "",
     "images": [
@@ -381,7 +381,7 @@
   },
   {
     "airline": "ジェットスタージャパン 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2024年-",
     "description": "日本汎用",
     "images": [
@@ -391,7 +391,7 @@
   },
   {
     "airline": "ジェットスタージャパン 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "-2024年",
     "description": "",
     "images": [
@@ -401,7 +401,7 @@
   },
   {
     "airline": "スプリング・ジャパン 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2012年-",
     "description": "",
     "images": [
@@ -411,7 +411,7 @@
   },
   {
     "airline": "ZIPAIR 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2025年-",
     "description": "",
     "images": [
@@ -421,7 +421,7 @@
   },
   {
     "airline": "ZIPAIR 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -431,7 +431,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -441,7 +441,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -451,7 +451,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -461,7 +461,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載あり",
     "images": [
@@ -471,7 +471,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載なし",
     "images": [
@@ -481,7 +481,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -491,7 +491,7 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1980年代後半",
     "description": "",
     "images": [
@@ -501,7 +501,7 @@
   },
   {
     "airline": "東亜国内航空 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1980年代",
     "description": "",
     "images": [
@@ -511,7 +511,7 @@
   },
   {
     "airline": "日本エアコミューター 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "90年代後半-00年代前半",
     "description": "",
     "images": [
@@ -521,7 +521,7 @@
   },
   {
     "airline": "フジドリームエアラインズ 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2009年-",
     "description": "",
     "images": [
@@ -531,7 +531,7 @@
   },
   {
     "airline": "AIRDO 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2018年-",
     "description": "",
     "images": [
@@ -541,7 +541,7 @@
   },
   {
     "airline": "AIRDO 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2010-15年",
     "description": "",
     "images": [
@@ -551,7 +551,7 @@
   },
   {
     "airline": "ソラシドエア 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2011年-",
     "description": "",
     "images": [
@@ -561,7 +561,7 @@
   },
   {
     "airline": "スターフライヤー 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2016年-",
     "description": "",
     "images": [
@@ -571,7 +571,7 @@
   },
   {
     "airline": "スターフライヤー 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2015年",
     "description": "",
     "images": [
@@ -581,7 +581,7 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2021年-",
     "description": "ポケモンジェット限定",
     "images": [
@@ -591,7 +591,7 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2019年-",
     "description": "",
     "images": [
@@ -601,7 +601,7 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2017-19年",
     "description": "",
     "images": [
@@ -611,7 +611,7 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -621,7 +621,7 @@
   },
   {
     "airline": "オリエンタルエアブリッジ 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2026年",
     "description": "",
     "images": [
@@ -631,7 +631,7 @@
   },
   {
     "airline": "東邦航空（東京愛ランドシャトル） 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -641,7 +641,7 @@
   },
   {
     "airline": "特急やくも 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "1980年代〜2024年",
     "description": "",
     "images": [
@@ -651,7 +651,7 @@
   },
   {
     "airline": "JR九州高速船ビートル 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2020年ごろ",
     "description": "",
     "images": [
@@ -661,7 +661,7 @@
   },
   {
     "airline": "砕氷船おーろら号 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
     "images": [
@@ -671,7 +671,7 @@
   },
   {
     "airline": "砕氷船おーろら号 🇯🇵",
-    "country": "Japan",
+    "region": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
     "images": [
@@ -681,7 +681,7 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2020年頃-",
     "description": "",
     "images": [
@@ -691,7 +691,7 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代-",
     "description": "",
     "images": [
@@ -701,7 +701,7 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代後半",
     "description": "開口部矢印あり",
     "images": [
@@ -711,7 +711,7 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代後半",
     "description": "開口部矢印なし",
     "images": [
@@ -721,7 +721,7 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -731,7 +731,7 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -741,7 +741,7 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -751,7 +751,7 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -761,7 +761,7 @@
   },
   {
     "airline": "山東航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -771,7 +771,7 @@
   },
   {
     "airline": "山東航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代後半(?)",
     "description": "",
     "images": [
@@ -781,7 +781,7 @@
   },
   {
     "airline": "山東航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代-(?)",
     "description": "",
     "images": [
@@ -791,7 +791,7 @@
   },
   {
     "airline": "大連航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2011年-",
     "description": "",
     "images": [
@@ -801,7 +801,7 @@
   },
   {
     "airline": "中国西南航空重慶公司 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -811,7 +811,7 @@
   },
   {
     "airline": "中国新疆航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1985-2003年",
     "description": "",
     "images": [
@@ -821,7 +821,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2026年",
     "description": "",
     "images": [
@@ -831,7 +831,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -841,7 +841,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2018-20年代前半",
     "description": "+JCマーク",
     "images": [
@@ -851,7 +851,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2018-20年代前半",
     "description": "+マーク",
     "images": [
@@ -861,7 +861,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2018-20年代前半",
     "description": "SUO-MA",
     "images": [
@@ -871,7 +871,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2015-18年",
     "description": "",
     "images": [
@@ -881,7 +881,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "00年代後半-10年代前半",
     "description": "紫ver",
     "images": [
@@ -891,7 +891,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "00年代後半-10年代前半",
     "description": "青ver",
     "images": [
@@ -901,7 +901,7 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -911,7 +911,7 @@
   },
   {
     "airline": "上海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代後半-",
     "description": "赤ver",
     "images": [
@@ -921,7 +921,7 @@
   },
   {
     "airline": "上海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代後半-",
     "description": "黒ver",
     "images": [
@@ -931,7 +931,7 @@
   },
   {
     "airline": "上海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -941,7 +941,7 @@
   },
   {
     "airline": "上海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2007~10年頃",
     "description": "",
     "images": [
@@ -951,7 +951,7 @@
   },
   {
     "airline": "上海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -961,7 +961,7 @@
   },
   {
     "airline": "中国聯合航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "00年代後半-10年代前半",
     "description": "",
     "images": [
@@ -971,7 +971,7 @@
   },
   {
     "airline": "中国西北航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1989-2002年",
     "description": "",
     "images": [
@@ -981,7 +981,7 @@
   },
   {
     "airline": "中国雲南航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -991,7 +991,7 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1001,7 +1001,7 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代",
     "description": "ウイグル語",
     "images": [
@@ -1011,7 +1011,7 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代後半",
     "description": "ウイグル語/ゴミマークなし",
     "images": [
@@ -1021,7 +1021,7 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -1031,7 +1031,7 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1041,7 +1041,7 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1051,7 +1051,7 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1061,7 +1061,7 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -1071,7 +1071,7 @@
   },
   {
     "airline": "海南航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1081,7 +1081,7 @@
   },
   {
     "airline": "海南航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1091,7 +1091,7 @@
   },
   {
     "airline": "長安航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1101,7 +1101,7 @@
   },
   {
     "airline": "吉祥航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1111,7 +1111,7 @@
   },
   {
     "airline": "吉祥航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2005~2015年",
     "description": "",
     "images": [
@@ -1121,7 +1121,7 @@
   },
   {
     "airline": "春秋航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2005~2010年代前半",
     "description": "",
     "images": [
@@ -1131,7 +1131,7 @@
   },
   {
     "airline": "東海航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2014年〜",
     "description": "",
     "images": [
@@ -1141,7 +1141,7 @@
   },
   {
     "airline": "四川航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1151,7 +1151,7 @@
   },
   {
     "airline": "四川航空 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1161,7 +1161,7 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1171,7 +1171,7 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2017年",
     "description": "",
     "images": [
@@ -1181,7 +1181,7 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2015年頃",
     "description": "",
     "images": [
@@ -1191,7 +1191,7 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2010年頃",
     "description": "",
     "images": [
@@ -1201,7 +1201,7 @@
   },
   {
     "airline": "中国鉄路上海局 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2026年",
     "description": "",
     "images": [
@@ -1211,7 +1211,7 @@
   },
   {
     "airline": "中国鉄路北京客運段 🇨🇳",
-    "country": "China",
+    "region": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1221,7 +1221,7 @@
   },
   {
     "airline": "香港航空/香港エクスプレス 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1231,7 +1231,7 @@
   },
   {
     "airline": "香港ドラゴン航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代後半-2010年代前半",
     "description": "",
     "images": [
@@ -1241,7 +1241,7 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -1251,7 +1251,7 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "00年代-10年代前半",
     "description": "",
     "images": [
@@ -1261,7 +1261,7 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1271,7 +1271,7 @@
   },
   {
     "airline": "香港エクスプレス航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1281,7 +1281,7 @@
   },
   {
     "airline": "グレーターベイ航空 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1291,7 +1291,7 @@
   },
   {
     "airline": "ターボジェット（高速船） 🇭🇰",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1301,7 +1301,7 @@
   },
   {
     "airline": "エアマカオ 🇲🇴",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1311,7 +1311,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -1321,7 +1321,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代〜",
     "description": "赤version",
     "images": [
@@ -1331,7 +1331,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代〜",
     "description": "青version",
     "images": [
@@ -1341,7 +1341,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代〜",
     "description": "水色version",
     "images": [
@@ -1351,7 +1351,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年ごろ",
     "description": "赤version",
     "images": [
@@ -1361,7 +1361,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年ごろ",
     "description": "青version",
     "images": [
@@ -1371,7 +1371,7 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代半ば",
     "description": "",
     "images": [
@@ -1381,7 +1381,7 @@
   },
   {
     "airline": "タイガーエア台湾 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2020年代前半-",
     "description": "",
     "images": [
@@ -1391,7 +1391,7 @@
   },
   {
     "airline": "国華航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1401,7 +1401,7 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代中盤〜",
     "description": "",
     "images": [
@@ -1411,7 +1411,7 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2012年ごろ",
     "description": "",
     "images": [
@@ -1421,7 +1421,7 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代前半~中盤",
     "description": "ロゴ小",
     "images": [
@@ -1431,7 +1431,7 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代前半~中盤",
     "description": "ロゴ大",
     "images": [
@@ -1441,7 +1441,7 @@
   },
   {
     "airline": "スターラックス航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1451,7 +1451,7 @@
   },
   {
     "airline": "トランスアジア航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1461,7 +1461,7 @@
   },
   {
     "airline": "トランスアジア航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1471,7 +1471,7 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1481,7 +1481,7 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代",
     "description": "\"嘔吐専用袋\"表記",
     "images": [
@@ -1491,7 +1491,7 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代",
     "description": "\"清潔袋\"表記",
     "images": [
@@ -1501,7 +1501,7 @@
   },
   {
     "airline": "大韓航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年〜",
     "description": "",
     "images": [
@@ -1511,7 +1511,7 @@
   },
   {
     "airline": "大韓航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "00年代後半~2025年",
     "description": "",
     "images": [
@@ -1521,7 +1521,7 @@
   },
   {
     "airline": "ジンエアー 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2008年〜",
     "description": "",
     "images": [
@@ -1531,7 +1531,7 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年~",
     "description": "側面新ロゴ",
     "images": [
@@ -1541,7 +1541,7 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2020年代前半",
     "description": "側面旧ロゴ",
     "images": [
@@ -1551,7 +1551,7 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代後半-2010年代",
     "description": "",
     "images": [
@@ -1561,7 +1561,7 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代前半",
     "description": "開口部表記なし",
     "images": [
@@ -1571,7 +1571,7 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代前半",
     "description": "開口部表記あり",
     "images": [
@@ -1581,7 +1581,7 @@
   },
   {
     "airline": "エアプサン 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2007年〜",
     "description": "",
     "images": [
@@ -1591,7 +1591,7 @@
   },
   {
     "airline": "ティーウェイ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1601,7 +1601,7 @@
   },
   {
     "airline": "ティーウェイ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -1611,7 +1611,7 @@
   },
   {
     "airline": "チェジュ航空 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1621,7 +1621,7 @@
   },
   {
     "airline": "エアロK 🇰🇷",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1631,7 +1631,7 @@
   },
   {
     "airline": "エアコリョ 🇰🇵",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1641,7 +1641,7 @@
   },
   {
     "airline": "MIATモンゴル航空 🇲🇳",
-    "country": "East Asia",
+    "region": "East Asia",
     "year": "2000年代~2010年代後半",
     "description": "",
     "images": [
@@ -1651,7 +1651,7 @@
   },
   {
     "airline": "フィリピン航空 🇵🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1661,7 +1661,7 @@
   },
   {
     "airline": "ラオス国営航空 🇱🇦",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -1671,7 +1671,7 @@
   },
   {
     "airline": "ラオ・スカイウェイ航空 🇱🇦",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -1681,7 +1681,7 @@
   },
   {
     "airline": "ラオス中国鉄道 🇱🇦",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2021年",
     "description": "",
     "images": [
@@ -1691,7 +1691,7 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2025年ごろ",
     "description": "",
     "images": [
@@ -1701,7 +1701,7 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1711,7 +1711,7 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1721,7 +1721,7 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "00年代後半〜10年代前半",
     "description": "",
     "images": [
@@ -1731,7 +1731,7 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -1741,7 +1741,7 @@
   },
   {
     "airline": "ジェットスター・パシフィック 🇻🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2008~2020年",
     "description": "",
     "images": [
@@ -1751,7 +1751,7 @@
   },
   {
     "airline": "ロイヤル・エア・カンボジ 🇰🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "1996~2001年",
     "description": "",
     "images": [
@@ -1761,7 +1761,7 @@
   },
   {
     "airline": "カンボジア・アンコール航空 🇰🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2009年〜",
     "description": "",
     "images": [
@@ -1771,7 +1771,7 @@
   },
   {
     "airline": "JCインターナショナル・エアラインズ 🇰🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2017~2023年",
     "description": "",
     "images": [
@@ -1781,7 +1781,7 @@
   },
   {
     "airline": "カンボジア・エアウェイズ 🇰🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2018年〜",
     "description": "",
     "images": [
@@ -1791,7 +1791,7 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1801,7 +1801,7 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1811,7 +1811,7 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1821,7 +1821,7 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -1831,7 +1831,7 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -1841,7 +1841,7 @@
   },
   {
     "airline": "エアアジア 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1851,7 +1851,7 @@
   },
   {
     "airline": "エアアジア 🇲🇾",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1861,7 +1861,7 @@
   },
   {
     "airline": "シンガポール航空 🇸🇬",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代後半ー",
     "description": "",
     "images": [
@@ -1871,7 +1871,7 @@
   },
   {
     "airline": "シンガポール航空 🇸🇬",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "1990年代後半-2010年代前半",
     "description": "",
     "images": [
@@ -1881,7 +1881,7 @@
   },
   {
     "airline": "スクート 🇸🇬",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1891,7 +1891,7 @@
   },
   {
     "airline": "シルクエア 🇸🇬",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1901,7 +1901,7 @@
   },
   {
     "airline": "シルクエア 🇸🇬",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1911,7 +1911,7 @@
   },
   {
     "airline": "ロイヤル・ブルネイ航空 🇧🇳",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1921,7 +1921,7 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1931,7 +1931,7 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2022年",
     "description": "",
     "images": [
@@ -1941,7 +1941,7 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "00年代後半~10年代前半",
     "description": "",
     "images": [
@@ -1951,7 +1951,7 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -1961,7 +1961,7 @@
   },
   {
     "airline": "バンコクエアウェイズ 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1971,7 +1971,7 @@
   },
   {
     "airline": "バンコクエアウェイズ 🇹🇭",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2000年代中頃",
     "description": "",
     "images": [
@@ -1981,7 +1981,7 @@
   },
   {
     "airline": "ガルーダインドネシア航空 🇮🇩",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2014年〜",
     "description": "スカイチームロゴ入り",
     "images": [
@@ -1991,7 +1991,7 @@
   },
   {
     "airline": "ガルーダインドネシア航空 🇮🇩",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "00年代後半~2014年",
     "description": "",
     "images": [
@@ -2001,7 +2001,7 @@
   },
   {
     "airline": "ミャンマー国際航空 🇲🇲",
-    "country": "South East Asia",
+    "region": "South East Asia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2011,7 +2011,7 @@
   },
   {
     "airline": "エア・インディア 🇮🇳",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2010年代~",
     "description": "",
     "images": [
@@ -2021,7 +2021,7 @@
   },
   {
     "airline": "エア・インディア 🇮🇳",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2010年代~",
     "description": "スタアラロゴ入り",
     "images": [
@@ -2031,7 +2031,7 @@
   },
   {
     "airline": "インディゴ 🇮🇳",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2006年〜",
     "description": "",
     "images": [
@@ -2041,7 +2041,7 @@
   },
   {
     "airline": "ジェットエアウェイズ 🇮🇳",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "00年代後半~2019年",
     "description": "",
     "images": [
@@ -2051,7 +2051,7 @@
   },
   {
     "airline": "ドゥルクエア 🇧🇹",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2061,7 +2061,7 @@
   },
   {
     "airline": "ドゥルクエア 🇧🇹",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2071,7 +2071,7 @@
   },
   {
     "airline": "ブータン・エアラインズ 🇧🇹",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2011年〜",
     "description": "",
     "images": [
@@ -2081,7 +2081,7 @@
   },
   {
     "airline": "アグニ・エア 🇳🇵",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2091,7 +2091,7 @@
   },
   {
     "airline": "ブッダ・エア 🇳🇵",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -2101,7 +2101,7 @@
   },
   {
     "airline": "コスミック・エア 🇳🇵",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2111,7 +2111,7 @@
   },
   {
     "airline": "スリランカ航空 🇱🇰",
-    "country": "South Asia",
+    "region": "South Asia",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -2121,7 +2121,7 @@
   },
   {
     "airline": "カタール航空 🇶🇦",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2018年〜",
     "description": "",
     "images": [
@@ -2131,7 +2131,7 @@
   },
   {
     "airline": "カタール航空 🇶🇦",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2011~17年",
     "description": "",
     "images": [
@@ -2141,7 +2141,7 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2151,7 +2151,7 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2010年代中頃",
     "description": "",
     "images": [
@@ -2161,7 +2161,7 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -2171,7 +2171,7 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2181,7 +2181,7 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2191,7 +2191,7 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -2201,7 +2201,7 @@
   },
   {
     "airline": "サウディア 🇸🇦",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -2211,7 +2211,7 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2026年",
     "description": "",
     "images": [
@@ -2221,7 +2221,7 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2231,7 +2231,7 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
-    "country": "Middle East",
+    "region": "Middle East",
     "year": "2010年代前半〜中頃",
     "description": "",
     "images": [
@@ -2241,7 +2241,7 @@
   },
   {
     "airline": "エジプト航空 🇪🇬",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2251,7 +2251,7 @@
   },
   {
     "airline": "エジプト航空 🇪🇬",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2261,7 +2261,7 @@
   },
   {
     "airline": "ロイヤル・エア・モロッコ 🇲🇦",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2271,7 +2271,7 @@
   },
   {
     "airline": "ケニア航空 🇰🇪",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2281,7 +2281,7 @@
   },
   {
     "airline": "エチオピア航空 🇪🇹",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2010年代〜",
     "description": "",
     "images": [
@@ -2291,7 +2291,7 @@
   },
   {
     "airline": "ASKY航空 🇹🇬",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2020年ごろ？",
     "description": "",
     "images": [
@@ -2301,7 +2301,7 @@
   },
   {
     "airline": "マダガスカル航空 🇲🇬",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2311,7 +2311,7 @@
   },
   {
     "airline": "南アフリカ航空 🇿🇦",
-    "country": "Africa",
+    "region": "Africa",
     "year": "2010年代後半",
     "description": "",
     "images": [
