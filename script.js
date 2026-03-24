@@ -23,11 +23,11 @@ function renderBags() {
   const filtered = bags.filter((bag) => {
     const matchSearch =
       bag.airline.toLowerCase().includes(searchTerm) ||
-      bag.country.toLowerCase().includes(searchTerm) ||
+      bag.region.toLowerCase().includes(searchTerm) ||
       bag.year.toLowerCase().includes(searchTerm);
 
     const matchRegion =
-      regions.length === 0 || regions.includes(bag.country);
+      regions.length === 0 || regions.includes(bag.region);
 
     return matchSearch && matchRegion;
   });
@@ -62,7 +62,7 @@ function renderBags() {
       <div class="mt-3 text-left">
         <h2 class="text-lg font-semibold">${bag.airline}</h2>
         <p class="text-sm text-gray-500">${bag.year}</p>
-        <p class="text-sm text-gray-500">${bag.country}</p>
+        <p class="text-sm text-gray-500">${bag.region}</p>
         <p class="text-sm mt-2">${bag.description}</p>
       </div>
       
