@@ -3,7 +3,8 @@ let currentPage = 1;
 const itemsPerPage = 32;
 
 const params = new URLSearchParams(window.location.search);
-const region = params.get("region"); //Japan / China / East Asia / South East Asia /null
+const region = params.get("region"); 
+const regions = regionParam ? regionParam.split(",") : [];
 
 async function fetchData() {
   const res = await fetch("bags.json");
@@ -26,7 +27,7 @@ function renderBags() {
       bag.year.toLowerCase().includes(searchTerm);
 
     const matchRegion =
-      !region || bag.country === region;
+      regions.length === 0 || regions.includes(bag.country);
 
     return matchSearch && matchRegion;
   });
