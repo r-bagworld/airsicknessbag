@@ -640,6 +640,16 @@
     ]
   },
   {
+    "airline": "第一航空 🇯🇵",
+    "region": "Japan",
+    "year": "2026年",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0056.jpg",
+      "images/IMG_20260325_0057.jpg"
+    ]
+  },
+  {
     "airline": "特急やくも 🇯🇵",
     "region": "Japan",
     "year": "1980年代〜2024年",
@@ -1630,6 +1640,16 @@
     ]
   },
   {
+    "airline": "パラタエア 🇰🇷",
+    "region": "East Asia",
+    "year": "2025年〜",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0058.jpg",
+      "images/IMG_20260325_0059.jpg"
+    ]
+  },
+  {
     "airline": "エアコリョ 🇰🇵",
     "region": "East Asia",
     "year": "2010年代",
@@ -2362,7 +2382,7 @@
   {
     "airline": "カンタス航空 🇦🇺",
     "region": "Oceania",
-    "year": "2024年",
+    "year": "2020年代中頃",
     "description": "",
     "images": [
       "images/IMG_20260325_0040.jpg",
@@ -2397,6 +2417,16 @@
     "images": [
       "images/IMG_20260325_0046.jpg",
       "images/IMG_20260325_0047.jpg"
+    ]
+  },
+  {
+    "airline": "ジェットスター航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2020年代中頃",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0054.jpg",
+      "images/IMG_20260325_0055.jpg"
     ]
   },
   {
