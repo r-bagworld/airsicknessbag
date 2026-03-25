@@ -15,28 +15,6 @@ async function fetchData() {
 function renderBags() {
   const container = document.getElementById("bagContainer");
   const paginations = document.querySelectorAll(".pagination");
-
-  paginations.forEach((pagination) => {
-    pagination.innerHTML = "";
-  
-    for (let i = 1; i <= totalPages; i++) {
-      const btn = document.createElement("button");
-      btn.textContent = i;
-      btn.className = `px-3 py-1 rounded-md ${
-        i === currentPage
-          ? "bg-blue-500 text-white"
-          : "bg-white border text-gray-700"
-      }`;
-
-      btn.addEventListener("click", () => {
-        currentPage = i;
-        renderBags();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      });
-
-      pagination.appendChild(btn);
-    }
-  });
   
   const searchTerm = document
     .getElementById("searchInput")
@@ -57,10 +35,12 @@ function renderBags() {
 
   const totalPages = Math.ceil(filtered.length / itemsPerPage);
   if (currentPage > totalPages) currentPage = totalPages || 1;
+  
   const start = (currentPage - 1) * itemsPerPage;
   const end = start + itemsPerPage;
   const pageItems = filtered.slice(start, end);
 
+  // カード描画
   container.innerHTML = pageItems
     .map(
       (bag) => `
@@ -102,22 +82,26 @@ function renderBags() {
   });
 
   // 📄 ページネーション
-  pagination.innerHTML = "";
-  for (let i = 1; i <= totalPages; i++) {
-    const btn = document.createElement("button");
-    btn.textContent = i;
-    btn.className = `px-3 py-1 rounded-md ${
-      i === currentPage
-        ? "bg-blue-500 text-white"
-        : "bg-white border text-gray-700"
-    }`;
-    btn.addEventListener("click", () => {
-      currentPage = i;
-      renderBags();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-    pagination.appendChild(btn);
-  }
+  paginations.forEach((pagination) => {
+    pagination.innerHTML = "";
+
+    for (let i = 1; i <= totalPages; i++) {
+      const btn = document.createElement("button");
+      btn.textContent = i;
+      btn.className = `px-3 py-1 rounded-md ${
+        i === currentPage
+          ? "bg-blue-500 text-white"
+          : "bg-white border text-gray-700"
+      }`;
+      
+      btn.addEventListener("click", () => {
+        currentPage = i;
+        renderBags();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+      pagination.appendChild(btn);
+    }
+  });
 }
 
 // 🔍 検索バー入力時に再描画
