@@ -14,7 +14,6 @@ async function fetchData() {
 
 function renderBags() {
   const container = document.getElementById("bagContainer");
-  const pagination = document.getElementById("pagination");
   const paginations = document.querySelectorAll(".pagination");
 
   paginations.forEach((pagination) => {
