@@ -2318,5 +2318,115 @@
       "images/IMG_20260325_0030.jpg",
       "images/IMG_20260325_0031.jpg"
     ]
+  },
+  {
+    "airline": "エア・タヒチ・ヌイ 🇵🇫",
+    "region": "Oceania",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0032.jpg",
+      "images/IMG_20260325_0033.jpg"
+    ]
+  },
+  {
+    "airline": "エア・パシフィック 🇫🇯",
+    "region": "Oceania",
+    "year": "00年代後半〜2013年",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0034.jpg",
+      "images/IMG_20260325_0035.jpg"
+    ]
+  },
+  {
+    "airline": "ニュージーランド航空 🇳🇿",
+    "region": "Oceania",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0036.jpg",
+      "images/IMG_20260325_0037.jpg"
+    ]
+  },
+  {
+    "airline": "ニューギニア航空 🇵🇬",
+    "region": "Oceania",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0038.jpg",
+      "images/IMG_20260325_0039.jpg"
+    ]
+  },
+  {
+    "airline": "カンタス航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2024年",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0040.jpg",
+      "images/IMG_20260325_0041.jpg"
+    ]
+  },
+  {
+    "airline": "カンタス航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0042.jpg",
+      "images/IMG_20260325_0043.jpg"
+    ]
+  },
+  {
+    "airline": "カンタス航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2000年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0044.jpg",
+      "images/IMG_20260325_0045.jpg"
+    ]
+  },
+  {
+    "airline": "カンタス航空 🇦🇺",
+    "region": "Oceania",
+    "year": "1990年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0046.jpg",
+      "images/IMG_20260325_0047.jpg"
+    ]
+  },
+  {
+    "airline": "ジェットスター航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0048.jpg",
+      "images/IMG_20260325_0049.jpg"
+    ]
+  },
+  {
+    "airline": "ジェットスター航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2010年代中頃",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0050.jpg",
+      "images/IMG_20260325_0051.jpg"
+    ]
+  },
+  {
+    "airline": "ジェットスター航空 🇦🇺",
+    "region": "Oceania",
+    "year": "2010年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260325_0052.jpg",
+      "images/IMG_20260325_0053.jpg"
+    ]
   }
 ]
