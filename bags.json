@@ -3158,5 +3158,35 @@
       "images/IMG_20260328_0085.jpg",
       "images/IMG_20260328_0086.jpg"
     ]
+  },
+  {
+    "airline": "LATAM航空 🇨🇱",
+    "region": "South America",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260329_0001.jpg",
+      "images/IMG_20260329_0002.jpg"
+    ]
+  },
+  {
+    "airline": "TAM航空 🇧🇷",
+    "region": "South America",
+    "year": "2000年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260329_0003.jpg",
+      "images/IMG_20260329_0004.jpg"
+    ]
+  },
+  {
+    "airline": "GOL航空 🇧🇷",
+    "region": "South America",
+    "year": "2020年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260329_0005.jpg",
+      "images/IMG_20260329_0006.jpg"
+    ]
   }
 ]
