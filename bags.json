@@ -2968,5 +2968,195 @@
       "images/IMG_20260328_0047.jpg",
       "images/IMG_20260328_0048.jpg"
     ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代後半~",
+    "description": "紙製/マチなし",
+    "images": [
+      "images/IMG_20260328_0059.jpg",
+      "images/IMG_20260328_0060.jpg"
+    ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代後半",
+    "description": "紙製/マチあり",
+    "images": [
+      "images/IMG_20260328_0057.jpg",
+      "images/IMG_20260328_0058.jpg"
+    ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代後半",
+    "description": "プラスチック製",
+    "images": [
+      "images/IMG_20260328_0055.jpg",
+      "images/IMG_20260328_0056.jpg"
+    ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "00年代後半~10年代前半",
+    "description": "裏面細字",
+    "images": [
+      "images/IMG_20260328_0053.jpg",
+      "images/IMG_20260328_0054.jpg"
+    ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "00年代後半~10年代前半",
+    "description": "裏面太字",
+    "images": [
+      "images/IMG_20260328_0051.jpg",
+      "images/IMG_20260328_0052.jpg"
+    ]
+  },
+  {
+    "airline": "デルタ航空 🇺🇸",
+    "region": "North America",
+    "year": "00年代後半~10年代前半",
+    "description": "LKロゴあり",
+    "images": [
+      "images/IMG_20260328_0049.jpg",
+      "images/IMG_20260328_0050.jpg"
+    ]
+  },
+  {
+    "airline": "ノースウエスト航空 🇺🇸",
+    "region": "North America",
+    "year": "00年代〜2009年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0063.jpg",
+      "images/IMG_20260328_0064.jpg"
+    ]
+  },
+  {
+    "airline": "アメリカン航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0061.jpg",
+      "images/IMG_20260328_0062.jpg"
+    ]
+  },
+  {
+    "airline": "ユナイテッド航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代〜",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0065.jpg",
+      "images/IMG_20260328_0066.jpg"
+    ]
+  },
+  {
+    "airline": "コンチネンタル航空 🇺🇸",
+    "region": "North America",
+    "year": "90年代〜00年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0067.jpg",
+      "images/IMG_20260328_0068.jpg"
+    ]
+  },
+  {
+    "airline": "ハワイアン航空 🇺🇸",
+    "region": "North America",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0069.jpg",
+      "images/IMG_20260328_0070.jpg"
+    ]
+  },
+  {
+    "airline": "不明 / アメリカ 🇺🇸",
+    "region": "North America",
+    "year": "",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0071.jpg",
+      "images/IMG_20260328_0072.jpg"
+    ]
+  },
+  {
+    "airline": "不明 / アメリカ 🇺🇸",
+    "region": "North America",
+    "year": "",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0073.jpg",
+      "images/IMG_20260328_0074.jpg"
+    ]
+  },
+  {
+    "airline": "エアカナダ 🇨🇦",
+    "region": "North America",
+    "year": "2026年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0075.jpg",
+      "images/IMG_20260328_0076.jpg"
+    ]
+  },
+  {
+    "airline": "エアカナダ 🇨🇦",
+    "region": "North America",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0077.jpg",
+      "images/IMG_20260328_0078.jpg"
+    ]
+  },
+  {
+    "airline": "アエロメヒコ航空 🇲🇽",
+    "region": "North America",
+    "year": "2010年代中頃",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0079.jpg",
+      "images/IMG_20260328_0080.jpg"
+    ]
+  },
+  {
+    "airline": "アエロメヒコ航空 🇲🇽",
+    "region": "North America",
+    "year": "2000年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0081.jpg",
+      "images/IMG_20260328_0082.jpg"
+    ]
+  },
+  {
+    "airline": "コパ航空 🇵🇦",
+    "region": "North America",
+    "year": "2010年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0083.jpg",
+      "images/IMG_20260328_0084.jpg"
+    ]
+  },
+  {
+    "airline": "コパ航空 🇵🇦",
+    "region": "North America",
+    "year": "2010年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0085.jpg",
+      "images/IMG_20260328_0086.jpg"
+    ]
   }
 ]
