@@ -2728,5 +2728,175 @@
       "images/IMG_20260326_0053.jpg",
       "images/IMG_20260326_0054.jpg"
     ]
+  },
+  {
+    "airline": "エールフランス 🇫🇷",
+    "region": "Europe",
+    "year": "2025年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0001.jpg",
+      "images/IMG_20260328_0002.jpg"
+    ]
+  },
+  {
+    "airline": "エールフランス 🇫🇷",
+    "region": "Europe",
+    "year": "2010年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0003.jpg",
+      "images/IMG_20260328_0004.jpg"
+    ]
+  },
+  {
+    "airline": "ブリティッシュ・エアウェイズ 🇬🇧",
+    "region": "Europe",
+    "year": "2010年ごろ",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0005.jpg",
+      "images/IMG_20260328_0006.jpg"
+    ]
+  },
+  {
+    "airline": "ブリティッシュ・エアウェイズ / イベリア航空 🇬🇧🇪🇸",
+    "region": "Europe",
+    "year": "2011~2015年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0007.jpg",
+      "images/IMG_20260328_0008.jpg"
+    ]
+  },
+  {
+    "airline": "インターナショナル・エアラインズ・グループ共通 🇬🇧🇪🇸",
+    "region": "Europe",
+    "year": "2010年代後半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0009.jpg",
+      "images/IMG_20260328_0010.jpg"
+    ]
+  },
+  {
+    "airline": "ヴァージン・アトランティック航空 🇬🇧",
+    "region": "Europe",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0011.jpg",
+      "images/IMG_20260328_0012.jpg"
+    ]
+  },
+  {
+    "airline": "ヴァージン・アトランティック航空 🇬🇧",
+    "region": "Europe",
+    "year": "2000年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0013.jpg",
+      "images/IMG_20260328_0014.jpg"
+    ]
+  },
+  {
+    "airline": "イージージェット 🇬🇧",
+    "region": "Europe",
+    "year": "2020年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0015.jpg",
+      "images/IMG_20260328_0016.jpg"
+    ]
+  },
+  {
+    "airline": "イージージェット 🇬🇧",
+    "region": "Europe",
+    "year": "2010年代",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0017.jpg",
+      "images/IMG_20260328_0018.jpg"
+    ]
+  },
+  {
+    "airline": "アイスランド航空 🇮🇸",
+    "region": "Europe",
+    "year": "2000年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0019.jpg",
+      "images/IMG_20260328_0020.jpg"
+    ]
+  },
+  {
+    "airline": "スカンジナビア航空 🇸🇪🇩🇰🇳🇴",
+    "region": "Europe",
+    "year": "2024年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0021.jpg",
+      "images/IMG_20260328_0022.jpg"
+    ]
+  },
+  {
+    "airline": "スカンジナビア航空 🇸🇪🇩🇰🇳🇴",
+    "region": "Europe",
+    "year": "2010年代前半",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0023.jpg",
+      "images/IMG_20260328_0024.jpg"
+    ]
+  },
+  {
+    "airline": "ヴィデロー航空 🇳🇴",
+    "region": "Europe",
+    "year": "2025年",
+    "description": "",
+    "images": [
+      "images/IMG_20260328_0025.jpg",
+      "images/IMG_20260328_0026.jpg"
+    ]
+  },
+  {
+    "airline": "イベリア航空 🇪🇸",
+    "region": "Europe",
+    "year": "2024年",
+    "description": "ロゴ入り/開口下",
+    "images": [
+      "images/IMG_20260328_0027.jpg",
+      "images/IMG_20260328_0028.jpg"
+    ]
+  },
+  {
+    "airline": "イベリア航空 🇪🇸",
+    "region": "Europe",
+    "year": "2024年",
+    "description": "無地",
+    "images": [
+      "images/IMG_20260328_0029.jpg",
+      "images/IMG_20260328_0030.jpg"
+    ]
+  },
+  {
+    "airline": "ブエリング航空 🇪🇸",
+    "region": "Europe",
+    "year": "2020年代",
+    "description": "2025 net zero/開口下",
+    "images": [
+      "images/IMG_20260328_0031.jpg",
+      "images/IMG_20260328_0032.jpg"
+    ]
+  },
+  {
+    "airline": "ブエリング航空 🇪🇸",
+    "region": "Europe",
+    "year": "2020年代",
+    "description": "開口下",
+    "images": [
+      "images/IMG_20260328_0033",
+      "images/IMG_20260328_0034.jpg"
+    ]
   }
 ]
