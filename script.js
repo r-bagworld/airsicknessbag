@@ -1,6 +1,6 @@
 let bags = [];
 let currentPage = 1;
-const itemsPerPage = 32;
+const itemsPerPage = 30;
 
 const params = new URLSearchParams(window.location.search);
 const regionParam = params.get("region"); 
