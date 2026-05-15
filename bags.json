@@ -630,6 +630,26 @@
     ]
   },
   {
+    "airline": "天草エアライン 🇯🇵",
+    "region": "Japan",
+    "year": "2026年",
+    "description": "海豚",
+    "images": [
+      "images/IMG_20260515_0001.jpg",
+      "images/IMG_20260515_0002.jpg"
+    ]
+  },
+  {
+    "airline": "天草エアライン 🇯🇵",
+    "region": "Japan",
+    "year": "2026年",
+    "description": "刺身",
+    "images": [
+      "images/IMG_20260515_0003.jpg",
+      "images/IMG_20260515_0004.jpg"
+    ]
+  },
+  {
     "airline": "東邦航空（東京愛ランドシャトル） 🇯🇵",
     "region": "Japan",
     "year": "2020年代中頃",
@@ -2567,6 +2587,16 @@
     "images": [
       "images/IMG_20260326_0019.jpg",
       "images/IMG_20260326_0020.jpg"
+    ]
+  },
+  {
+    "airline": "ルフトハンザドイツ航空 🇩🇪",
+    "region": "Europe",
+    "year": "2026年",
+    "description": "",
+    "images": [
+      "images/IMG_20260515_0005.jpg",
+      "images/IMG_20260515_0006.jpg"
     ]
   },
   {
