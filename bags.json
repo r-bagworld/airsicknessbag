@@ -8,7 +8,7 @@
     "country": "Japan",
     "year": "2025年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0001.jpg",
       "images/IMG_20260312_0002.jpg"
@@ -23,7 +23,7 @@
     "country": "Japan",
     "year": "2024年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0017.jpg",
       "images/IMG_20260316_0018.jpg"
@@ -38,7 +38,7 @@
     "country": "Japan",
     "year": "2023-24年",
     "description": "FSC認証追加",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0003.jpg",
       "images/IMG_20260312_0004.jpg"
@@ -53,7 +53,7 @@
     "country": "Japan",
     "year": "2011-23年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0101.jpg",
       "images/IMG_20260316_0102.jpg"
@@ -68,7 +68,7 @@
     "country": "Japan",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0103.jpg",
       "images/IMG_20260316_0104.jpg"
@@ -83,7 +83,7 @@
     "country": "Japan",
     "year": "2000年代前半",
     "description": "矢印ストレート",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0105.jpg",
       "images/IMG_20260316_0106.jpg"
@@ -98,7 +98,7 @@
     "country": "Japan",
     "year": "2000年代前半",
     "description": "矢印カーブ",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0107.jpg",
       "images/IMG_20260316_0108.jpg"
@@ -113,7 +113,7 @@
     "country": "Japan",
     "year": "1990年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0109.jpg",
       "images/IMG_20260316_0110.jpg"
@@ -128,7 +128,7 @@
     "country": "Japan",
     "year": "80年代後半-90年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0111.jpg",
       "images/IMG_20260316_0112.jpg"
@@ -143,7 +143,7 @@
     "country": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0007.jpg",
       "images/IMG_20260312_0008.jpg"
@@ -158,7 +158,7 @@
     "country": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0113.jpg",
       "images/IMG_20260316_0114.jpg"
@@ -173,7 +173,7 @@
     "country": "Japan",
     "year": "1960年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0005.jpg",
       "images/IMG_20260312_0006.jpg"
@@ -188,7 +188,7 @@
     "country": "Japan",
     "year": "2013年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0119.jpg",
       "images/IMG_20260316_0120.jpg"
@@ -203,7 +203,7 @@
     "country": "Japan",
     "year": "2012年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0011.jpg",
       "images/IMG_20260312_0012.jpg"
@@ -218,7 +218,7 @@
     "country": "Japan",
     "year": "2013-19年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0117.jpg",
       "images/IMG_20260316_0118.jpg"
@@ -233,7 +233,7 @@
     "country": "Japan",
     "year": "2025年",
     "description": "",
-    "new": "TRUE",
+    "new": true,
     "images": [
       "images/IMG_20260312_0009.jpg",
       "images/IMG_20260312_0010.jpg"
@@ -248,7 +248,7 @@
     "country": "Japan",
     "year": "1996-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0115.jpg",
       "images/IMG_20260316_0116.jpg"
@@ -263,7 +263,7 @@
     "country": "Japan",
     "year": "2010年代〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0123.jpg",
       "images/IMG_20260316_0124.jpg"
@@ -278,7 +278,7 @@
     "country": "Japan",
     "year": "2000-04年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0125.jpg",
       "images/IMG_20260317_0001.jpg"
@@ -293,7 +293,7 @@
     "country": "Japan",
     "year": "2019年〜",
     "description": "FSC認証追加",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0001.jpg",
       "images/IMG_20260313_0002.jpg"
@@ -308,7 +308,7 @@
     "country": "Japan",
     "year": "2019年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0003.jpg",
       "images/IMG_20260313_0004.jpg"
@@ -323,7 +323,7 @@
     "country": "Japan",
     "year": "2015~2018年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0005.jpg",
       "images/IMG_20260313_0006.jpg"
@@ -338,7 +338,7 @@
     "country": "Japan",
     "year": "2012~2014年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0007.jpg",
       "images/IMG_20260313_0008.jpg"
@@ -353,7 +353,7 @@
     "country": "Japan",
     "year": "2012年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0009.jpg",
       "images/IMG_20260313_0010.jpg"
@@ -368,7 +368,7 @@
     "country": "Japan",
     "year": "2007~2011年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0011.jpg",
       "images/IMG_20260313_0012.jpg"
@@ -383,7 +383,7 @@
     "country": "Japan",
     "year": "2011年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0013.jpg",
       "images/IMG_20260313_0014.jpg"
@@ -398,7 +398,7 @@
     "country": "Japan",
     "year": "2006~2007年",
     "description": "Dマーク",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0015.jpg",
       "images/IMG_20260313_0016.jpg"
@@ -413,7 +413,7 @@
     "country": "Japan",
     "year": "2006~2007年",
     "description": "Jマーク",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0017.jpg",
       "images/IMG_20260313_0018.jpg"
@@ -428,7 +428,7 @@
     "country": "Japan",
     "year": "2003-2006年",
     "description": "cマーク",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0019.jpg",
       "images/IMG_20260313_0020.jpg"
@@ -443,7 +443,7 @@
     "country": "Japan",
     "year": "2003-2006年",
     "description": "無印",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0021.jpg",
       "images/IMG_20260313_0022.jpg"
@@ -458,7 +458,7 @@
     "country": "Japan",
     "year": "2001-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0023.jpg",
       "images/IMG_20260313_0024.jpg"
@@ -473,7 +473,7 @@
     "country": "Japan",
     "year": "1995-2000年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0025.jpg",
       "images/IMG_20260312_0026.jpg"
@@ -488,7 +488,7 @@
     "country": "Japan",
     "year": "1990-1994年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0025.jpg",
       "images/IMG_20260313_0026.jpg"
@@ -503,7 +503,7 @@
     "country": "Japan",
     "year": "1980-1989年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0027.jpg",
       "images/IMG_20260313_0028.jpg"
@@ -518,7 +518,7 @@
     "country": "Japan",
     "year": "1980-1989年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0029.jpg",
       "images/IMG_20260313_0030.jpg"
@@ -533,7 +533,7 @@
     "country": "Japan",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0031.jpg",
       "images/IMG_20260313_0032.jpg"
@@ -548,7 +548,7 @@
     "country": "Japan",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0033.jpg",
       "images/IMG_20260313_0034.jpg"
@@ -563,7 +563,7 @@
     "country": "Japan",
     "year": "1975-1985年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0035.jpg",
       "images/IMG_20260313_0036.jpg"
@@ -578,7 +578,7 @@
     "country": "Japan",
     "year": "2024年-",
     "description": "日本汎用",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0037.jpg",
       "images/IMG_20260313_0038.jpg"
@@ -593,7 +593,7 @@
     "country": "Japan",
     "year": "-2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0039.jpg",
       "images/IMG_20260313_0040.jpg"
@@ -608,7 +608,7 @@
     "country": "Japan",
     "year": "2012年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0041.jpg",
       "images/IMG_20260313_0042.jpg"
@@ -623,7 +623,7 @@
     "country": "Japan",
     "year": "2025年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0043.jpg",
       "images/IMG_20260313_0044.jpg"
@@ -638,7 +638,7 @@
     "country": "Japan",
     "year": "2020年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260313_0045.jpg",
       "images/IMG_20260313_0046.jpg"
@@ -653,7 +653,7 @@
     "country": "Japan",
     "year": "2001-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0083.jpg",
       "images/IMG_20260316_0084.jpg"
@@ -668,7 +668,7 @@
     "country": "Japan",
     "year": "2001-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0085.jpg",
       "images/IMG_20260316_0086.jpg"
@@ -683,7 +683,7 @@
     "country": "Japan",
     "year": "2001-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0087.jpg",
       "images/IMG_20260316_0088.jpg"
@@ -698,7 +698,7 @@
     "country": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載あり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0089.jpg",
       "images/IMG_20260316_0090.jpg"
@@ -713,7 +713,7 @@
     "country": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載なし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0091.jpg",
       "images/IMG_20260316_0092.jpg"
@@ -728,7 +728,7 @@
     "country": "Japan",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0093.jpg",
       "images/IMG_20260316_0094.jpg"
@@ -743,7 +743,7 @@
     "country": "Japan",
     "year": "1980年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0095.jpg",
       "images/IMG_20260316_0096.jpg"
@@ -758,7 +758,7 @@
     "country": "Japan",
     "year": "1980年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0097.jpg",
       "images/IMG_20260316_0098.jpg"
@@ -773,7 +773,7 @@
     "country": "Japan",
     "year": "90年代後半-00年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0099.jpg",
       "images/IMG_20260316_0100.jpg"
@@ -788,7 +788,7 @@
     "country": "Japan",
     "year": "2009年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0019.jpg",
       "images/IMG_20260316_0020.jpg"
@@ -803,7 +803,7 @@
     "country": "Japan",
     "year": "2018年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0121.jpg",
       "images/IMG_20260316_0122.jpg"
@@ -818,7 +818,7 @@
     "country": "Japan",
     "year": "2010-15年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0021.jpg",
       "images/IMG_20260312_0022.jpg"
@@ -833,7 +833,7 @@
     "country": "Japan",
     "year": "2011年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0008.jpg",
       "images/IMG_20260317_0009.jpg"
@@ -848,7 +848,7 @@
     "country": "Japan",
     "year": "2016年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0010.jpg",
       "images/IMG_20260317_0011.jpg"
@@ -863,7 +863,7 @@
     "country": "Japan",
     "year": "2015年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0012.jpg",
       "images/IMG_20260317_0013.jpg"
@@ -878,7 +878,7 @@
     "country": "Japan",
     "year": "2021年-",
     "description": "ポケモンジェット限定",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0013.jpg",
       "images/IMG_20260312_0014.jpg"
@@ -893,7 +893,7 @@
     "country": "Japan",
     "year": "2019年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0002.jpg",
       "images/IMG_20260317_0003.jpg"
@@ -908,7 +908,7 @@
     "country": "Japan",
     "year": "2017-19年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0004.jpg",
       "images/IMG_20260317_0005.jpg"
@@ -923,7 +923,7 @@
     "country": "Japan",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0006.jpg",
       "images/IMG_20260317_0007.jpg"
@@ -938,7 +938,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0015.jpg",
       "images/IMG_20260312_0016.jpg"
@@ -953,7 +953,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "海豚",
-    "new": "TRUE",
+    "new": true,
     "images": [
       "images/IMG_20260515_0001.jpg",
       "images/IMG_20260515_0002.jpg"
@@ -968,7 +968,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "刺身",
-    "new": "TRUE",
+    "new": true,
     "images": [
       "images/IMG_20260515_0003.jpg",
       "images/IMG_20260515_0004.jpg"
@@ -983,7 +983,7 @@
     "country": "Japan",
     "year": "2020年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0017.jpg",
       "images/IMG_20260312_0018.jpg"
@@ -998,7 +998,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0056.jpg",
       "images/IMG_20260325_0057.jpg"
@@ -1013,7 +1013,7 @@
     "country": "Japan",
     "year": "1980年代〜2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0023.jpg",
       "images/IMG_20260312_0024.jpg"
@@ -1028,7 +1028,7 @@
     "country": "Japan",
     "year": "2020年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0014.jpg",
       "images/IMG_20260317_0015.jpg"
@@ -1043,7 +1043,7 @@
     "country": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0021.jpg",
       "images/IMG_20260316_0022.jpg"
@@ -1058,7 +1058,7 @@
     "country": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0019.jpg",
       "images/IMG_20260312_0020.jpg"
@@ -1073,7 +1073,7 @@
     "country": "China",
     "year": "2020年頃-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0001.jpg",
       "images/IMG_20260316_0002.jpg"
@@ -1088,7 +1088,7 @@
     "country": "China",
     "year": "2010年代-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0003.jpg",
       "images/IMG_20260316_0004.jpg"
@@ -1103,7 +1103,7 @@
     "country": "China",
     "year": "2000年代後半",
     "description": "開口部矢印あり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0005.jpg",
       "images/IMG_20260316_0006.jpg"
@@ -1118,7 +1118,7 @@
     "country": "China",
     "year": "2000年代後半",
     "description": "開口部矢印なし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0007.jpg",
       "images/IMG_20260316_0008.jpg"
@@ -1133,7 +1133,7 @@
     "country": "China",
     "year": "1990年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0009.jpg",
       "images/IMG_20260316_0010.jpg"
@@ -1148,7 +1148,7 @@
     "country": "China",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0011.jpg",
       "images/IMG_20260316_0012.jpg"
@@ -1163,7 +1163,7 @@
     "country": "China",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0013.jpg",
       "images/IMG_20260316_0014.jpg"
@@ -1178,7 +1178,7 @@
     "country": "China",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0015.jpg",
       "images/IMG_20260316_0016.jpg"
@@ -1193,7 +1193,7 @@
     "country": "China",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0023.jpg",
       "images/IMG_20260316_0024.jpg"
@@ -1208,7 +1208,7 @@
     "country": "China",
     "year": "2000年代後半(?)",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0025.jpg",
       "images/IMG_20260316_0026.jpg"
@@ -1223,7 +1223,7 @@
     "country": "China",
     "year": "2010年代-(?)",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0027.jpg",
       "images/IMG_20260316_0028.jpg"
@@ -1238,7 +1238,7 @@
     "country": "China",
     "year": "2011年-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0029.jpg",
       "images/IMG_20260316_0030.jpg"
@@ -1253,7 +1253,7 @@
     "country": "China",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0031.jpg",
       "images/IMG_20260316_0032.jpg"
@@ -1268,7 +1268,7 @@
     "country": "China",
     "year": "1985-2003年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0033.jpg",
       "images/IMG_20260316_0034.jpg"
@@ -1283,7 +1283,7 @@
     "country": "China",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0027.jpg",
       "images/IMG_20260312_0028.jpg"
@@ -1298,7 +1298,7 @@
     "country": "China",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0035.jpg",
       "images/IMG_20260316_0036.jpg"
@@ -1313,7 +1313,7 @@
     "country": "China",
     "year": "2018-20年代前半",
     "description": "+JCマーク",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0029.jpg",
       "images/IMG_20260312_0030.jpg"
@@ -1328,7 +1328,7 @@
     "country": "China",
     "year": "2018-20年代前半",
     "description": "+マーク",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0016.jpg",
       "images/IMG_20260317_0017.jpg"
@@ -1343,7 +1343,7 @@
     "country": "China",
     "year": "2018-20年代前半",
     "description": "SUO-MA",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0031.jpg",
       "images/IMG_20260312_0032.jpg"
@@ -1358,7 +1358,7 @@
     "country": "China",
     "year": "2015-18年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0018.jpg",
       "images/IMG_20260317_0019.jpg"
@@ -1373,7 +1373,7 @@
     "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "紫ver",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0020.jpg",
       "images/IMG_20260317_0021.jpg"
@@ -1388,7 +1388,7 @@
     "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "青ver",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0022.jpg",
       "images/IMG_20260317_0023.jpg"
@@ -1403,7 +1403,7 @@
     "country": "China",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0024.jpg",
       "images/IMG_20260317_0025.jpg"
@@ -1418,7 +1418,7 @@
     "country": "China",
     "year": "2010年代後半-",
     "description": "赤ver",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0026.jpg",
       "images/IMG_20260317_0027.jpg"
@@ -1433,7 +1433,7 @@
     "country": "China",
     "year": "2010年代後半-",
     "description": "黒ver",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_9386.jpg",
       "images/IMG_9387.jpg"
@@ -1448,7 +1448,7 @@
     "country": "China",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0028.jpg",
       "images/IMG_20260317_0029.jpg"
@@ -1463,7 +1463,7 @@
     "country": "China",
     "year": "2007~10年頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0030.jpg",
       "images/IMG_20260317_0031.jpg"
@@ -1478,7 +1478,7 @@
     "country": "China",
     "year": "2000年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0032.jpg",
       "images/IMG_20260317_0033.jpg"
@@ -1493,7 +1493,7 @@
     "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0037.jpg",
       "images/IMG_20260316_0038.jpg"
@@ -1508,7 +1508,7 @@
     "country": "China",
     "year": "1989-2002年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0039.jpg",
       "images/IMG_20260316_0040.jpg"
@@ -1523,7 +1523,7 @@
     "country": "China",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260317_0034.jpg",
       "images/IMG_20260317_0035.jpg"
@@ -1538,7 +1538,7 @@
     "country": "China",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0041.jpg",
       "images/IMG_20260316_0042.jpg"
@@ -1553,7 +1553,7 @@
     "country": "China",
     "year": "2010年代",
     "description": "ウイグル語",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0043.jpg",
       "images/IMG_20260316_0044.jpg"
@@ -1568,7 +1568,7 @@
     "country": "China",
     "year": "2000年代後半",
     "description": "ウイグル語/ゴミマークなし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0045.jpg",
       "images/IMG_20260316_0046.jpg"
@@ -1583,7 +1583,7 @@
     "country": "China",
     "year": "2000年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0047.jpg",
       "images/IMG_20260316_0048.jpg"
@@ -1598,7 +1598,7 @@
     "country": "China",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0033.jpg",
       "images/IMG_20260312_0034.jpg"
@@ -1613,7 +1613,7 @@
     "country": "China",
     "year": "2015年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0049.jpg",
       "images/IMG_20260316_0050.jpg"
@@ -1628,7 +1628,7 @@
     "country": "China",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0051.jpg",
       "images/IMG_20260316_0052.jpg"
@@ -1643,7 +1643,7 @@
     "country": "China",
     "year": "2000年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0053.jpg",
       "images/IMG_20260316_0054.jpg"
@@ -1658,7 +1658,7 @@
     "country": "China",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0055.jpg",
       "images/IMG_20260316_0056.jpg"
@@ -1673,7 +1673,7 @@
     "country": "China",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0057.jpg",
       "images/IMG_20260316_0058.jpg"
@@ -1688,7 +1688,7 @@
     "country": "China",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0059.jpg",
       "images/IMG_20260316_0060.jpg"
@@ -1703,7 +1703,7 @@
     "country": "China",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0061.jpg",
       "images/IMG_20260316_0062.jpg"
@@ -1718,7 +1718,7 @@
     "country": "China",
     "year": "2005~2015年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0063.jpg",
       "images/IMG_20260316_0064.jpg"
@@ -1733,7 +1733,7 @@
     "country": "China",
     "year": "2005~2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0065.jpg",
       "images/IMG_20260316_0066.jpg"
@@ -1748,7 +1748,7 @@
     "country": "China",
     "year": "2014年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0067.jpg",
       "images/IMG_20260316_0068.jpg"
@@ -1763,7 +1763,7 @@
     "country": "China",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0069.jpg",
       "images/IMG_20260316_0070.jpg"
@@ -1778,7 +1778,7 @@
     "country": "China",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0071.jpg",
       "images/IMG_20260316_0072.jpg"
@@ -1793,7 +1793,7 @@
     "country": "China",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0073.jpg",
       "images/IMG_20260316_0074.jpg"
@@ -1808,7 +1808,7 @@
     "country": "China",
     "year": "2017年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0075.jpg",
       "images/IMG_20260316_0076.jpg"
@@ -1823,7 +1823,7 @@
     "country": "China",
     "year": "2015年頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0077.jpg",
       "images/IMG_20260316_0078.jpg"
@@ -1838,7 +1838,7 @@
     "country": "China",
     "year": "2010年頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0079.jpg",
       "images/IMG_20260316_0080.jpg"
@@ -1853,7 +1853,7 @@
     "country": "China",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0035.jpg",
       "images/IMG_20260312_0036.jpg"
@@ -1868,7 +1868,7 @@
     "country": "China",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260316_0081.jpg",
       "images/IMG_20260316_0082.jpg"
@@ -1883,7 +1883,7 @@
     "country": "Hong Kong",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0037.jpg",
       "images/IMG_20260312_0038.jpg"
@@ -1898,7 +1898,7 @@
     "country": "Hong Kong",
     "year": "2000年代後半-2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0039.jpg",
       "images/IMG_20260312_0040.jpg"
@@ -1913,7 +1913,7 @@
     "country": "Hong Kong",
     "year": "2010年代後半〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0041.jpg",
       "images/IMG_20260312_0042.jpg"
@@ -1928,7 +1928,7 @@
     "country": "Hong Kong",
     "year": "00年代-10年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0043.jpg",
       "images/IMG_20260312_0044.jpg"
@@ -1943,7 +1943,7 @@
     "country": "Hong Kong",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0045.jpg",
       "images/IMG_20260312_0046.jpg"
@@ -1958,7 +1958,7 @@
     "country": "Hong Kong",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0047.jpg",
       "images/IMG_20260312_0048.jpg"
@@ -1973,7 +1973,7 @@
     "country": "Hong Kong",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0049.jpg",
       "images/IMG_20260312_0050.jpg"
@@ -1988,7 +1988,7 @@
     "country": "Hong Kong",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0051.jpg",
       "images/IMG_20260312_0052.jpg"
@@ -2003,7 +2003,7 @@
     "country": "Macau",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0053.jpg",
       "images/IMG_20260312_0054.jpg"
@@ -2018,7 +2018,7 @@
     "country": "Taiwan",
     "year": "2020年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0055.jpg",
       "images/IMG_20260312_0056.jpg"
@@ -2033,7 +2033,7 @@
     "country": "Taiwan",
     "year": "2010年代〜",
     "description": "赤version",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0057.jpg",
       "images/IMG_20260312_0058.jpg"
@@ -2048,7 +2048,7 @@
     "country": "Taiwan",
     "year": "2010年代〜",
     "description": "青version",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0059.jpg",
       "images/IMG_20260312_0060.jpg"
@@ -2063,7 +2063,7 @@
     "country": "Taiwan",
     "year": "2010年代〜",
     "description": "水色version",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0061.jpg",
       "images/IMG_20260312_0062.jpg"
@@ -2078,7 +2078,7 @@
     "country": "Taiwan",
     "year": "2010年ごろ",
     "description": "赤version",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0063.jpg",
       "images/IMG_20260312_0064.jpg"
@@ -2093,7 +2093,7 @@
     "country": "Taiwan",
     "year": "2010年ごろ",
     "description": "青version",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0065.jpg",
       "images/IMG_20260312_0066.jpg"
@@ -2108,7 +2108,7 @@
     "country": "Taiwan",
     "year": "2000年代半ば",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0067.jpg",
       "images/IMG_20260312_0068.jpg"
@@ -2123,7 +2123,7 @@
     "country": "Taiwan",
     "year": "2020年代前半-",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0069.jpg",
       "images/IMG_20260312_0070.jpg"
@@ -2138,7 +2138,7 @@
     "country": "Taiwan",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0071.jpg",
       "images/IMG_20260312_0072.jpg"
@@ -2153,7 +2153,7 @@
     "country": "Taiwan",
     "year": "2010年代中盤〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0073.jpg",
       "images/IMG_20260312_0074.jpg"
@@ -2168,7 +2168,7 @@
     "country": "Taiwan",
     "year": "2012年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0075.jpg",
       "images/IMG_20260312_0076.jpg"
@@ -2183,7 +2183,7 @@
     "country": "Taiwan",
     "year": "2010年代前半~中盤",
     "description": "ロゴ小",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0077.jpg",
       "images/IMG_20260312_0078.jpg"
@@ -2198,7 +2198,7 @@
     "country": "Taiwan",
     "year": "2010年代前半~中盤",
     "description": "ロゴ大",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0079.jpg",
       "images/IMG_20260312_0080.jpg"
@@ -2213,7 +2213,7 @@
     "country": "Taiwan",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0081.jpg",
       "images/IMG_20260312_0082.jpg"
@@ -2228,7 +2228,7 @@
     "country": "Taiwan",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0083.jpg",
       "images/IMG_20260312_0084.jpg"
@@ -2243,7 +2243,7 @@
     "country": "Taiwan",
     "year": "1990年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0085.jpg",
       "images/IMG_20260312_0086.jpg"
@@ -2258,7 +2258,7 @@
     "country": "Taiwan",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0087.jpg",
       "images/IMG_20260312_0088.jpg"
@@ -2273,7 +2273,7 @@
     "country": "Taiwan",
     "year": "2000年代",
     "description": "\"嘔吐専用袋\"表記",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0089.jpg",
       "images/IMG_20260312_0090.jpg"
@@ -2288,7 +2288,7 @@
     "country": "Taiwan",
     "year": "2000年代",
     "description": "\"清潔袋\"表記",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0091.jpg",
       "images/IMG_20260312_0092.jpg"
@@ -2303,7 +2303,7 @@
     "country": "Korea",
     "year": "2025年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0093.jpg",
       "images/IMG_20260312_0094.jpg"
@@ -2318,7 +2318,7 @@
     "country": "Korea",
     "year": "00年代後半~2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0095.jpg",
       "images/IMG_20260312_0096.jpg"
@@ -2333,7 +2333,7 @@
     "country": "Korea",
     "year": "2008年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0097.jpg",
       "images/IMG_20260312_0098.jpg"
@@ -2348,7 +2348,7 @@
     "country": "Korea",
     "year": "2025年~",
     "description": "側面新ロゴ",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0099.jpg",
       "images/IMG_20260312_0100.jpg"
@@ -2363,7 +2363,7 @@
     "country": "Korea",
     "year": "2020年代前半",
     "description": "側面旧ロゴ",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0101.jpg",
       "images/IMG_20260312_0102.jpg"
@@ -2378,7 +2378,7 @@
     "country": "Korea",
     "year": "2000年代後半-2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0103.jpg",
       "images/IMG_20260312_0104.jpg"
@@ -2393,7 +2393,7 @@
     "country": "Korea",
     "year": "2000年代前半",
     "description": "開口部表記なし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0105.jpg",
       "images/IMG_20260312_0106.jpg"
@@ -2408,7 +2408,7 @@
     "country": "Korea",
     "year": "2000年代前半",
     "description": "開口部表記あり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0107.jpg",
       "images/IMG_20260312_0108.jpg"
@@ -2423,7 +2423,7 @@
     "country": "Korea",
     "year": "2007年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0109.jpg",
       "images/IMG_20260312_0110.jpg"
@@ -2438,7 +2438,7 @@
     "country": "Korea",
     "year": "2016年〜",
     "description": "",
-    "new": "TRUE",
+    "new": true,
     "images": [
       "images/IMG_20260714_0001.jpg",
       "images/IMG_20260714_0002.jpg"
@@ -2453,7 +2453,7 @@
     "country": "Korea",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0111.jpg",
       "images/IMG_20260312_0112.jpg"
@@ -2468,7 +2468,7 @@
     "country": "Korea",
     "year": "2010年代後半〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0113.jpg",
       "images/IMG_20260312_0114.jpg"
@@ -2483,7 +2483,7 @@
     "country": "Korea",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0115.jpg",
       "images/IMG_20260312_0116.jpg"
@@ -2498,7 +2498,7 @@
     "country": "Korea",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0117.jpg",
       "images/IMG_20260312_0118.jpg"
@@ -2513,7 +2513,7 @@
     "country": "Korea",
     "year": "2025年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0058.jpg",
       "images/IMG_20260325_0059.jpg"
@@ -2528,7 +2528,7 @@
     "country": "North Korea",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0119.jpg",
       "images/IMG_20260312_0120.jpg"
@@ -2543,7 +2543,7 @@
     "country": "Mongolia",
     "year": "2000年代~2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260312_0121.jpg",
       "images/IMG_20260312_0122.jpg"
@@ -2558,7 +2558,7 @@
     "country": "Philippines",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0001.jpg",
       "images/IMG_20260320_0002.jpg"
@@ -2573,7 +2573,7 @@
     "country": "Laos",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0003.jpg",
       "images/IMG_20260320_0004.jpg"
@@ -2588,7 +2588,7 @@
     "country": "Laos",
     "year": "2020年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0005.jpg",
       "images/IMG_20260320_0006.jpg"
@@ -2603,7 +2603,7 @@
     "country": "Laos",
     "year": "2021年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0007.jpg",
       "images/IMG_20260320_0008.jpg"
@@ -2618,7 +2618,7 @@
     "country": "Viet Nam",
     "year": "2025年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0009.jpg",
       "images/IMG_20260320_0010.jpg"
@@ -2633,7 +2633,7 @@
     "country": "Viet Nam",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0011.jpg",
       "images/IMG_20260320_0012.jpg"
@@ -2648,7 +2648,7 @@
     "country": "Viet Nam",
     "year": "2015年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0013.jpg",
       "images/IMG_20260320_0014.jpg"
@@ -2663,7 +2663,7 @@
     "country": "Viet Nam",
     "year": "00年代後半〜10年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0015.jpg",
       "images/IMG_20260320_0016.jpg"
@@ -2678,7 +2678,7 @@
     "country": "Viet Nam",
     "year": "1990年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0017.jpg",
       "images/IMG_20260320_0018.jpg"
@@ -2693,7 +2693,7 @@
     "country": "Viet Nam",
     "year": "2008~2020年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0019.jpg",
       "images/IMG_20260320_0020.jpg"
@@ -2708,7 +2708,7 @@
     "country": "Cambodia",
     "year": "1996~2001年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0021.jpg",
       "images/IMG_20260320_0022.jpg"
@@ -2723,7 +2723,7 @@
     "country": "Cambodia",
     "year": "2009年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0023.jpg",
       "images/IMG_20260320_0024.jpg"
@@ -2738,7 +2738,7 @@
     "country": "Cambodia",
     "year": "2017~2023年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0025.jpg",
       "images/IMG_20260320_0026.jpg"
@@ -2753,7 +2753,7 @@
     "country": "Cambodia",
     "year": "2018年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0027.jpg",
       "images/IMG_20260320_0028.jpg"
@@ -2768,7 +2768,7 @@
     "country": "Malaysia",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0029.jpg",
       "images/IMG_20260320_0030.jpg"
@@ -2783,7 +2783,7 @@
     "country": "Malaysia",
     "year": "2015年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0031.jpg",
       "images/IMG_20260320_0032.jpg"
@@ -2798,7 +2798,7 @@
     "country": "Malaysia",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0033.jpg",
       "images/IMG_20260320_0034.jpg"
@@ -2813,7 +2813,7 @@
     "country": "Malaysia",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0035.jpg",
       "images/IMG_20260320_0036.jpg"
@@ -2828,7 +2828,7 @@
     "country": "Malaysia",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0037.jpg",
       "images/IMG_20260320_0038.jpg"
@@ -2843,7 +2843,7 @@
     "country": "Malaysia",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0039.jpg",
       "images/IMG_20260320_0040.jpg"
@@ -2858,7 +2858,7 @@
     "country": "Malaysia",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0041.jpg",
       "images/IMG_20260320_0042.jpg"
@@ -2873,7 +2873,7 @@
     "country": "Malaysia",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260414_0001.jpg",
       "images/IMG_20260414_0002.jpg"
@@ -2888,7 +2888,7 @@
     "country": "Singapore",
     "year": "2010年代後半ー",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0043.jpg",
       "images/IMG_20260320_0044.jpg"
@@ -2903,7 +2903,7 @@
     "country": "Singapore",
     "year": "1990年代後半-2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0045.jpg",
       "images/IMG_20260320_0046.jpg"
@@ -2918,7 +2918,7 @@
     "country": "Singapore",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0047.jpg",
       "images/IMG_20260320_0048.jpg"
@@ -2933,7 +2933,7 @@
     "country": "Singapore",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0049.jpg",
       "images/IMG_20260320_0050.jpg"
@@ -2948,7 +2948,7 @@
     "country": "Singapore",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0051.jpg",
       "images/IMG_20260320_0052.jpg"
@@ -2963,7 +2963,7 @@
     "country": "Brunei",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0053.jpg",
       "images/IMG_20260320_0054.jpg"
@@ -2978,7 +2978,7 @@
     "country": "Thailand",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0055.jpg",
       "images/IMG_20260320_0056.jpg"
@@ -2993,7 +2993,7 @@
     "country": "Thailand",
     "year": "2022年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0057.jpg",
       "images/IMG_20260320_0058.jpg"
@@ -3008,7 +3008,7 @@
     "country": "Thailand",
     "year": "00年代後半~10年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0059.jpg",
       "images/IMG_20260320_0060.jpg"
@@ -3023,7 +3023,7 @@
     "country": "Thailand",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0061.jpg",
       "images/IMG_20260320_0062.jpg"
@@ -3038,7 +3038,7 @@
     "country": "Thailand",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0063.jpg",
       "images/IMG_20260320_0064.jpg"
@@ -3053,7 +3053,7 @@
     "country": "Thailand",
     "year": "2000年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0065.jpg",
       "images/IMG_20260320_0066.jpg"
@@ -3068,7 +3068,7 @@
     "country": "Indonesia",
     "year": "2014年〜",
     "description": "スカイチームロゴ入り",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0067.jpg",
       "images/IMG_20260320_0068.jpg"
@@ -3083,7 +3083,7 @@
     "country": "Indonesia",
     "year": "00年代後半~2014年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0069.jpg",
       "images/IMG_20260320_0070.jpg"
@@ -3098,7 +3098,7 @@
     "country": "Myanmar",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260320_0071.jpg",
       "images/IMG_20260320_0072.jpg"
@@ -3113,7 +3113,7 @@
     "country": "India",
     "year": "2010年代~",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0001.jpg",
       "images/IMG_20260321_0002.jpg"
@@ -3128,7 +3128,7 @@
     "country": "India",
     "year": "2010年代~",
     "description": "スタアラロゴ入り",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0003.jpg",
       "images/IMG_20260321_0004.jpg"
@@ -3143,7 +3143,7 @@
     "country": "India",
     "year": "2006年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0005.jpg",
       "images/IMG_20260321_0006.jpg"
@@ -3158,7 +3158,7 @@
     "country": "India",
     "year": "00年代後半~2019年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0007.jpg",
       "images/IMG_20260321_0008.jpg"
@@ -3173,7 +3173,7 @@
     "country": "Bhutan",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0009.jpg",
       "images/IMG_20260321_0010.jpg"
@@ -3188,7 +3188,7 @@
     "country": "Bhutan",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0011.jpg",
       "images/IMG_20260321_0012.jpg"
@@ -3203,7 +3203,7 @@
     "country": "Bhutan",
     "year": "2011年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0013.jpg",
       "images/IMG_20260321_0014.jpg"
@@ -3218,7 +3218,7 @@
     "country": "Nepal",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0015.jpg",
       "images/IMG_20260321_0016.jpg"
@@ -3233,7 +3233,7 @@
     "country": "Nepal",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0017.jpg",
       "images/IMG_20260321_0018.jpg"
@@ -3248,7 +3248,7 @@
     "country": "Nepal",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0021.jpg",
       "images/IMG_20260321_0022.jpg"
@@ -3263,7 +3263,7 @@
     "country": "Sri Lanka",
     "year": "2000年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260321_0019.jpg",
       "images/IMG_20260321_0020.jpg"
@@ -3278,7 +3278,7 @@
     "country": "Qatar",
     "year": "2018年〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260324_0001.jpg",
       "images/IMG_20260324_0002.jpg"
@@ -3293,7 +3293,7 @@
     "country": "Qatar",
     "year": "2011~17年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260324_0003.jpg",
       "images/IMG_20260324_0004.jpg"
@@ -3308,7 +3308,7 @@
     "country": "UAE",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260324_0005.jpg",
       "images/IMG_20260324_0006.jpg"
@@ -3323,7 +3323,7 @@
     "country": "UAE",
     "year": "2010年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260324_0007.jpg",
       "images/IMG_20260324_0008.jpg"
@@ -3338,7 +3338,7 @@
     "country": "UAE",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260324_0009.jpg",
       "images/IMG_20260325_0001.jpg"
@@ -3353,7 +3353,7 @@
     "country": "UAE",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0002.jpg",
       "images/IMG_20260325_0003.jpg"
@@ -3368,7 +3368,7 @@
     "country": "UAE",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0004.jpg",
       "images/IMG_20260325_0005.jpg"
@@ -3383,7 +3383,7 @@
     "country": "UAE",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0006.jpg",
       "images/IMG_20260325_0007.jpg"
@@ -3398,7 +3398,7 @@
     "country": "Saudi Arabia",
     "year": "2010年代後半〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0008.jpg",
       "images/IMG_20260325_0009.jpg"
@@ -3413,7 +3413,7 @@
     "country": "Turkiye",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0010.jpg",
       "images/IMG_20260325_0011.jpg"
@@ -3428,7 +3428,7 @@
     "country": "Turkiye",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0012.jpg",
       "images/IMG_20260325_0013.jpg"
@@ -3443,7 +3443,7 @@
     "country": "Turkiye",
     "year": "2010年代前半〜中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0014.jpg",
       "images/IMG_20260325_0015.jpg"
@@ -3458,7 +3458,7 @@
     "country": "Egypt",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0016.jpg",
       "images/IMG_20260325_0017.jpg"
@@ -3473,7 +3473,7 @@
     "country": "Egypt",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0018.jpg",
       "images/IMG_20260325_0019.jpg"
@@ -3488,7 +3488,7 @@
     "country": "Morocco",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0020.jpg",
       "images/IMG_20260325_0021.jpg"
@@ -3503,7 +3503,7 @@
     "country": "Kenya",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0022.jpg",
       "images/IMG_20260325_0023.jpg"
@@ -3518,7 +3518,7 @@
     "country": "Ethiopia",
     "year": "2010年代〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0024.jpg",
       "images/IMG_20260325_0025.jpg"
@@ -3533,7 +3533,7 @@
     "country": "Togo",
     "year": "2020年ごろ？",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0026.jpg",
       "images/IMG_20260325_0027.jpg"
@@ -3548,7 +3548,7 @@
     "country": "Madagascar",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0028.jpg",
       "images/IMG_20260325_0029.jpg"
@@ -3563,7 +3563,7 @@
     "country": "South Africa",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0030.jpg",
       "images/IMG_20260325_0031.jpg"
@@ -3578,7 +3578,7 @@
     "country": "French Polynesia",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0032.jpg",
       "images/IMG_20260325_0033.jpg"
@@ -3593,7 +3593,7 @@
     "country": "Fiji",
     "year": "00年代後半〜2013年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0034.jpg",
       "images/IMG_20260325_0035.jpg"
@@ -3608,7 +3608,7 @@
     "country": "New Zealand",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0036.jpg",
       "images/IMG_20260325_0037.jpg"
@@ -3623,7 +3623,7 @@
     "country": "Papua New Guinea",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0038.jpg",
       "images/IMG_20260325_0039.jpg"
@@ -3638,7 +3638,7 @@
     "country": "Australia",
     "year": "2020年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0040.jpg",
       "images/IMG_20260325_0041.jpg"
@@ -3653,7 +3653,7 @@
     "country": "Australia",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0042.jpg",
       "images/IMG_20260325_0043.jpg"
@@ -3668,7 +3668,7 @@
     "country": "Australia",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0044.jpg",
       "images/IMG_20260325_0045.jpg"
@@ -3683,7 +3683,7 @@
     "country": "Australia",
     "year": "1990年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0046.jpg",
       "images/IMG_20260325_0047.jpg"
@@ -3698,7 +3698,7 @@
     "country": "Australia",
     "year": "2020年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0054.jpg",
       "images/IMG_20260325_0055.jpg"
@@ -3713,7 +3713,7 @@
     "country": "Australia",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0048.jpg",
       "images/IMG_20260325_0049.jpg"
@@ -3728,7 +3728,7 @@
     "country": "Australia",
     "year": "2010年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0050.jpg",
       "images/IMG_20260325_0051.jpg"
@@ -3743,7 +3743,7 @@
     "country": "Australia",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260325_0052.jpg",
       "images/IMG_20260325_0053.jpg"
@@ -3758,7 +3758,7 @@
     "country": "Finnland",
     "year": "2020年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0001.jpg",
       "images/IMG_20260326_0002.jpg"
@@ -3773,7 +3773,7 @@
     "country": "Finnland",
     "year": "2020年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0003.jpg",
       "images/IMG_20260326_0004.jpg"
@@ -3788,7 +3788,7 @@
     "country": "Finnland",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0005.jpg",
       "images/IMG_20260326_0006.jpg"
@@ -3803,7 +3803,7 @@
     "country": "Netherlands",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0007.jpg",
       "images/IMG_20260326_0008.jpg"
@@ -3818,7 +3818,7 @@
     "country": "Netherlands",
     "year": "2020年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0009.jpg",
       "images/IMG_20260326_0010.jpg"
@@ -3833,7 +3833,7 @@
     "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Tokyo, London, etc...",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0011.jpg",
       "images/IMG_20260326_0012.jpg"
@@ -3848,7 +3848,7 @@
     "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Dallas, Milan, etc...",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0013.jpg",
       "images/IMG_20260326_0014.jpg"
@@ -3863,7 +3863,7 @@
     "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Cairo, Seoul, etc...",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0015.jpg",
       "images/IMG_20260326_0016.jpg"
@@ -3878,7 +3878,7 @@
     "country": "Netherlands",
     "year": "2005年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0017.jpg",
       "images/IMG_20260326_0018.jpg"
@@ -3893,7 +3893,7 @@
     "country": "Netherlands",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0019.jpg",
       "images/IMG_20260326_0020.jpg"
@@ -3908,7 +3908,7 @@
     "country": "Germany",
     "year": "2026年",
     "description": "",
-    "new": "TRUE",
+    "new": true,
     "images": [
       "images/IMG_20260515_0005.jpg",
       "images/IMG_20260515_0006.jpg"
@@ -3923,7 +3923,7 @@
     "country": "Germany",
     "year": "2010年代",
     "description": "底開きあり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0025.jpg",
       "images/IMG_20260326_0026.jpg"
@@ -3938,7 +3938,7 @@
     "country": "Germany",
     "year": "2010年代",
     "description": "底開きなし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0023.jpg",
       "images/IMG_20260326_0024.jpg"
@@ -3953,7 +3953,7 @@
     "country": "Germany",
     "year": "2000年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0021.jpg",
       "images/IMG_20260326_0022.jpg"
@@ -3968,7 +3968,7 @@
     "country": "Germany",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0027.jpg",
       "images/IMG_20260326_0028.jpg"
@@ -3983,7 +3983,7 @@
     "country": "Germany",
     "year": "2010年代",
     "description": "It's alright to think...",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0029.jpg",
       "images/IMG_20260326_0030.jpg"
@@ -3998,7 +3998,7 @@
     "country": "Germany",
     "year": "2010年代",
     "description": "Don't worry, we won't...",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0031.jpg",
       "images/IMG_20260326_0032.jpg"
@@ -4013,7 +4013,7 @@
     "country": "Germany",
     "year": "2010年代",
     "description": "Thanks for sharing",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0033.jpg",
       "images/IMG_20260326_0034.jpg"
@@ -4028,7 +4028,7 @@
     "country": "Germany",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0035.jpg",
       "images/IMG_20260326_0036.jpg"
@@ -4043,7 +4043,7 @@
     "country": "Austria",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0037.jpg",
       "images/IMG_20260326_0038.jpg"
@@ -4058,7 +4058,7 @@
     "country": "Austria",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0039.jpg",
       "images/IMG_20260326_0040.jpg"
@@ -4073,7 +4073,7 @@
     "country": "Swiss",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0041.jpg",
       "images/IMG_20260326_0042.jpg"
@@ -4088,7 +4088,7 @@
     "country": "Italy",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0043.jpg",
       "images/IMG_20260326_0044.jpg"
@@ -4103,7 +4103,7 @@
     "country": "Italy",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0045.jpg",
       "images/IMG_20260326_0046.jpg"
@@ -4118,7 +4118,7 @@
     "country": "Italy",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0047.jpg",
       "images/IMG_20260326_0048.jpg"
@@ -4133,7 +4133,7 @@
     "country": "Italy",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0049.jpg",
       "images/IMG_20260326_0050.jpg"
@@ -4148,7 +4148,7 @@
     "country": "Italy",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0051.jpg",
       "images/IMG_20260326_0052.jpg"
@@ -4163,7 +4163,7 @@
     "country": "Bergium",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260326_0053.jpg",
       "images/IMG_20260326_0054.jpg"
@@ -4178,7 +4178,7 @@
     "country": "France",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0001.jpg",
       "images/IMG_20260328_0002.jpg"
@@ -4193,7 +4193,7 @@
     "country": "France",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0003.jpg",
       "images/IMG_20260328_0004.jpg"
@@ -4208,7 +4208,7 @@
     "country": "UK",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0005.jpg",
       "images/IMG_20260328_0006.jpg"
@@ -4223,7 +4223,7 @@
     "country": "UK / Spain",
     "year": "2011~2015年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0007.jpg",
       "images/IMG_20260328_0008.jpg"
@@ -4238,7 +4238,7 @@
     "country": "UK / Spain",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0009.jpg",
       "images/IMG_20260328_0010.jpg"
@@ -4253,7 +4253,7 @@
     "country": "UK",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0011.jpg",
       "images/IMG_20260328_0012.jpg"
@@ -4268,7 +4268,7 @@
     "country": "UK",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0013.jpg",
       "images/IMG_20260328_0014.jpg"
@@ -4283,7 +4283,7 @@
     "country": "UK",
     "year": "2020年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0015.jpg",
       "images/IMG_20260328_0016.jpg"
@@ -4298,7 +4298,7 @@
     "country": "UK",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0017.jpg",
       "images/IMG_20260328_0018.jpg"
@@ -4313,7 +4313,7 @@
     "country": "Iceland",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0019.jpg",
       "images/IMG_20260328_0020.jpg"
@@ -4328,7 +4328,7 @@
     "country": "Sweden/Denmark/Norway",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0021.jpg",
       "images/IMG_20260328_0022.jpg"
@@ -4343,7 +4343,7 @@
     "country": "Sweden/Denmark/Norway",
     "year": "2010年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0023.jpg",
       "images/IMG_20260328_0024.jpg"
@@ -4358,7 +4358,7 @@
     "country": "Norway",
     "year": "2025年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0025.jpg",
       "images/IMG_20260328_0026.jpg"
@@ -4373,7 +4373,7 @@
     "country": "Spain",
     "year": "2024年",
     "description": "ロゴ入り/開口下",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0027.jpg",
       "images/IMG_20260328_0028.jpg"
@@ -4388,7 +4388,7 @@
     "country": "Spain",
     "year": "2024年",
     "description": "無地",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0029.jpg",
       "images/IMG_20260328_0030.jpg"
@@ -4403,7 +4403,7 @@
     "country": "Spain",
     "year": "2020年代",
     "description": "2025 net zero/開口下",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0031.jpg",
       "images/IMG_20260328_0032.jpg"
@@ -4418,7 +4418,7 @@
     "country": "Spain",
     "year": "2020年代",
     "description": "開口下",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0033.jpg",
       "images/IMG_20260328_0034.jpg"
@@ -4433,7 +4433,7 @@
     "country": "Portugal",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0035.jpg",
       "images/IMG_20260328_0036.jpg"
@@ -4448,7 +4448,7 @@
     "country": "Portugal",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0037.jpg",
       "images/IMG_20260328_0038.jpg"
@@ -4463,7 +4463,7 @@
     "country": "Greece",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0039.jpg",
       "images/IMG_20260328_0040.jpg"
@@ -4478,7 +4478,7 @@
     "country": "Greece",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0041.jpg",
       "images/IMG_20260328_0042.jpg"
@@ -4493,7 +4493,7 @@
     "country": "Poland",
     "year": "2024年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0043.jpg",
       "images/IMG_20260328_0044.jpg"
@@ -4508,7 +4508,7 @@
     "country": "Russia",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0045.jpg",
       "images/IMG_20260328_0046.jpg"
@@ -4523,7 +4523,7 @@
     "country": "Russia",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0047.jpg",
       "images/IMG_20260328_0048.jpg"
@@ -4538,7 +4538,7 @@
     "country": "USA",
     "year": "2010年代後半~",
     "description": "紙製/マチなし",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0059.jpg",
       "images/IMG_20260328_0060.jpg"
@@ -4553,7 +4553,7 @@
     "country": "USA",
     "year": "2010年代後半",
     "description": "紙製/マチあり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0057.jpg",
       "images/IMG_20260328_0058.jpg"
@@ -4568,7 +4568,7 @@
     "country": "USA",
     "year": "2010年代後半",
     "description": "プラスチック製",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0055.jpg",
       "images/IMG_20260328_0056.jpg"
@@ -4583,7 +4583,7 @@
     "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "裏面細字",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0053.jpg",
       "images/IMG_20260328_0054.jpg"
@@ -4598,7 +4598,7 @@
     "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "裏面太字",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0051.jpg",
       "images/IMG_20260328_0052.jpg"
@@ -4613,7 +4613,7 @@
     "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "LKロゴあり",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0049.jpg",
       "images/IMG_20260328_0050.jpg"
@@ -4628,7 +4628,7 @@
     "country": "USA",
     "year": "00年代〜2009年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0063.jpg",
       "images/IMG_20260328_0064.jpg"
@@ -4643,7 +4643,7 @@
     "country": "USA",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0061.jpg",
       "images/IMG_20260328_0062.jpg"
@@ -4658,7 +4658,7 @@
     "country": "USA",
     "year": "2010年代〜",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0065.jpg",
       "images/IMG_20260328_0066.jpg"
@@ -4673,7 +4673,7 @@
     "country": "USA",
     "year": "90年代〜00年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0067.jpg",
       "images/IMG_20260328_0068.jpg"
@@ -4688,7 +4688,7 @@
     "country": "USA",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0069.jpg",
       "images/IMG_20260328_0070.jpg"
@@ -4703,7 +4703,7 @@
     "country": "USA",
     "year": "",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0071.jpg",
       "images/IMG_20260328_0072.jpg"
@@ -4718,7 +4718,7 @@
     "country": "USA",
     "year": "",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0073.jpg",
       "images/IMG_20260328_0074.jpg"
@@ -4733,7 +4733,7 @@
     "country": "Canada",
     "year": "2026年",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0075.jpg",
       "images/IMG_20260328_0076.jpg"
@@ -4748,7 +4748,7 @@
     "country": "Canada",
     "year": "2010年代",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0077.jpg",
       "images/IMG_20260328_0078.jpg"
@@ -4763,7 +4763,7 @@
     "country": "Mexico",
     "year": "2010年代中頃",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0079.jpg",
       "images/IMG_20260328_0080.jpg"
@@ -4778,7 +4778,7 @@
     "country": "Mexico",
     "year": "2000年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0081.jpg",
       "images/IMG_20260328_0082.jpg"
@@ -4793,7 +4793,7 @@
     "country": "Panama",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0083.jpg",
       "images/IMG_20260328_0084.jpg"
@@ -4808,7 +4808,7 @@
     "country": "Panama",
     "year": "2010年ごろ",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260328_0085.jpg",
       "images/IMG_20260328_0086.jpg"
@@ -4823,7 +4823,7 @@
     "country": "Chile",
     "year": "2010年代後半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260329_0001.jpg",
       "images/IMG_20260329_0002.jpg"
@@ -4838,7 +4838,7 @@
     "country": "Brazil",
     "year": "2000年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260329_0003.jpg",
       "images/IMG_20260329_0004.jpg"
@@ -4853,7 +4853,7 @@
     "country": "Brazil",
     "year": "2020年代前半",
     "description": "",
-    "new": "FALSE",
+    "new": false,
     "images": [
       "images/IMG_20260329_0005.jpg",
       "images/IMG_20260329_0006.jpg"
