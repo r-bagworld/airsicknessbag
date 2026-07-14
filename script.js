@@ -6,6 +6,10 @@ const params = new URLSearchParams(window.location.search);
 const regionParam = params.get("region"); 
 const regions = regionParam ? regionParam.split(",") : [];
 
+const newBags = bags
+  .filter(bag => bag.new)
+  .slice(0, 4);
+
 async function fetchData() {
   const res = await fetch("bags.json");
   bags = await res.json();
