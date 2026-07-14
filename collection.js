@@ -17,16 +17,11 @@ async function fetchData() {
 function renderBags() {
   const container = document.getElementById("bagContainer");
   const paginations = document.querySelectorAll(".pagination");
-  const newContainer = document.getElementById("newBagContainer");
   
   const searchTerm = document
     .getElementById("searchInput")
     .value.toLowerCase()
     .trim();
-
-  const newBags = bags
-    .filter(bag => bag.new)
-    .slice(0, 4);
   
   const filtered = bags.filter((bag) => {
     const matchSearch =
