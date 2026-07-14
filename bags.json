@@ -233,7 +233,7 @@
     "country": "Japan",
     "year": "2025年",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260312_0009.jpg",
       "images/IMG_20260312_0010.jpg"
