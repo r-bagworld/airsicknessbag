@@ -1,7 +1,11 @@
 [
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2025年-",
     "description": "",
     "images": [
@@ -11,7 +15,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2024年-",
     "description": "",
     "images": [
@@ -21,7 +29,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2023-24年",
     "description": "FSC認証追加",
     "images": [
@@ -31,7 +43,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2011-23年",
     "description": "",
     "images": [
@@ -41,7 +57,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -51,7 +71,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2000年代前半",
     "description": "矢印ストレート",
     "images": [
@@ -61,7 +85,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2000年代前半",
     "description": "矢印カーブ",
     "images": [
@@ -71,7 +99,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -81,7 +113,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "80年代後半-90年代前半",
     "description": "",
     "images": [
@@ -91,7 +127,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
     "images": [
@@ -101,7 +141,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "70年代後半-80年代前半",
     "description": "",
     "images": [
@@ -111,7 +155,11 @@
   },
   {
     "airline": "ANA 🇯🇵",
+    "english": "All Nippon Airways",
+    "IATA": "NH",
+    "ICAO": "ANA",
     "region": "Japan",
+    "country": "Japan",
     "year": "1960年代",
     "description": "",
     "images": [
@@ -121,7 +169,11 @@
   },
   {
     "airline": "Peach 🇯🇵",
+    "english": "Peach Aviation",
+    "IATA": "MM",
+    "ICAO": "APJ",
     "region": "Japan",
+    "country": "Japan",
     "year": "2013年-",
     "description": "",
     "images": [
@@ -131,7 +183,11 @@
   },
   {
     "airline": "Peach 🇯🇵",
+    "english": "Peach Aviation",
+    "IATA": "MM",
+    "ICAO": "APJ",
     "region": "Japan",
+    "country": "Japan",
     "year": "2012年",
     "description": "",
     "images": [
@@ -141,7 +197,11 @@
   },
   {
     "airline": "バニラエア 🇯🇵",
+    "english": "Vanilla Air",
+    "IATA": "JW",
+    "ICAO": "VNL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2013-19年",
     "description": "",
     "images": [
@@ -151,7 +211,11 @@
   },
   {
     "airline": "エアージャパン 🇯🇵",
+    "english": "AirJapan",
+    "IATA": "NQ",
+    "ICAO": "AJX",
     "region": "Japan",
+    "country": "Japan",
     "year": "2025年",
     "description": "",
     "images": [
@@ -161,7 +225,11 @@
   },
   {
     "airline": "エアーニッポン 🇯🇵",
+    "english": "Air Nippon",
+    "IATA": "EL",
+    "ICAO": "ANK",
     "region": "Japan",
+    "country": "Japan",
     "year": "1996-2003年",
     "description": "",
     "images": [
@@ -171,7 +239,11 @@
   },
   {
     "airline": "IBEXエアラインズ 🇯🇵",
+    "english": "Ibex Airlines",
+    "IATA": "FW",
+    "ICAO": "IBX",
     "region": "Japan",
+    "country": "Japan",
     "year": "2010年代〜",
     "description": "",
     "images": [
@@ -181,7 +253,11 @@
   },
   {
     "airline": "フェアリンク 🇯🇵",
+    "english": "Fair Link",
+    "IATA": "FW",
+    "ICAO": "FWI",
     "region": "Japan",
+    "country": "Japan",
     "year": "2000-04年",
     "description": "",
     "images": [
@@ -191,7 +267,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2019年〜",
     "description": "FSC認証追加",
     "images": [
@@ -201,7 +281,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2019年",
     "description": "",
     "images": [
@@ -211,7 +295,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2015~2018年",
     "description": "",
     "images": [
@@ -221,7 +309,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2012~2014年",
     "description": "",
     "images": [
@@ -231,7 +323,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2012年",
     "description": "",
     "images": [
@@ -241,7 +337,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2007~2011年",
     "description": "",
     "images": [
@@ -251,7 +351,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2011年",
     "description": "",
     "images": [
@@ -261,7 +365,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2006~2007年",
     "description": "Dマーク",
     "images": [
@@ -271,7 +379,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2006~2007年",
     "description": "Jマーク",
     "images": [
@@ -281,7 +393,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2003-2006年",
     "description": "cマーク",
     "images": [
@@ -291,7 +407,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2003-2006年",
     "description": "無印",
     "images": [
@@ -301,7 +421,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -311,7 +435,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "1995-2000年",
     "description": "",
     "images": [
@@ -321,7 +449,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990-1994年",
     "description": "",
     "images": [
@@ -331,7 +463,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "1980-1989年",
     "description": "",
     "images": [
@@ -341,7 +477,11 @@
   },
   {
     "airline": "JAL 🇯🇵",
+    "english": "Japan Airlines",
+    "IATA": "JL",
+    "ICAO": "JAL",
     "region": "Japan",
+    "country": "Japan",
     "year": "1980-1989年",
     "description": "",
     "images": [
@@ -351,7 +491,11 @@
   },
   {
     "airline": "JALエクスプレス 🇯🇵",
+    "english": "JAL Express",
+    "IATA": "JC",
+    "ICAO": "JEX",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -361,7 +505,11 @@
   },
   {
     "airline": "日本トランスオーシャン航空 🇯🇵",
+    "english": "Japan Transocean Air",
+    "IATA": "NU",
+    "ICAO": "JTA",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -371,7 +519,11 @@
   },
   {
     "airline": "日本アジア航空 🇯🇵",
+    "english": "Japan Asia Airways",
+    "IATA": "EG",
+    "ICAO": "JAA",
     "region": "Japan",
+    "country": "Japan",
     "year": "1975-1985年",
     "description": "",
     "images": [
@@ -381,7 +533,11 @@
   },
   {
     "airline": "ジェットスタージャパン 🇯🇵",
+    "english": "Jetstar Japan",
+    "IATA": "GK",
+    "ICAO": "JJP",
     "region": "Japan",
+    "country": "Japan",
     "year": "2024年-",
     "description": "日本汎用",
     "images": [
@@ -391,7 +547,11 @@
   },
   {
     "airline": "ジェットスタージャパン 🇯🇵",
+    "english": "Jetstar Japan",
+    "IATA": "GK",
+    "ICAO": "JJP",
     "region": "Japan",
+    "country": "Japan",
     "year": "-2024年",
     "description": "",
     "images": [
@@ -401,7 +561,11 @@
   },
   {
     "airline": "スプリング・ジャパン 🇯🇵",
+    "english": "Spring Japan",
+    "IATA": "IJ",
+    "ICAO": "SJO",
     "region": "Japan",
+    "country": "Japan",
     "year": "2012年-",
     "description": "",
     "images": [
@@ -411,7 +575,11 @@
   },
   {
     "airline": "ZIPAIR 🇯🇵",
+    "english": "ZIPAIR Tokyo",
+    "IATA": "ZG",
+    "ICAO": "TZP",
     "region": "Japan",
+    "country": "Japan",
     "year": "2025年-",
     "description": "",
     "images": [
@@ -421,7 +589,11 @@
   },
   {
     "airline": "ZIPAIR 🇯🇵",
+    "english": "ZIPAIR Tokyo",
+    "IATA": "ZG",
+    "ICAO": "TZP",
     "region": "Japan",
+    "country": "Japan",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -431,7 +603,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -441,7 +617,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -451,7 +631,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "2001-2003年",
     "description": "",
     "images": [
@@ -461,7 +645,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載あり",
     "images": [
@@ -471,7 +659,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代",
     "description": "PAT.P 記載なし",
     "images": [
@@ -481,7 +673,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -491,7 +687,11 @@
   },
   {
     "airline": "日本エアシステム 🇯🇵",
+    "english": "Japan Air System",
+    "IATA": "JD",
+    "ICAO": "JAS",
     "region": "Japan",
+    "country": "Japan",
     "year": "1980年代後半",
     "description": "",
     "images": [
@@ -501,7 +701,11 @@
   },
   {
     "airline": "東亜国内航空 🇯🇵",
+    "english": "Toa Domestic Airlines",
+    "IATA": "JD",
+    "ICAO": "TDA",
     "region": "Japan",
+    "country": "Japan",
     "year": "1980年代",
     "description": "",
     "images": [
@@ -511,7 +715,11 @@
   },
   {
     "airline": "日本エアコミューター 🇯🇵",
+    "english": "Japan Air Commuter",
+    "IATA": "3X",
+    "ICAO": "JAC",
     "region": "Japan",
+    "country": "Japan",
     "year": "90年代後半-00年代前半",
     "description": "",
     "images": [
@@ -521,7 +729,11 @@
   },
   {
     "airline": "フジドリームエアラインズ 🇯🇵",
+    "english": "Fuji Dream Airlines",
+    "IATA": "JH",
+    "ICAO": "FDA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2009年-",
     "description": "",
     "images": [
@@ -531,7 +743,11 @@
   },
   {
     "airline": "AIRDO 🇯🇵",
+    "english": "Air Do",
+    "IATA": "HD",
+    "ICAO": "ADO",
     "region": "Japan",
+    "country": "Japan",
     "year": "2018年-",
     "description": "",
     "images": [
@@ -541,7 +757,11 @@
   },
   {
     "airline": "AIRDO 🇯🇵",
+    "english": "Air Do",
+    "IATA": "HD",
+    "ICAO": "ADO",
     "region": "Japan",
+    "country": "Japan",
     "year": "2010-15年",
     "description": "",
     "images": [
@@ -551,7 +771,11 @@
   },
   {
     "airline": "ソラシドエア 🇯🇵",
+    "english": "Solaseed Air",
+    "IATA": "6J",
+    "ICAO": "SNA",
     "region": "Japan",
+    "country": "Japan",
     "year": "2011年-",
     "description": "",
     "images": [
@@ -561,7 +785,11 @@
   },
   {
     "airline": "スターフライヤー 🇯🇵",
+    "english": "StarFlyer",
+    "IATA": "7G",
+    "ICAO": "SFJ",
     "region": "Japan",
+    "country": "Japan",
     "year": "2016年-",
     "description": "",
     "images": [
@@ -571,7 +799,11 @@
   },
   {
     "airline": "スターフライヤー 🇯🇵",
+    "english": "StarFlyer",
+    "IATA": "7G",
+    "ICAO": "SFJ",
     "region": "Japan",
+    "country": "Japan",
     "year": "2015年",
     "description": "",
     "images": [
@@ -581,7 +813,11 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
+    "english": "Skymark Airlines",
+    "IATA": "BC",
+    "ICAO": "SKY",
     "region": "Japan",
+    "country": "Japan",
     "year": "2021年-",
     "description": "ポケモンジェット限定",
     "images": [
@@ -591,7 +827,11 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
+    "english": "Skymark Airlines",
+    "IATA": "BC",
+    "ICAO": "SKY",
     "region": "Japan",
+    "country": "Japan",
     "year": "2019年-",
     "description": "",
     "images": [
@@ -601,7 +841,11 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
+    "english": "Skymark Airlines",
+    "IATA": "BC",
+    "ICAO": "SKY",
     "region": "Japan",
+    "country": "Japan",
     "year": "2017-19年",
     "description": "",
     "images": [
@@ -611,7 +855,11 @@
   },
   {
     "airline": "スカイマーク 🇯🇵",
+    "english": "Skymark Airlines",
+    "IATA": "BC",
+    "ICAO": "SKY",
     "region": "Japan",
+    "country": "Japan",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -621,7 +869,11 @@
   },
   {
     "airline": "オリエンタルエアブリッジ 🇯🇵",
+    "english": "Oriental Air Bridge",
+    "IATA": "OC",
+    "ICAO": "ORC",
     "region": "Japan",
+    "country": "Japan",
     "year": "2026年",
     "description": "",
     "images": [
@@ -631,7 +883,11 @@
   },
   {
     "airline": "天草エアライン 🇯🇵",
+    "english": "Amakusa Airlines",
+    "IATA": "MZ",
+    "ICAO": "AHX",
     "region": "Japan",
+    "country": "Japan",
     "year": "2026年",
     "description": "海豚",
     "images": [
@@ -641,7 +897,11 @@
   },
   {
     "airline": "天草エアライン 🇯🇵",
+    "english": "Amakusa Airlines",
+    "IATA": "MZ",
+    "ICAO": "AHX",
     "region": "Japan",
+    "country": "Japan",
     "year": "2026年",
     "description": "刺身",
     "images": [
@@ -651,7 +911,11 @@
   },
   {
     "airline": "東邦航空（東京愛ランドシャトル） 🇯🇵",
+    "english": "Toho Airlies (Tokyo Island Shuttle)",
+    "IATA": "-",
+    "ICAO": "THK",
     "region": "Japan",
+    "country": "Japan",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -661,7 +925,11 @@
   },
   {
     "airline": "第一航空 🇯🇵",
+    "english": "First Flying",
+    "IATA": "-",
+    "ICAO": "DAK",
     "region": "Japan",
+    "country": "Japan",
     "year": "2026年",
     "description": "",
     "images": [
@@ -671,7 +939,11 @@
   },
   {
     "airline": "特急やくも 🇯🇵",
+    "english": "Ltd' Express \"Yakumo\"",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "Japan",
+    "country": "Japan",
     "year": "1980年代〜2024年",
     "description": "",
     "images": [
@@ -681,7 +953,11 @@
   },
   {
     "airline": "JR九州高速船ビートル 🇯🇵",
+    "english": "JR Kyushu Jet Ferries \"Beetle\"",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "Japan",
+    "country": "Japan",
     "year": "2020年ごろ",
     "description": "",
     "images": [
@@ -691,7 +967,11 @@
   },
   {
     "airline": "砕氷船おーろら号 🇯🇵",
+    "english": "Icebreaker Ship \"Aurora\"",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "Japan",
+    "country": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
     "images": [
@@ -701,7 +981,11 @@
   },
   {
     "airline": "砕氷船おーろら号 🇯🇵",
+    "english": "Icebreaker Ship \"Aurora\"",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "Japan",
+    "country": "Japan",
     "year": "2020年代前半",
     "description": "日本汎用",
     "images": [
@@ -711,7 +995,11 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
+    "english": "Air China",
+    "IATA": "CA",
+    "ICAO": "CCA",
     "region": "China",
+    "country": "China",
     "year": "2020年頃-",
     "description": "",
     "images": [
@@ -721,7 +1009,11 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
+    "english": "Air China",
+    "IATA": "CA",
+    "ICAO": "CCA",
     "region": "China",
+    "country": "China",
     "year": "2010年代-",
     "description": "",
     "images": [
@@ -731,7 +1023,11 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
+    "english": "Air China",
+    "IATA": "CA",
+    "ICAO": "CCA",
     "region": "China",
+    "country": "China",
     "year": "2000年代後半",
     "description": "開口部矢印あり",
     "images": [
@@ -741,7 +1037,11 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
+    "english": "Air China",
+    "IATA": "CA",
+    "ICAO": "CCA",
     "region": "China",
+    "country": "China",
     "year": "2000年代後半",
     "description": "開口部矢印なし",
     "images": [
@@ -751,7 +1051,11 @@
   },
   {
     "airline": "中国国際航空 🇨🇳",
+    "english": "Air China",
+    "IATA": "CA",
+    "ICAO": "CCA",
     "region": "China",
+    "country": "China",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -761,7 +1065,11 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
+    "english": "Shenzhen Airlines",
+    "IATA": "ZH",
+    "ICAO": "CSZ",
     "region": "China",
+    "country": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -771,7 +1079,11 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
+    "english": "Shenzhen Airlines",
+    "IATA": "ZH",
+    "ICAO": "CSZ",
     "region": "China",
+    "country": "China",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -781,7 +1093,11 @@
   },
   {
     "airline": "深圳航空 🇨🇳",
+    "english": "Shenzhen Airlines",
+    "IATA": "ZH",
+    "ICAO": "CSZ",
     "region": "China",
+    "country": "China",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -791,7 +1107,11 @@
   },
   {
     "airline": "山東航空 🇨🇳",
+    "english": "Shandong Airlines",
+    "IATA": "SC",
+    "ICAO": "CDG",
     "region": "China",
+    "country": "China",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -801,7 +1121,11 @@
   },
   {
     "airline": "山東航空 🇨🇳",
+    "english": "Shandong Airlines",
+    "IATA": "SC",
+    "ICAO": "CDG",
     "region": "China",
+    "country": "China",
     "year": "2000年代後半(?)",
     "description": "",
     "images": [
@@ -811,7 +1135,11 @@
   },
   {
     "airline": "山東航空 🇨🇳",
+    "english": "Shandong Airlines",
+    "IATA": "SC",
+    "ICAO": "CDG",
     "region": "China",
+    "country": "China",
     "year": "2010年代-(?)",
     "description": "",
     "images": [
@@ -821,7 +1149,11 @@
   },
   {
     "airline": "大連航空 🇨🇳",
+    "english": "Dalian Airlines",
+    "IATA": "CA",
+    "ICAO": "CCD",
     "region": "China",
+    "country": "China",
     "year": "2011年-",
     "description": "",
     "images": [
@@ -831,7 +1163,11 @@
   },
   {
     "airline": "中国西南航空重慶公司 🇨🇳",
+    "english": "China Southwest Airlines Chongqing",
+    "IATA": "SZ",
+    "ICAO": "CXN",
     "region": "China",
+    "country": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -841,7 +1177,11 @@
   },
   {
     "airline": "中国新疆航空 🇨🇳",
+    "english": "China Xinjiang Airlines",
+    "IATA": "XO",
+    "ICAO": "CXJ",
     "region": "China",
+    "country": "China",
     "year": "1985-2003年",
     "description": "",
     "images": [
@@ -851,7 +1191,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2026年",
     "description": "",
     "images": [
@@ -861,7 +1205,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -871,7 +1219,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2018-20年代前半",
     "description": "+JCマーク",
     "images": [
@@ -881,7 +1233,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2018-20年代前半",
     "description": "+マーク",
     "images": [
@@ -891,7 +1247,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2018-20年代前半",
     "description": "SUO-MA",
     "images": [
@@ -901,7 +1261,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "2015-18年",
     "description": "",
     "images": [
@@ -911,7 +1275,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "紫ver",
     "images": [
@@ -921,7 +1289,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "青ver",
     "images": [
@@ -931,7 +1303,11 @@
   },
   {
     "airline": "中国東方航空 🇨🇳",
+    "english": "China Eastern Airlines",
+    "IATA": "MU",
+    "ICAO": "CES",
     "region": "China",
+    "country": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -941,7 +1317,11 @@
   },
   {
     "airline": "上海航空 🇨🇳",
+    "english": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
     "region": "China",
+    "country": "China",
     "year": "2010年代後半-",
     "description": "赤ver",
     "images": [
@@ -951,7 +1331,11 @@
   },
   {
     "airline": "上海航空 🇨🇳",
+    "english": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
     "region": "China",
+    "country": "China",
     "year": "2010年代後半-",
     "description": "黒ver",
     "images": [
@@ -961,7 +1345,11 @@
   },
   {
     "airline": "上海航空 🇨🇳",
+    "english": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
     "region": "China",
+    "country": "China",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -971,7 +1359,11 @@
   },
   {
     "airline": "上海航空 🇨🇳",
+    "english": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
     "region": "China",
+    "country": "China",
     "year": "2007~10年頃",
     "description": "",
     "images": [
@@ -981,7 +1373,11 @@
   },
   {
     "airline": "上海航空 🇨🇳",
+    "english": "Shanghai Airlines",
+    "IATA": "FM",
+    "ICAO": "CSH",
     "region": "China",
+    "country": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -991,7 +1387,11 @@
   },
   {
     "airline": "中国聯合航空 🇨🇳",
+    "english": "China United Airlines",
+    "IATA": "KN",
+    "ICAO": "CUA",
     "region": "China",
+    "country": "China",
     "year": "00年代後半-10年代前半",
     "description": "",
     "images": [
@@ -1001,7 +1401,11 @@
   },
   {
     "airline": "中国西北航空 🇨🇳",
+    "english": "China Northwest Airlines",
+    "IATA": "WH",
+    "ICAO": "CHW",
     "region": "China",
+    "country": "China",
     "year": "1989-2002年",
     "description": "",
     "images": [
@@ -1011,7 +1415,11 @@
   },
   {
     "airline": "中国雲南航空 🇨🇳",
+    "english": "China Yunnan Airlines",
+    "IATA": "3Q",
+    "ICAO": "CYH",
     "region": "China",
+    "country": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1021,7 +1429,11 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
+    "english": "China Southern Airlines",
+    "IATA": "CZ",
+    "ICAO": "CSN",
     "region": "China",
+    "country": "China",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1031,7 +1443,11 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
+    "english": "China Southern Airlines",
+    "IATA": "CZ",
+    "ICAO": "CSN",
     "region": "China",
+    "country": "China",
     "year": "2010年代",
     "description": "ウイグル語",
     "images": [
@@ -1041,7 +1457,11 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
+    "english": "China Southern Airlines",
+    "IATA": "CZ",
+    "ICAO": "CSN",
     "region": "China",
+    "country": "China",
     "year": "2000年代後半",
     "description": "ウイグル語/ゴミマークなし",
     "images": [
@@ -1051,7 +1471,11 @@
   },
   {
     "airline": "中国南方航空 🇨🇳",
+    "english": "China Southern Airlines",
+    "IATA": "CZ",
+    "ICAO": "CSN",
     "region": "China",
+    "country": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -1061,7 +1485,11 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
+    "english": "XiamenAir",
+    "IATA": "MF",
+    "ICAO": "CXA",
     "region": "China",
+    "country": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1071,7 +1499,11 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
+    "english": "XiamenAir",
+    "IATA": "MF",
+    "ICAO": "CXA",
     "region": "China",
+    "country": "China",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1081,7 +1513,11 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
+    "english": "XiamenAir",
+    "IATA": "MF",
+    "ICAO": "CXA",
     "region": "China",
+    "country": "China",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1091,7 +1527,11 @@
   },
   {
     "airline": "厦門航空 🇨🇳",
+    "english": "XiamenAir",
+    "IATA": "MF",
+    "ICAO": "CXA",
     "region": "China",
+    "country": "China",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -1101,7 +1541,11 @@
   },
   {
     "airline": "海南航空 🇨🇳",
+    "english": "Hainan Airlines",
+    "IATA": "HU",
+    "ICAO": "CHH",
     "region": "China",
+    "country": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1111,7 +1555,11 @@
   },
   {
     "airline": "海南航空 🇨🇳",
+    "english": "Hainan Airlines",
+    "IATA": "HU",
+    "ICAO": "CHH",
     "region": "China",
+    "country": "China",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1121,7 +1569,11 @@
   },
   {
     "airline": "長安航空 🇨🇳",
+    "english": "Air Changan",
+    "IATA": "9H",
+    "ICAO": "CGN",
     "region": "China",
+    "country": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1131,7 +1583,11 @@
   },
   {
     "airline": "吉祥航空 🇨🇳",
+    "english": "Juneyao Air",
+    "IATA": "HO",
+    "ICAO": "DKH",
     "region": "China",
+    "country": "China",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1141,7 +1597,11 @@
   },
   {
     "airline": "吉祥航空 🇨🇳",
+    "english": "Juneyao Air",
+    "IATA": "HO",
+    "ICAO": "DKH",
     "region": "China",
+    "country": "China",
     "year": "2005~2015年",
     "description": "",
     "images": [
@@ -1151,7 +1611,11 @@
   },
   {
     "airline": "春秋航空 🇨🇳",
+    "english": "Spring Airlines",
+    "IATA": "9C",
+    "ICAO": "CQH",
     "region": "China",
+    "country": "China",
     "year": "2005~2010年代前半",
     "description": "",
     "images": [
@@ -1161,7 +1625,11 @@
   },
   {
     "airline": "東海航空 🇨🇳",
+    "english": "Donghai Airlines",
+    "IATA": "DZ",
+    "ICAO": "EPA",
     "region": "China",
+    "country": "China",
     "year": "2014年〜",
     "description": "",
     "images": [
@@ -1171,7 +1639,11 @@
   },
   {
     "airline": "四川航空 🇨🇳",
+    "english": "Sichuan Airlines",
+    "IATA": "3U",
+    "ICAO": "CSC",
     "region": "China",
+    "country": "China",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1181,7 +1653,11 @@
   },
   {
     "airline": "四川航空 🇨🇳",
+    "english": "Sichuan Airlines",
+    "IATA": "3U",
+    "ICAO": "CSC",
     "region": "China",
+    "country": "China",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1191,7 +1667,11 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
+    "english": "China Railway High-speed",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1201,7 +1681,11 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
+    "english": "China Railway High-speed",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2017年",
     "description": "",
     "images": [
@@ -1211,7 +1695,11 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
+    "english": "China Railway High-speed",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2015年頃",
     "description": "",
     "images": [
@@ -1221,7 +1709,11 @@
   },
   {
     "airline": "中国高速鉄路（CRH） 🇨🇳",
+    "english": "China Railway High-speed",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2010年頃",
     "description": "",
     "images": [
@@ -1231,7 +1723,11 @@
   },
   {
     "airline": "中国鉄路上海局 🇨🇳",
+    "english": "China Railway Shanghai Group",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2026年",
     "description": "",
     "images": [
@@ -1240,8 +1736,12 @@
     ]
   },
   {
-    "airline": "中国鉄路北京客運段 🇨🇳",
+    "airline": "中国鉄路北京局 🇨🇳",
+    "english": "China Railway Beijing Group",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "China",
+    "country": "China",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1251,7 +1751,11 @@
   },
   {
     "airline": "香港航空/香港エクスプレス 🇭🇰",
+    "english": "Hong Kong Airlines / Hong Kong Express",
+    "IATA": "HX",
+    "ICAO": "CRK",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1261,7 +1765,11 @@
   },
   {
     "airline": "香港ドラゴン航空 🇭🇰",
+    "english": "Hong Kong Dragon Airlines",
+    "IATA": "KA",
+    "ICAO": "HDA",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2000年代後半-2010年代前半",
     "description": "",
     "images": [
@@ -1271,7 +1779,11 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
+    "english": "Cathay Pacific",
+    "IATA": "CX",
+    "ICAO": "CPA",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -1281,7 +1793,11 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
+    "english": "Cathay Pacific",
+    "IATA": "CX",
+    "ICAO": "CPA",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "00年代-10年代前半",
     "description": "",
     "images": [
@@ -1291,7 +1807,11 @@
   },
   {
     "airline": "キャセイパシフィック航空 🇭🇰",
+    "english": "Cathay Pacific",
+    "IATA": "CX",
+    "ICAO": "CPA",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1301,7 +1821,11 @@
   },
   {
     "airline": "香港エクスプレス航空 🇭🇰",
+    "english": "HK Express",
+    "IATA": "UO",
+    "ICAO": "HKE",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1311,7 +1835,11 @@
   },
   {
     "airline": "グレーターベイ航空 🇭🇰",
+    "english": "Greater Bay Airlines",
+    "IATA": "HB",
+    "ICAO": "HGB",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1321,7 +1849,11 @@
   },
   {
     "airline": "ターボジェット（高速船） 🇭🇰",
+    "english": "Turbo Jet",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "East Asia",
+    "country": "Hong Kong",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1331,7 +1863,11 @@
   },
   {
     "airline": "エアマカオ 🇲🇴",
+    "english": "Air Macau",
+    "IATA": "NX",
+    "ICAO": "AMU",
     "region": "East Asia",
+    "country": "Macau",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1341,7 +1877,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -1351,7 +1891,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代〜",
     "description": "赤version",
     "images": [
@@ -1361,7 +1905,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代〜",
     "description": "青version",
     "images": [
@@ -1371,7 +1919,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代〜",
     "description": "水色version",
     "images": [
@@ -1381,7 +1933,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年ごろ",
     "description": "赤version",
     "images": [
@@ -1391,7 +1947,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年ごろ",
     "description": "青version",
     "images": [
@@ -1401,7 +1961,11 @@
   },
   {
     "airline": "チャイナエアライン 🇹🇼",
+    "english": "China Airlines",
+    "IATA": "CI",
+    "ICAO": "CAL",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2000年代半ば",
     "description": "",
     "images": [
@@ -1411,7 +1975,11 @@
   },
   {
     "airline": "タイガーエア台湾 🇹🇼",
+    "english": "Tigerair Taiwan",
+    "IATA": "IT",
+    "ICAO": "TTW",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2020年代前半-",
     "description": "",
     "images": [
@@ -1421,7 +1989,11 @@
   },
   {
     "airline": "国華航空 🇹🇼",
+    "english": "Formosa Airlines",
+    "IATA": "VY",
+    "ICAO": "FOS",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1431,7 +2003,11 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
+    "english": "EVA Air",
+    "IATA": "BR",
+    "ICAO": "EVA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代中盤〜",
     "description": "",
     "images": [
@@ -1441,7 +2017,11 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
+    "english": "EVA Air",
+    "IATA": "BR",
+    "ICAO": "EVA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2012年ごろ",
     "description": "",
     "images": [
@@ -1451,7 +2031,11 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
+    "english": "EVA Air",
+    "IATA": "BR",
+    "ICAO": "EVA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代前半~中盤",
     "description": "ロゴ小",
     "images": [
@@ -1461,7 +2045,11 @@
   },
   {
     "airline": "エバー航空 🇹🇼",
+    "english": "EVA Air",
+    "IATA": "BR",
+    "ICAO": "EVA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代前半~中盤",
     "description": "ロゴ大",
     "images": [
@@ -1471,7 +2059,11 @@
   },
   {
     "airline": "スターラックス航空 🇹🇼",
+    "english": "Starlux Airlines",
+    "IATA": "JX",
+    "ICAO": "SJX",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1481,7 +2073,11 @@
   },
   {
     "airline": "トランスアジア航空 🇹🇼",
+    "english": "TransAsia Airways",
+    "IATA": "GE",
+    "ICAO": "TNA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1491,7 +2087,11 @@
   },
   {
     "airline": "トランスアジア航空 🇹🇼",
+    "english": "TransAsia Airways",
+    "IATA": "GE",
+    "ICAO": "TNA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "1990年代",
     "description": "",
     "images": [
@@ -1501,7 +2101,11 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
+    "english": "Far Eastern Air",
+    "IATA": "FE",
+    "ICAO": "FEA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1511,7 +2115,11 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
+    "english": "Far Eastern Air",
+    "IATA": "FE",
+    "ICAO": "FEA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2000年代",
     "description": "\"嘔吐専用袋\"表記",
     "images": [
@@ -1521,7 +2129,11 @@
   },
   {
     "airline": "ファーイースタン航空 🇹🇼",
+    "english": "Far Eastern Air",
+    "IATA": "FE",
+    "ICAO": "FEA",
     "region": "East Asia",
+    "country": "Taiwan",
     "year": "2000年代",
     "description": "\"清潔袋\"表記",
     "images": [
@@ -1531,7 +2143,11 @@
   },
   {
     "airline": "大韓航空 🇰🇷",
+    "english": "Korean Air",
+    "IATA": "KE",
+    "ICAO": "KAL",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2025年〜",
     "description": "",
     "images": [
@@ -1541,7 +2157,11 @@
   },
   {
     "airline": "大韓航空 🇰🇷",
+    "english": "Korean Air",
+    "IATA": "KE",
+    "ICAO": "KAL",
     "region": "East Asia",
+    "country": "Korea",
     "year": "00年代後半~2025年",
     "description": "",
     "images": [
@@ -1551,7 +2171,11 @@
   },
   {
     "airline": "ジンエアー 🇰🇷",
+    "english": "Jin Air",
+    "IATA": "LJ",
+    "ICAO": "JNA",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2008年〜",
     "description": "",
     "images": [
@@ -1561,7 +2185,11 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
+    "english": "Asiana Airlines",
+    "IATA": "OZ",
+    "ICAO": "AAR",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2025年~",
     "description": "側面新ロゴ",
     "images": [
@@ -1571,7 +2199,11 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
+    "english": "Asiana Airlines",
+    "IATA": "OZ",
+    "ICAO": "AAR",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2020年代前半",
     "description": "側面旧ロゴ",
     "images": [
@@ -1581,7 +2213,11 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
+    "english": "Asiana Airlines",
+    "IATA": "OZ",
+    "ICAO": "AAR",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2000年代後半-2010年代",
     "description": "",
     "images": [
@@ -1591,7 +2227,11 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
+    "english": "Asiana Airlines",
+    "IATA": "OZ",
+    "ICAO": "AAR",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2000年代前半",
     "description": "開口部表記なし",
     "images": [
@@ -1601,7 +2241,11 @@
   },
   {
     "airline": "アシアナ航空 🇰🇷",
+    "english": "Asiana Airlines",
+    "IATA": "OZ",
+    "ICAO": "AAR",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2000年代前半",
     "description": "開口部表記あり",
     "images": [
@@ -1611,7 +2255,11 @@
   },
   {
     "airline": "エアプサン 🇰🇷",
+    "english": "Air Busan",
+    "IATA": "BX",
+    "ICAO": "ABL",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2007年〜",
     "description": "",
     "images": [
@@ -1620,8 +2268,26 @@
     ]
   },
   {
-    "airline": "ティーウェイ航空 🇰🇷",
+    "airline": "エアソウル 🇰🇷",
+    "english": "Air Seoul",
+    "IATA": "RS",
+    "ICAO": "ASV",
     "region": "East Asia",
+    "country": "Korea",
+    "year": "2016年〜",
+    "description": "",
+    "images": [
+      "images/IMG_20260714_0001.jpg",
+      "images/IMG_20260714_0002.jpg"
+    ]
+  },
+  {
+    "airline": "ティーウェイ航空 🇰🇷",
+    "english": "T'way Air",
+    "IATA": "TW",
+    "ICAO": "TWB",
+    "region": "East Asia",
+    "country": "Korea",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1631,7 +2297,11 @@
   },
   {
     "airline": "ティーウェイ航空 🇰🇷",
+    "english": "T'way Air",
+    "IATA": "TW",
+    "ICAO": "TWB",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -1641,7 +2311,11 @@
   },
   {
     "airline": "チェジュ航空 🇰🇷",
+    "english": "Jeju Air",
+    "IATA": "7C",
+    "ICAO": "JJA",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1651,7 +2325,11 @@
   },
   {
     "airline": "エアロK 🇰🇷",
+    "english": "Aero K",
+    "IATA": "RF",
+    "ICAO": "EOK",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1661,7 +2339,11 @@
   },
   {
     "airline": "パラタエア 🇰🇷",
+    "english": "Parata Air",
+    "IATA": "WE",
+    "ICAO": "PTA",
     "region": "East Asia",
+    "country": "Korea",
     "year": "2025年〜",
     "description": "",
     "images": [
@@ -1671,7 +2353,11 @@
   },
   {
     "airline": "エアコリョ 🇰🇵",
+    "english": "Air Koryo",
+    "IATA": "JS",
+    "ICAO": "KOR",
     "region": "East Asia",
+    "country": "North Korea",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -1681,7 +2367,11 @@
   },
   {
     "airline": "MIATモンゴル航空 🇲🇳",
+    "english": "MIAT Mongolian Airlines",
+    "IATA": "OM",
+    "ICAO": "MGL",
     "region": "East Asia",
+    "country": "Mongolia",
     "year": "2000年代~2010年代後半",
     "description": "",
     "images": [
@@ -1691,7 +2381,11 @@
   },
   {
     "airline": "フィリピン航空 🇵🇭",
+    "english": "Phippine Airlines",
+    "IATA": "PR",
+    "ICAO": "PAL",
     "region": "South East Asia",
+    "country": "Philippines",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1701,7 +2395,11 @@
   },
   {
     "airline": "ラオス国営航空 🇱🇦",
+    "english": "Lao Aviation",
+    "IATA": "QV",
+    "ICAO": "LAO",
     "region": "South East Asia",
+    "country": "Laos",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -1711,7 +2409,11 @@
   },
   {
     "airline": "ラオ・スカイウェイ航空 🇱🇦",
+    "english": "Lao Skyway",
+    "IATA": "LK",
+    "ICAO": "LLL",
     "region": "South East Asia",
+    "country": "Laos",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -1721,7 +2423,11 @@
   },
   {
     "airline": "ラオス中国鉄道 🇱🇦",
+    "english": "Laos China Railways",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "South East Asia",
+    "country": "Laos",
     "year": "2021年",
     "description": "",
     "images": [
@@ -1731,7 +2437,11 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
+    "english": "Vietnam Airlines",
+    "IATA": "VN",
+    "ICAO": "HVN",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "2025年ごろ",
     "description": "",
     "images": [
@@ -1741,7 +2451,11 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
+    "english": "Vietnam Airlines",
+    "IATA": "VN",
+    "ICAO": "HVN",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1751,7 +2465,11 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
+    "english": "Vietnam Airlines",
+    "IATA": "VN",
+    "ICAO": "HVN",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1761,7 +2479,11 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
+    "english": "Vietnam Airlines",
+    "IATA": "VN",
+    "ICAO": "HVN",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "00年代後半〜10年代前半",
     "description": "",
     "images": [
@@ -1771,7 +2493,11 @@
   },
   {
     "airline": "ベトナム航空 🇻🇳",
+    "english": "Vietnam Airlines",
+    "IATA": "VN",
+    "ICAO": "HVN",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -1781,7 +2507,11 @@
   },
   {
     "airline": "ジェットスター・パシフィック 🇻🇳",
+    "english": "Jetstar Pacific",
+    "IATA": "BL",
+    "ICAO": "PIC",
     "region": "South East Asia",
+    "country": "Viet Nam",
     "year": "2008~2020年",
     "description": "",
     "images": [
@@ -1791,7 +2521,11 @@
   },
   {
     "airline": "ロイヤル・エア・カンボジ 🇰🇭",
+    "english": "Royal Air Cambodge",
+    "IATA": "VJ",
+    "ICAO": "RAC",
     "region": "South East Asia",
+    "country": "Cambodia",
     "year": "1996~2001年",
     "description": "",
     "images": [
@@ -1801,7 +2535,11 @@
   },
   {
     "airline": "カンボジア・アンコール航空 🇰🇭",
+    "english": "Cambodia Angkor Air",
+    "IATA": "K6",
+    "ICAO": "KHV",
     "region": "South East Asia",
+    "country": "Cambodia",
     "year": "2009年〜",
     "description": "",
     "images": [
@@ -1811,7 +2549,11 @@
   },
   {
     "airline": "JCインターナショナル・エアラインズ 🇰🇭",
+    "english": "JC International Airlines",
+    "IATA": "QD",
+    "ICAO": "JCC",
     "region": "South East Asia",
+    "country": "Cambodia",
     "year": "2017~2023年",
     "description": "",
     "images": [
@@ -1821,7 +2563,11 @@
   },
   {
     "airline": "カンボジア・エアウェイズ 🇰🇭",
+    "english": "Cambodia Airways",
+    "IATA": "KR",
+    "ICAO": "KME",
     "region": "South East Asia",
+    "country": "Cambodia",
     "year": "2018年〜",
     "description": "",
     "images": [
@@ -1831,7 +2577,11 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
+    "english": "Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1841,7 +2591,11 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
+    "english": "Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2015年ごろ",
     "description": "",
     "images": [
@@ -1851,7 +2605,11 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
+    "english": "Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1861,7 +2619,11 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
+    "english": "Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -1871,7 +2633,11 @@
   },
   {
     "airline": "マレーシア航空 🇲🇾",
+    "english": "Malaysia Airlines",
+    "IATA": "MH",
+    "ICAO": "MAS",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -1881,7 +2647,11 @@
   },
   {
     "airline": "エアアジア 🇲🇾",
+    "english": "Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1891,7 +2661,11 @@
   },
   {
     "airline": "エアアジア 🇲🇾",
+    "english": "Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -1901,7 +2675,11 @@
   },
   {
     "airline": "バティックエア・マレーシア 🇲🇾",
+    "english": "Batic Air Malaysia",
+    "IATA": "OD",
+    "ICAO": "MXD",
     "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2026年",
     "description": "",
     "images": [
@@ -1911,7 +2689,11 @@
   },
   {
     "airline": "シンガポール航空 🇸🇬",
+    "english": "Singapore Airlines",
+    "IATA": "SQ",
+    "ICAO": "SIA",
     "region": "South East Asia",
+    "country": "Singapore",
     "year": "2010年代後半ー",
     "description": "",
     "images": [
@@ -1921,7 +2703,11 @@
   },
   {
     "airline": "シンガポール航空 🇸🇬",
+    "english": "Singapore Airlines",
+    "IATA": "SQ",
+    "ICAO": "SIA",
     "region": "South East Asia",
+    "country": "Singapore",
     "year": "1990年代後半-2010年代前半",
     "description": "",
     "images": [
@@ -1931,7 +2717,11 @@
   },
   {
     "airline": "スクート 🇸🇬",
+    "english": "Scoot",
+    "IATA": "TR",
+    "ICAO": "TGW",
     "region": "South East Asia",
+    "country": "Singapore",
     "year": "2025年",
     "description": "",
     "images": [
@@ -1941,7 +2731,11 @@
   },
   {
     "airline": "シルクエア 🇸🇬",
+    "english": "Silk Air",
+    "IATA": "MI",
+    "ICAO": "SLK",
     "region": "South East Asia",
+    "country": "Singapore",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -1951,7 +2745,11 @@
   },
   {
     "airline": "シルクエア 🇸🇬",
+    "english": "Silk Air",
+    "IATA": "MI",
+    "ICAO": "SLK",
     "region": "South East Asia",
+    "country": "Singapore",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1961,7 +2759,11 @@
   },
   {
     "airline": "ロイヤル・ブルネイ航空 🇧🇳",
+    "english": "Royal Brunei Airlines",
+    "IATA": "BI",
+    "ICAO": "RBA",
     "region": "South East Asia",
+    "country": "Brunei",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -1971,7 +2773,11 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
+    "english": "Thai Airways International",
+    "IATA": "TG",
+    "ICAO": "THA",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "2024年",
     "description": "",
     "images": [
@@ -1981,7 +2787,11 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
+    "english": "Thai Airways International",
+    "IATA": "TG",
+    "ICAO": "THA",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "2022年",
     "description": "",
     "images": [
@@ -1991,7 +2801,11 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
+    "english": "Thai Airways International",
+    "IATA": "TG",
+    "ICAO": "THA",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "00年代後半~10年代前半",
     "description": "",
     "images": [
@@ -2001,7 +2815,11 @@
   },
   {
     "airline": "タイ国際航空 🇹🇭",
+    "english": "Thai Airways International",
+    "IATA": "TG",
+    "ICAO": "THA",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2011,7 +2829,11 @@
   },
   {
     "airline": "バンコクエアウェイズ 🇹🇭",
+    "english": "Bangkok Airways",
+    "IATA": "PG",
+    "ICAO": "BKP",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2021,7 +2843,11 @@
   },
   {
     "airline": "バンコクエアウェイズ 🇹🇭",
+    "english": "Bangkok Airways",
+    "IATA": "PG",
+    "ICAO": "BKP",
     "region": "South East Asia",
+    "country": "Thailand",
     "year": "2000年代中頃",
     "description": "",
     "images": [
@@ -2031,7 +2857,11 @@
   },
   {
     "airline": "ガルーダインドネシア航空 🇮🇩",
+    "english": "Garuda Indonesia",
+    "IATA": "GA",
+    "ICAO": "GIA",
     "region": "South East Asia",
+    "country": "Indonesia",
     "year": "2014年〜",
     "description": "スカイチームロゴ入り",
     "images": [
@@ -2041,7 +2871,11 @@
   },
   {
     "airline": "ガルーダインドネシア航空 🇮🇩",
+    "english": "Garuda Indonesia",
+    "IATA": "GA",
+    "ICAO": "GIA",
     "region": "South East Asia",
+    "country": "Indonesia",
     "year": "00年代後半~2014年",
     "description": "",
     "images": [
@@ -2051,7 +2885,11 @@
   },
   {
     "airline": "ミャンマー国際航空 🇲🇲",
+    "english": "Myanmar Airways International",
+    "IATA": "8M",
+    "ICAO": "MMA",
     "region": "South East Asia",
+    "country": "Myanmar",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2061,7 +2899,11 @@
   },
   {
     "airline": "エア・インディア 🇮🇳",
+    "english": "Air India",
+    "IATA": "AI",
+    "ICAO": "AIC",
     "region": "South Asia",
+    "country": "India",
     "year": "2010年代~",
     "description": "",
     "images": [
@@ -2071,7 +2913,11 @@
   },
   {
     "airline": "エア・インディア 🇮🇳",
+    "english": "Air India",
+    "IATA": "AI",
+    "ICAO": "AIC",
     "region": "South Asia",
+    "country": "India",
     "year": "2010年代~",
     "description": "スタアラロゴ入り",
     "images": [
@@ -2081,7 +2927,11 @@
   },
   {
     "airline": "インディゴ 🇮🇳",
+    "english": "IndiGO",
+    "IATA": "6E",
+    "ICAO": "IGO",
     "region": "South Asia",
+    "country": "India",
     "year": "2006年〜",
     "description": "",
     "images": [
@@ -2091,7 +2941,11 @@
   },
   {
     "airline": "ジェットエアウェイズ 🇮🇳",
+    "english": "Jet Airways",
+    "IATA": "9W",
+    "ICAO": "JAI",
     "region": "South Asia",
+    "country": "India",
     "year": "00年代後半~2019年",
     "description": "",
     "images": [
@@ -2101,7 +2955,11 @@
   },
   {
     "airline": "ドゥルクエア 🇧🇹",
+    "english": "Drukair",
+    "IATA": "KB",
+    "ICAO": "DRK",
     "region": "South Asia",
+    "country": "Bhutan",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2111,7 +2969,11 @@
   },
   {
     "airline": "ドゥルクエア 🇧🇹",
+    "english": "Drukair",
+    "IATA": "KB",
+    "ICAO": "DRK",
     "region": "South Asia",
+    "country": "Bhutan",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2121,7 +2983,11 @@
   },
   {
     "airline": "ブータン・エアラインズ 🇧🇹",
+    "english": "Bhutan Airlines",
+    "IATA": "B3",
+    "ICAO": "BTN",
     "region": "South Asia",
+    "country": "Bhutan",
     "year": "2011年〜",
     "description": "",
     "images": [
@@ -2131,7 +2997,11 @@
   },
   {
     "airline": "アグニ・エア 🇳🇵",
+    "english": "Agni Air",
+    "IATA": "AG",
+    "ICAO": "-",
     "region": "South Asia",
+    "country": "Nepal",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2141,7 +3011,11 @@
   },
   {
     "airline": "ブッダ・エア 🇳🇵",
+    "english": "Buddha Air",
+    "IATA": "U4",
+    "ICAO": "BHA",
     "region": "South Asia",
+    "country": "Nepal",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -2151,7 +3025,11 @@
   },
   {
     "airline": "コスミック・エア 🇳🇵",
+    "english": "Cosmic Air",
+    "IATA": "F5",
+    "ICAO": "COZ",
     "region": "South Asia",
+    "country": "Nepal",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2161,7 +3039,11 @@
   },
   {
     "airline": "スリランカ航空 🇱🇰",
+    "english": "SriLankan Airlines",
+    "IATA": "UL",
+    "ICAO": "ALK",
     "region": "South Asia",
+    "country": "Sri Lanka",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -2171,7 +3053,11 @@
   },
   {
     "airline": "カタール航空 🇶🇦",
+    "english": "Qatar Airways",
+    "IATA": "QR",
+    "ICAO": "QTR",
     "region": "Middle East",
+    "country": "Qatar",
     "year": "2018年〜",
     "description": "",
     "images": [
@@ -2181,7 +3067,11 @@
   },
   {
     "airline": "カタール航空 🇶🇦",
+    "english": "Qatar Airways",
+    "IATA": "QR",
+    "ICAO": "QTR",
     "region": "Middle East",
+    "country": "Qatar",
     "year": "2011~17年",
     "description": "",
     "images": [
@@ -2191,7 +3081,11 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
+    "english": "Emirates",
+    "IATA": "EK",
+    "ICAO": "UAE",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2201,7 +3095,11 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
+    "english": "Emirates",
+    "IATA": "EK",
+    "ICAO": "UAE",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2010年代中頃",
     "description": "",
     "images": [
@@ -2211,7 +3109,11 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
+    "english": "Emirates",
+    "IATA": "EK",
+    "ICAO": "UAE",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -2221,7 +3123,11 @@
   },
   {
     "airline": "エミレーツ航空 🇦🇪",
+    "english": "Emirates",
+    "IATA": "EK",
+    "ICAO": "UAE",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2231,7 +3137,11 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
+    "english": "Eihad Airways",
+    "IATA": "EY",
+    "ICAO": "ETD",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2241,7 +3151,11 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
+    "english": "Eihad Airways",
+    "IATA": "EY",
+    "ICAO": "ETD",
     "region": "Middle East",
+    "country": "UAE",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -2251,7 +3165,11 @@
   },
   {
     "airline": "サウディア 🇸🇦",
+    "english": "Saudia",
+    "IATA": "SV",
+    "ICAO": "SVA",
     "region": "Middle East",
+    "country": "Saudi Arabia",
     "year": "2010年代後半〜",
     "description": "",
     "images": [
@@ -2261,7 +3179,11 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
+    "english": "Turkish Airlines",
+    "IATA": "TK",
+    "ICAO": "THY",
     "region": "Middle East",
+    "country": "Turkiye",
     "year": "2026年",
     "description": "",
     "images": [
@@ -2271,7 +3193,11 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
+    "english": "Turkish Airlines",
+    "IATA": "TK",
+    "ICAO": "THY",
     "region": "Middle East",
+    "country": "Turkiye",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2281,7 +3207,11 @@
   },
   {
     "airline": "ターキッシュ・エアラインズ 🇹🇷",
+    "english": "Turkish Airlines",
+    "IATA": "TK",
+    "ICAO": "THY",
     "region": "Middle East",
+    "country": "Turkiye",
     "year": "2010年代前半〜中頃",
     "description": "",
     "images": [
@@ -2291,7 +3221,11 @@
   },
   {
     "airline": "エジプト航空 🇪🇬",
+    "english": "Egyptair",
+    "IATA": "MS",
+    "ICAO": "MSR",
     "region": "Africa",
+    "country": "Egypt",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2301,7 +3235,11 @@
   },
   {
     "airline": "エジプト航空 🇪🇬",
+    "english": "Egyptair",
+    "IATA": "MS",
+    "ICAO": "MSR",
     "region": "Africa",
+    "country": "Egypt",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2311,7 +3249,11 @@
   },
   {
     "airline": "ロイヤル・エア・モロッコ 🇲🇦",
+    "english": "Royal Air Maroc",
+    "IATA": "AT",
+    "ICAO": "RAM",
     "region": "Africa",
+    "country": "Morocco",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2321,7 +3263,11 @@
   },
   {
     "airline": "ケニア航空 🇰🇪",
+    "english": "Kenya Airways",
+    "IATA": "KQ",
+    "ICAO": "KQA",
     "region": "Africa",
+    "country": "Kenya",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2331,7 +3277,11 @@
   },
   {
     "airline": "エチオピア航空 🇪🇹",
+    "english": "Ethiopian Airlines",
+    "IATA": "ET",
+    "ICAO": "ETH",
     "region": "Africa",
+    "country": "Ethiopia",
     "year": "2010年代〜",
     "description": "",
     "images": [
@@ -2341,7 +3291,11 @@
   },
   {
     "airline": "ASKY航空 🇹🇬",
+    "english": "Asky Airlines",
+    "IATA": "KP",
+    "ICAO": "SKK",
     "region": "Africa",
+    "country": "Togo",
     "year": "2020年ごろ？",
     "description": "",
     "images": [
@@ -2351,7 +3305,11 @@
   },
   {
     "airline": "マダガスカル航空 🇲🇬",
+    "english": "Madagascar Airlines",
+    "IATA": "MD",
+    "ICAO": "MDG",
     "region": "Africa",
+    "country": "Madagascar",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2361,7 +3319,11 @@
   },
   {
     "airline": "南アフリカ航空 🇿🇦",
+    "english": "South Africa Airways",
+    "IATA": "SA",
+    "ICAO": "SAA",
     "region": "Africa",
+    "country": "South Africa",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2371,7 +3333,11 @@
   },
   {
     "airline": "エア・タヒチ・ヌイ 🇵🇫",
+    "english": "Air Tahiti Nui",
+    "IATA": "TN",
+    "ICAO": "THT",
     "region": "Oceania",
+    "country": "French Polynesia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2381,7 +3347,11 @@
   },
   {
     "airline": "エア・パシフィック 🇫🇯",
+    "english": "Air Pacific",
+    "IATA": "FJ",
+    "ICAO": "FJI",
     "region": "Oceania",
+    "country": "Fiji",
     "year": "00年代後半〜2013年",
     "description": "",
     "images": [
@@ -2391,7 +3361,11 @@
   },
   {
     "airline": "ニュージーランド航空 🇳🇿",
+    "english": "Air New Zealand",
+    "IATA": "NZ",
+    "ICAO": "ANZ",
     "region": "Oceania",
+    "country": "New Zealand",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2401,7 +3375,11 @@
   },
   {
     "airline": "ニューギニア航空 🇵🇬",
+    "english": "Air Niugini",
+    "IATA": "PX",
+    "ICAO": "ANG",
     "region": "Oceania",
+    "country": "Papua New Guinea",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2411,7 +3389,11 @@
   },
   {
     "airline": "カンタス航空 🇦🇺",
+    "english": "Qantas",
+    "IATA": "QF",
+    "ICAO": "QFA",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -2421,7 +3403,11 @@
   },
   {
     "airline": "カンタス航空 🇦🇺",
+    "english": "Qantas",
+    "IATA": "QF",
+    "ICAO": "QFA",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2431,7 +3417,11 @@
   },
   {
     "airline": "カンタス航空 🇦🇺",
+    "english": "Qantas",
+    "IATA": "QF",
+    "ICAO": "QFA",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -2441,7 +3431,11 @@
   },
   {
     "airline": "カンタス航空 🇦🇺",
+    "english": "Qantas",
+    "IATA": "QF",
+    "ICAO": "QFA",
     "region": "Oceania",
+    "country": "Australia",
     "year": "1990年代後半",
     "description": "",
     "images": [
@@ -2451,7 +3445,11 @@
   },
   {
     "airline": "ジェットスター航空 🇦🇺",
+    "english": "Jetstar",
+    "IATA": "JQ",
+    "ICAO": "JST",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -2461,7 +3459,11 @@
   },
   {
     "airline": "ジェットスター航空 🇦🇺",
+    "english": "Jetstar",
+    "IATA": "JQ",
+    "ICAO": "JST",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2471,7 +3473,11 @@
   },
   {
     "airline": "ジェットスター航空 🇦🇺",
+    "english": "Jetstar",
+    "IATA": "JQ",
+    "ICAO": "JST",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2010年代中頃",
     "description": "",
     "images": [
@@ -2481,7 +3487,11 @@
   },
   {
     "airline": "ジェットスター航空 🇦🇺",
+    "english": "Jetstar",
+    "IATA": "JQ",
+    "ICAO": "JST",
     "region": "Oceania",
+    "country": "Australia",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2491,7 +3501,11 @@
   },
   {
     "airline": "フィンエアー 🇫🇮",
+    "english": "Finnair",
+    "IATA": "AY",
+    "ICAO": "FIN",
     "region": "Europe",
+    "country": "Finnland",
     "year": "2020年代中頃",
     "description": "",
     "images": [
@@ -2501,7 +3515,11 @@
   },
   {
     "airline": "フィンエアー 🇫🇮",
+    "english": "Finnair",
+    "IATA": "AY",
+    "ICAO": "FIN",
     "region": "Europe",
+    "country": "Finnland",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -2511,7 +3529,11 @@
   },
   {
     "airline": "フィンエアー 🇫🇮",
+    "english": "Finnair",
+    "IATA": "AY",
+    "ICAO": "FIN",
     "region": "Europe",
+    "country": "Finnland",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2521,7 +3543,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2026年",
     "description": "",
     "images": [
@@ -2531,7 +3557,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2020年代前半",
     "description": "",
     "images": [
@@ -2541,7 +3571,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Tokyo, London, etc...",
     "images": [
@@ -2551,7 +3585,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Dallas, Milan, etc...",
     "images": [
@@ -2561,7 +3599,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2010年代前半",
     "description": "Cairo, Seoul, etc...",
     "images": [
@@ -2571,7 +3613,11 @@
   },
   {
     "airline": "KLMオランダ航空 🇳🇱",
+    "english": "KLM",
+    "IATA": "KL",
+    "ICAO": "KLM",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2005年ごろ",
     "description": "",
     "images": [
@@ -2581,7 +3627,11 @@
   },
   {
     "airline": "トランサヴィア航空 🇳🇱",
+    "english": "Transavia",
+    "IATA": "HV",
+    "ICAO": "TRA",
     "region": "Europe",
+    "country": "Netherlands",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2591,7 +3641,11 @@
   },
   {
     "airline": "ルフトハンザドイツ航空 🇩🇪",
+    "english": "Lufthansa",
+    "IATA": "LH",
+    "ICAO": "DLH",
     "region": "Europe",
+    "country": "Germany",
     "year": "2026年",
     "description": "",
     "images": [
@@ -2601,7 +3655,11 @@
   },
   {
     "airline": "ルフトハンザドイツ航空 🇩🇪",
+    "english": "Lufthansa",
+    "IATA": "LH",
+    "ICAO": "DLH",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代",
     "description": "底開きあり",
     "images": [
@@ -2611,7 +3669,11 @@
   },
   {
     "airline": "ルフトハンザドイツ航空 🇩🇪",
+    "english": "Lufthansa",
+    "IATA": "LH",
+    "ICAO": "DLH",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代",
     "description": "底開きなし",
     "images": [
@@ -2621,7 +3683,11 @@
   },
   {
     "airline": "ルフトハンザドイツ航空 🇩🇪",
+    "english": "Lufthansa",
+    "IATA": "LH",
+    "ICAO": "DLH",
     "region": "Europe",
+    "country": "Germany",
     "year": "2000年代",
     "description": "",
     "images": [
@@ -2631,7 +3697,11 @@
   },
   {
     "airline": "ユーロウイングス 🇩🇪",
+    "english": "Eurowings",
+    "IATA": "EW",
+    "ICAO": "EWG",
     "region": "Europe",
+    "country": "Germany",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2641,7 +3711,11 @@
   },
   {
     "airline": "ユーロウイングス 🇩🇪",
+    "english": "Eurowings",
+    "IATA": "EW",
+    "ICAO": "EWG",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代",
     "description": "It's alright to think...",
     "images": [
@@ -2651,7 +3725,11 @@
   },
   {
     "airline": "ユーロウイングス 🇩🇪",
+    "english": "Eurowings",
+    "IATA": "EW",
+    "ICAO": "EWG",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代",
     "description": "Don't worry, we won't...",
     "images": [
@@ -2661,7 +3739,11 @@
   },
   {
     "airline": "ユーロウイングス 🇩🇪",
+    "english": "Eurowings",
+    "IATA": "EW",
+    "ICAO": "EWG",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代",
     "description": "Thanks for sharing",
     "images": [
@@ -2671,7 +3753,11 @@
   },
   {
     "airline": "エアベルリン 🇩🇪",
+    "english": "Air Berlin",
+    "IATA": "AB",
+    "ICAO": "BER",
     "region": "Europe",
+    "country": "Germany",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2681,7 +3767,11 @@
   },
   {
     "airline": "オーストリア航空 🇦🇹",
+    "english": "Austrian Airlines",
+    "IATA": "OS",
+    "ICAO": "AUA",
     "region": "Europe",
+    "country": "Austria",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2691,7 +3781,11 @@
   },
   {
     "airline": "オーストリア航空 🇦🇹",
+    "english": "Austrian Airlines",
+    "IATA": "OS",
+    "ICAO": "AUA",
     "region": "Europe",
+    "country": "Austria",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2701,7 +3795,11 @@
   },
   {
     "airline": "スイス・インターナショナル・エアラインズ 🇨🇭",
+    "english": "Swiss International Air Lines",
+    "IATA": "LX",
+    "ICAO": "SWR",
     "region": "Europe",
+    "country": "Swiss",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2711,7 +3809,11 @@
   },
   {
     "airline": "ITAエアウェイズ 🇮🇹",
+    "english": "ITA Airways",
+    "IATA": "AZ",
+    "ICAO": "ITY",
     "region": "Europe",
+    "country": "Italy",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2721,7 +3823,11 @@
   },
   {
     "airline": "アリタリア-イタリア航空 🇮🇹",
+    "english": "Alitalia",
+    "IATA": "AZ",
+    "ICAO": "AZA",
     "region": "Europe",
+    "country": "Italy",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2731,7 +3837,11 @@
   },
   {
     "airline": "アリタリア-イタリア航空 🇮🇹",
+    "english": "Alitalia",
+    "IATA": "AZ",
+    "ICAO": "AZA",
     "region": "Europe",
+    "country": "Italy",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2741,7 +3851,11 @@
   },
   {
     "airline": "エア・ドロミティ 🇮🇹",
+    "english": "Air Dolomiti",
+    "IATA": "EN",
+    "ICAO": "DLA",
     "region": "Europe",
+    "country": "Italy",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2751,7 +3865,11 @@
   },
   {
     "airline": "エア・ドロミティ 🇮🇹",
+    "english": "Air Dolomiti",
+    "IATA": "EN",
+    "ICAO": "DLA",
     "region": "Europe",
+    "country": "Italy",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2761,7 +3879,11 @@
   },
   {
     "airline": "ブリュッセル航空 🇧🇪",
+    "english": "Brussels Airlines",
+    "IATA": "SN",
+    "ICAO": "BEL",
     "region": "Europe",
+    "country": "Bergium",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2771,7 +3893,11 @@
   },
   {
     "airline": "エールフランス 🇫🇷",
+    "english": "Air France",
+    "IATA": "AF",
+    "ICAO": "AFR",
     "region": "Europe",
+    "country": "France",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2781,7 +3907,11 @@
   },
   {
     "airline": "エールフランス 🇫🇷",
+    "english": "Air France",
+    "IATA": "AF",
+    "ICAO": "AFR",
     "region": "Europe",
+    "country": "France",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2791,7 +3921,11 @@
   },
   {
     "airline": "ブリティッシュ・エアウェイズ 🇬🇧",
+    "english": "British Airways",
+    "IATA": "BA",
+    "ICAO": "BAW",
     "region": "Europe",
+    "country": "UK",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -2801,7 +3935,11 @@
   },
   {
     "airline": "ブリティッシュ・エアウェイズ / イベリア航空 🇬🇧🇪🇸",
+    "english": "British Airways / Iberia",
+    "IATA": "BA, IB",
+    "ICAO": "BAW, IBE",
     "region": "Europe",
+    "country": "UK / Spain",
     "year": "2011~2015年",
     "description": "",
     "images": [
@@ -2811,7 +3949,11 @@
   },
   {
     "airline": "インターナショナル・エアラインズ・グループ共通 🇬🇧🇪🇸",
+    "english": "International Airlines Group",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "Europe",
+    "country": "UK / Spain",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -2821,7 +3963,11 @@
   },
   {
     "airline": "ヴァージン・アトランティック航空 🇬🇧",
+    "english": "Virgin Atlantic",
+    "IATA": "VS",
+    "ICAO": "VIR",
     "region": "Europe",
+    "country": "UK",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2831,7 +3977,11 @@
   },
   {
     "airline": "ヴァージン・アトランティック航空 🇬🇧",
+    "english": "Virgin Atlantic",
+    "IATA": "VS",
+    "ICAO": "VIR",
     "region": "Europe",
+    "country": "UK",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2841,7 +3991,11 @@
   },
   {
     "airline": "イージージェット 🇬🇧",
+    "english": "easyJet",
+    "IATA": "U2",
+    "ICAO": "EZY",
     "region": "Europe",
+    "country": "UK",
     "year": "2020年代",
     "description": "",
     "images": [
@@ -2851,7 +4005,11 @@
   },
   {
     "airline": "イージージェット 🇬🇧",
+    "english": "easyJet",
+    "IATA": "U3",
+    "ICAO": "EZY",
     "region": "Europe",
+    "country": "UK",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -2861,7 +4019,11 @@
   },
   {
     "airline": "アイスランド航空 🇮🇸",
+    "english": "Icelandair",
+    "IATA": "FI",
+    "ICAO": "ICE",
     "region": "Europe",
+    "country": "Iceland",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -2871,7 +4033,11 @@
   },
   {
     "airline": "スカンジナビア航空 🇸🇪🇩🇰🇳🇴",
+    "english": "Scandinavian Airlines",
+    "IATA": "SK",
+    "ICAO": "SAS",
     "region": "Europe",
+    "country": "Sweden/Denmark/Norway",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2881,7 +4047,11 @@
   },
   {
     "airline": "スカンジナビア航空 🇸🇪🇩🇰🇳🇴",
+    "english": "Scandinavian Airlines",
+    "IATA": "SK",
+    "ICAO": "SAS",
     "region": "Europe",
+    "country": "Sweden/Denmark/Norway",
     "year": "2010年代前半",
     "description": "",
     "images": [
@@ -2891,7 +4061,11 @@
   },
   {
     "airline": "ヴィデロー航空 🇳🇴",
+    "english": "Wideroe",
+    "IATA": "WF",
+    "ICAO": "WIF",
     "region": "Europe",
+    "country": "Norway",
     "year": "2025年",
     "description": "",
     "images": [
@@ -2901,7 +4075,11 @@
   },
   {
     "airline": "イベリア航空 🇪🇸",
+    "english": "Iberia",
+    "IATA": "IB",
+    "ICAO": "IBE",
     "region": "Europe",
+    "country": "Spain",
     "year": "2024年",
     "description": "ロゴ入り/開口下",
     "images": [
@@ -2911,7 +4089,11 @@
   },
   {
     "airline": "イベリア航空 🇪🇸",
+    "english": "Iberia",
+    "IATA": "IB",
+    "ICAO": "IBE",
     "region": "Europe",
+    "country": "Spain",
     "year": "2024年",
     "description": "無地",
     "images": [
@@ -2921,7 +4103,11 @@
   },
   {
     "airline": "ブエリング航空 🇪🇸",
+    "english": "Vueling",
+    "IATA": "VY",
+    "ICAO": "VLG",
     "region": "Europe",
+    "country": "Spain",
     "year": "2020年代",
     "description": "2025 net zero/開口下",
     "images": [
@@ -2931,7 +4117,11 @@
   },
   {
     "airline": "ブエリング航空 🇪🇸",
+    "english": "Vueling",
+    "IATA": "VY",
+    "ICAO": "VLG",
     "region": "Europe",
+    "country": "Spain",
     "year": "2020年代",
     "description": "開口下",
     "images": [
@@ -2941,7 +4131,11 @@
   },
   {
     "airline": "TAPポルトガル航空 🇵🇹",
+    "english": "TAP Air Portugal",
+    "IATA": "TP",
+    "ICAO": "TAP",
     "region": "Europe",
+    "country": "Portugal",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2951,7 +4145,11 @@
   },
   {
     "airline": "TAPポルトガル航空 🇵🇹",
+    "english": "TAP Air Portugal",
+    "IATA": "TP",
+    "ICAO": "TAP",
     "region": "Europe",
+    "country": "Portugal",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -2961,7 +4159,11 @@
   },
   {
     "airline": "エーゲ航空 🇬🇷",
+    "english": "Aegean Airlines",
+    "IATA": "A3",
+    "ICAO": "AEE",
     "region": "Europe",
+    "country": "Greece",
     "year": "2026年",
     "description": "",
     "images": [
@@ -2971,7 +4173,11 @@
   },
   {
     "airline": "SKYエクスプレス 🇬🇷",
+    "english": "Sky Express",
+    "IATA": "GQ",
+    "ICAO": "SEH",
     "region": "Europe",
+    "country": "Greece",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2981,7 +4187,11 @@
   },
   {
     "airline": "LOTポーランド航空 🇵🇱",
+    "english": "LOT Polish Airlines",
+    "IATA": "LO",
+    "ICAO": "LOT",
     "region": "Europe",
+    "country": "Poland",
     "year": "2024年",
     "description": "",
     "images": [
@@ -2991,7 +4201,11 @@
   },
   {
     "airline": "アエロフロート・ロシア航空 🇷🇺",
+    "english": "Aeroflot",
+    "IATA": "SU",
+    "ICAO": "AFL",
     "region": "Europe",
+    "country": "Russia",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -3001,7 +4215,11 @@
   },
   {
     "airline": "アエロフロート・ロシア航空 🇷🇺",
+    "english": "Aeroflot",
+    "IATA": "SU",
+    "ICAO": "AFL",
     "region": "Europe",
+    "country": "Russia",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -3011,7 +4229,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代後半~",
     "description": "紙製/マチなし",
     "images": [
@@ -3021,7 +4243,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代後半",
     "description": "紙製/マチあり",
     "images": [
@@ -3031,7 +4257,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代後半",
     "description": "プラスチック製",
     "images": [
@@ -3041,7 +4271,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "裏面細字",
     "images": [
@@ -3051,7 +4285,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "裏面太字",
     "images": [
@@ -3061,7 +4299,11 @@
   },
   {
     "airline": "デルタ航空 🇺🇸",
+    "english": "Delta Air Lines",
+    "IATA": "DL",
+    "ICAO": "DAL",
     "region": "North America",
+    "country": "USA",
     "year": "00年代後半~10年代前半",
     "description": "LKロゴあり",
     "images": [
@@ -3071,7 +4313,11 @@
   },
   {
     "airline": "ノースウエスト航空 🇺🇸",
+    "english": "Northwest Airlines",
+    "IATA": "NW",
+    "ICAO": "NWA",
     "region": "North America",
+    "country": "USA",
     "year": "00年代〜2009年",
     "description": "",
     "images": [
@@ -3081,7 +4327,11 @@
   },
   {
     "airline": "アメリカン航空 🇺🇸",
+    "english": "American Airlines",
+    "IATA": "AA",
+    "ICAO": "AAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -3091,7 +4341,11 @@
   },
   {
     "airline": "ユナイテッド航空 🇺🇸",
+    "english": "United Airlines",
+    "IATA": "UA",
+    "ICAO": "UAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代〜",
     "description": "",
     "images": [
@@ -3101,7 +4355,11 @@
   },
   {
     "airline": "コンチネンタル航空 🇺🇸",
+    "english": "Continental Airlines",
+    "IATA": "CO",
+    "ICAO": "COA",
     "region": "North America",
+    "country": "USA",
     "year": "90年代〜00年代",
     "description": "",
     "images": [
@@ -3111,7 +4369,11 @@
   },
   {
     "airline": "ハワイアン航空 🇺🇸",
+    "english": "Hawaiian Airlines",
+    "IATA": "HA",
+    "ICAO": "HAL",
     "region": "North America",
+    "country": "USA",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -3121,7 +4383,11 @@
   },
   {
     "airline": "不明 / アメリカ 🇺🇸",
+    "english": "Unknown / America",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "North America",
+    "country": "USA",
     "year": "",
     "description": "",
     "images": [
@@ -3131,7 +4397,11 @@
   },
   {
     "airline": "不明 / アメリカ 🇺🇸",
+    "english": "Unknown / America",
+    "IATA": "-",
+    "ICAO": "-",
     "region": "North America",
+    "country": "USA",
     "year": "",
     "description": "",
     "images": [
@@ -3141,7 +4411,11 @@
   },
   {
     "airline": "エアカナダ 🇨🇦",
+    "english": "Air Canada",
+    "IATA": "AC",
+    "ICAO": "ACA",
     "region": "North America",
+    "country": "Canada",
     "year": "2026年",
     "description": "",
     "images": [
@@ -3151,7 +4425,11 @@
   },
   {
     "airline": "エアカナダ 🇨🇦",
+    "english": "Air Canada",
+    "IATA": "AC",
+    "ICAO": "ACA",
     "region": "North America",
+    "country": "Canada",
     "year": "2010年代",
     "description": "",
     "images": [
@@ -3161,7 +4439,11 @@
   },
   {
     "airline": "アエロメヒコ航空 🇲🇽",
+    "english": "Aeromexico",
+    "IATA": "AM",
+    "ICAO": "AMX",
     "region": "North America",
+    "country": "Mexico",
     "year": "2010年代中頃",
     "description": "",
     "images": [
@@ -3171,7 +4453,11 @@
   },
   {
     "airline": "アエロメヒコ航空 🇲🇽",
+    "english": "Aeromexico",
+    "IATA": "AM",
+    "ICAO": "AMX",
     "region": "North America",
+    "country": "Mexico",
     "year": "2000年代後半",
     "description": "",
     "images": [
@@ -3181,7 +4467,11 @@
   },
   {
     "airline": "コパ航空 🇵🇦",
+    "english": "Copa Airlines",
+    "IATA": "CM",
+    "ICAO": "CMP",
     "region": "North America",
+    "country": "Panama",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -3191,7 +4481,11 @@
   },
   {
     "airline": "コパ航空 🇵🇦",
+    "english": "Copa Airlines",
+    "IATA": "CM",
+    "ICAO": "CMP",
     "region": "North America",
+    "country": "Panama",
     "year": "2010年ごろ",
     "description": "",
     "images": [
@@ -3201,7 +4495,11 @@
   },
   {
     "airline": "LATAM航空 🇨🇱",
+    "english": "LATAM Airlines",
+    "IATA": "LA",
+    "ICAO": "LAN",
     "region": "South America",
+    "country": "Chile",
     "year": "2010年代後半",
     "description": "",
     "images": [
@@ -3211,7 +4509,11 @@
   },
   {
     "airline": "TAM航空 🇧🇷",
+    "english": "TAM Linhas Aereas",
+    "IATA": "JJ",
+    "ICAO": "TAM",
     "region": "South America",
+    "country": "Brazil",
     "year": "2000年代前半",
     "description": "",
     "images": [
@@ -3221,7 +4523,11 @@
   },
   {
     "airline": "GOL航空 🇧🇷",
+    "english": "GOL Linhas Aereas",
+    "IATA": "G3",
+    "ICAO": "GLO",
     "region": "South America",
+    "country": "Brazil",
     "year": "2020年代前半",
     "description": "",
     "images": [
