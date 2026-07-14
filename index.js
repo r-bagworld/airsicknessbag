@@ -12,7 +12,7 @@ function renderNewBags() {
   if (!container) return;
 
   const newBags = bags
-    .filter(bag => bag.new === TRUE)
+    .filter(bag => bag.new === true)
     .slice(0, 4);
 
   container.innerHTML = newBags.map(bag => `
