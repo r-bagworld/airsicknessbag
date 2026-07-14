@@ -16,19 +16,29 @@ function renderNewBags() {
     .slice(0, 4);
 
   container.innerHTML = newBags.map(bag => `
-    <div class="bg-white rounded-xl shadow p-3">
-      <img src="${bag.images[0]}"
-           class="w-full"
-           alt="${bag.airline}"
-           loading="lazy">
+    <div class="bg-white rounded-xl shadow-md p-3 max-w-[190px] w-full mx-auto hover:shadow-lg transition">
 
-      <div class="mt-3 text-left">
-        <h3 class="font-semibold">${bag.airline}</h3>
-        <p class="text-sm text-gray-500">
+      <img
+        src="${bag.images[0]}"
+        alt="${bag.airline}"
+        class="w-full h-56 object-contain"
+        loading="lazy"
+      >
+
+      <div class="mt-2 text-left">
+        <h3 class="font-semibold text-sm leading-tight">
+          ${bag.airline}
+        </h3>
+
+        <p class="text-xs text-gray-500">
           ${bag.english} (${bag.IATA}/${bag.ICAO})
         </p>
-        <p class="text-sm text-gray-500">${bag.year}</p>
+
+        <p class="text-xs text-gray-500">
+          ${bag.year}
+        </p>
       </div>
+
     </div>
   `).join("");
 }
