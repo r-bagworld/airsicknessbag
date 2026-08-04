@@ -953,7 +953,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "海豚",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260515_0001.jpg",
       "images/IMG_20260515_0002.jpg"
@@ -1722,6 +1722,21 @@
     "images": [
       "images/IMG_20260316_0063.jpg",
       "images/IMG_20260316_0064.jpg"
+    ]
+  },
+  {
+    "airline": "春秋航空 🇨🇳",
+    "english": "Spring Airlines",
+    "IATA": "9C",
+    "ICAO": "CQH",
+    "region": "China",
+    "country": "China",
+    "year": "2026年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260804_0001.jpg",
+      "images/IMG_20260804_0002.jpg"
     ]
   },
   {
