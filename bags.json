@@ -968,7 +968,7 @@
     "country": "Japan",
     "year": "2026年",
     "description": "刺身",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260515_0003.jpg",
       "images/IMG_20260515_0004.jpg"
@@ -2436,6 +2436,21 @@
     "ICAO": "ABL",
     "region": "East Asia",
     "country": "Korea",
+    "year": "2026年",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20260811_0003.jpg",
+      "images/IMG_20260811_004.jpgg"
+    ]
+  },
+  {
+    "airline": "エアプサン 🇰🇷",
+    "english": "Air Busan",
+    "IATA": "BX",
+    "ICAO": "ABL",
+    "region": "East Asia",
+    "country": "Korea",
     "year": "2007年〜",
     "description": "",
     "new": false,
@@ -2453,7 +2468,7 @@
     "country": "Korea",
     "year": "2016年〜",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260714_0001.jpg",
       "images/IMG_20260714_0002.jpg"
@@ -2502,6 +2517,21 @@
     "images": [
       "images/IMG_20260312_0115.jpg",
       "images/IMG_20260312_0116.jpg"
+    ]
+  },
+  {
+    "airline": "イースター航空 🇰🇷",
+    "english": "Easter Jet",
+    "IATA": "ZE",
+    "ICAO": "ESR",
+    "region": "East Asia",
+    "country": "Korea",
+    "year": "2026年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260811_0005.jpg",
+      "images/IMG_20260811_006.jpgg"
     ]
   },
   {
@@ -3051,6 +3081,21 @@
     "ICAO": "BKP",
     "region": "South East Asia",
     "country": "Thailand",
+    "year": "2026年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260811_0007.jpg",
+      "images/IMG_20260811_008.jpgg"
+    ]
+  },
+  {
+    "airline": "バンコクエアウェイズ 🇹🇭",
+    "english": "Bangkok Airways",
+    "IATA": "PG",
+    "ICAO": "BKP",
+    "region": "South East Asia",
+    "country": "Thailand",
     "year": "2010年代",
     "description": "",
     "new": false,
@@ -3585,6 +3630,21 @@
     ]
   },
   {
+    "airline": "エール・オーストラル 🇷🇪",
+    "english": "Air Austral",
+    "IATA": "UU",
+    "ICAO": "REU",
+    "region": "Africa",
+    "country": "Réunion",
+    "year": "2026年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260811_0001.jpg",
+      "images/IMG_20260811_0002.jpg"
+    ]
+  },
+  {
     "airline": "エア・タヒチ・ヌイ 🇵🇫",
     "english": "Air Tahiti Nui",
     "IATA": "TN",
@@ -3923,7 +3983,7 @@
     "country": "Germany",
     "year": "2026年",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260515_0005.jpg",
       "images/IMG_20260515_0006.jpg"
