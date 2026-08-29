@@ -1733,7 +1733,7 @@
     "country": "China",
     "year": "2026年",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260804_0001.jpg",
       "images/IMG_20260804_0002.jpg"
@@ -3421,7 +3421,22 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
-    "english": "Eihad Airways",
+    "english": "Etihad Airways",
+    "IATA": "EY",
+    "ICAO": "ETD",
+    "region": "Middle East",
+    "country": "UAE",
+    "year": "2024年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260829_0001.jpg",
+      "images/IMG_20260829_0002.jpg"
+    ]
+  },
+  {
+    "airline": "エティハド航空 🇦🇪",
+    "english": "Etihad Airways",
     "IATA": "EY",
     "ICAO": "ETD",
     "region": "Middle East",
@@ -3436,7 +3451,7 @@
   },
   {
     "airline": "エティハド航空 🇦🇪",
-    "english": "Eihad Airways",
+    "english": "Etihad Airways",
     "IATA": "EY",
     "ICAO": "ETD",
     "region": "Middle East",
@@ -4932,6 +4947,21 @@
     "images": [
       "images/IMG_20260329_0005.jpg",
       "images/IMG_20260329_0006.jpg"
+    ]
+  },
+  {
+    "airline": "ガラパゴス諸島の船 🇪🇨",
+    "english": "Ferry of Galápagos Islands",
+    "IATA": "-",
+    "ICAO": "-",
+    "region": "South America",
+    "country": "Ecuador",
+    "year": "2025年",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20260829_0003.jpg",
+      "images/IMG_20260829_0004.jpg"
     ]
   }
 ]
