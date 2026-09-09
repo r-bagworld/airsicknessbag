@@ -2886,12 +2886,57 @@
     "ICAO": "AXM",
     "region": "South East Asia",
     "country": "Malaysia",
+    "year": "2020年代半ば",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20260909_0001.jpg",
+      "images/IMG_20260909_0002.jpg"
+    ]
+  },
+  {
+    "airline": "エアアジア 🇲🇾",
+    "english": "Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
+    "region": "South East Asia",
+    "country": "Malaysia",
     "year": "2024年",
     "description": "",
     "new": false,
     "images": [
       "images/IMG_20260320_0039.jpg",
       "images/IMG_20260320_0040.jpg"
+    ]
+  },
+  {
+    "airline": "エアアジア 🇲🇾",
+    "english": "Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
+    "region": "South East Asia",
+    "country": "Malaysia",
+    "year": "2010年代後半?",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20260909_0003.jpg",
+      "images/IMG_20260909_0004.jpg"
+    ]
+  },
+  {
+    "airline": "エアアジア 🇲🇾",
+    "english": "Air Asia",
+    "IATA": "AK",
+    "ICAO": "AXM",
+    "region": "South East Asia",
+    "country": "Malaysia",
+    "year": "2010年代半ば?",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20260909_0005.jpg",
+      "images/IMG_20260909_0006.jpg"
     ]
   },
   {
@@ -3083,7 +3128,7 @@
     "country": "Thailand",
     "year": "2026年",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260811_0007.jpg",
       "images/IMG_20260811_0008.jpg"
