@@ -2475,6 +2475,21 @@
     ]
   },
   {
+    "airline": "トリニティ航空 🇰🇷",
+    "english": "Trinity Airways",
+    "IATA": "TW",
+    "ICAO": "TWB",
+    "region": "East Asia",
+    "country": "Korea",
+    "year": "2026年",
+    "description": "",
+    "new": true,
+    "images": [
+      "images/IMG_20261023_0001.jpg",
+      "images/IMG_20261023_0002.jpg"
+    ]
+  },
+  {
     "airline": "ティーウェイ航空 🇰🇷",
     "english": "T'way Air",
     "IATA": "TW",
@@ -2528,7 +2543,7 @@
     "country": "Korea",
     "year": "2026年",
     "description": "",
-    "new": true,
+    "new": false,
     "images": [
       "images/IMG_20260811_0005.jpg",
       "images/IMG_20260811_0006.jpg"
