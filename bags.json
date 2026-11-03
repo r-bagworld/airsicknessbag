@@ -2760,6 +2760,36 @@
     ]
   },
   {
+    "airline": "サン・フーコック航空 🇻🇳",
+    "english": "Sun PhuQuoc Airways",
+    "IATA": "9G",
+    "ICAO": "SPQ",
+    "region": "South East Asia",
+    "country": "Viet Nam",
+    "year": "2026年",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20261103_0001.jpg",
+      "images/IMG_20261103_0002.jpg"
+    ]
+  },
+  {
+    "airline": "ホントム・ケーブルカー 🇻🇳",
+    "english": "Hon Thom Cable Car",
+    "IATA": "-",
+    "ICAO": "-",
+    "region": "South East Asia",
+    "country": "Viet Nam",
+    "year": "2026年",
+    "description": "",
+    "new": false,
+    "images": [
+      "images/IMG_20261103_0003.jpg",
+      "images/IMG_20261103_0004.jpg"
+    ]
+  },
+  {
     "airline": "ロイヤル・エア・カンボジ 🇰🇭",
     "english": "Royal Air Cambodge",
     "IATA": "VJ",
