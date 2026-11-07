@@ -50,13 +50,3 @@
   object-fit: contain;
   border-radius: 0rem;
 }
-
-/* 最初は下線を消しておく */
-a {
-  text-decoration: none;
-}
-
-/* マウスをのせたときに下線を表示する */
-a:hover {
-  text-decoration: underline;
-}
